@@ -16,27 +16,27 @@
 Tokemak is a decentralized investment protocol which is run by a DAO, allowing anyone to manage DAO investments via liquidity directing. With Tokemak, users can utilize TOKE and direct Tokemak’s liquidity to bootstrap DeFi projects and earn yield for the protocol.
 
 ## M31's Investment Thesis
-**- Tokemak is at the intersection of Web3 and DeFi**
+**- Intersection of Web3 & DeFi**
 
 In 2020, we saw the emergence of Decentralized Finance which saw the bootstrapping of a number of protocols that offer traditional (and new primitive) financial services using smart contracts. In 2021, we saw the emergence of DAO’s as the key stakeholderin Web3 organizations. Tokemak fits perfectly into the intersection between DeFi and Web3 in the sense that it is a decentralized investments protocol, run by a DAO that effectively becomes the liquidity layer in DeFi allowing participants to manage assets from the protocol do earn the highest yields via liquidity deployments across the DeFi ecosystem. TOKE holders form a decentralized team of asset managers. 
 
-**- Tokemak is a Solution to a Critical Problem in DeFi –with an Enormous TAM, Providing Steep Asymmetric Upside.**
+**- Solution to a Critical Problem in DeFi with an Enormous TAM, Providing Steep Asymmetric Upside**
 
 The problem of bootstrapping liquidity in DeFi is real. While yield farming did help launch a lot of the most successful DeFi protocols we use today, it also rendered a lot of them weaker –since high inflationary token emissions diluted project health, and their liquidity was at the mercy of yield farmers, who would pull their liquidityonce incentives were no longer attractive. This posed a real problem that would impact the growth and sustenance of DeFi protocols goingforward. Tokemak offers liquidity as a service allowing protocols to move away from older methods of attracting liquidity. This is a real solution to a real growing problem, which if plays out like we think will offer huge asymmetric upside. Tokemak is a 0 to 1 innovation. 
 
-**- Multiple Opportunities for Profit Generation via Active Network Participation Roles.**
+**- Multiple Opportunities for Profit Generation via Active Network Participation Roles**
 
 Apart from just identifying Tokemak as a protocol with large asymmetricupside, and waiting for token prices to appreciate the protocol provides participants with many opportunities to generate more profits be it via liquidity providing(currently offering 140% APY), single asset staking (offering between 5% and 40%), liquidity directingor TOKE staking (offering up to 57% APY). M31 is earning additional profits by participating in the network. 
 
-**- DeFi 2.0 and Protocol Owned Liquidity**
+**- DeFi 2.0 & Protocol Owned Liquidity**
 
 DeFi is in hyper growth mode -with protocols using blockchain to build out new financial primitives that are quickly proving to be of tremendous value. In 2020 –we saw protocols like AAVE, Compound and MakerDao dominate the space –however, they have since become the base layer for another cohort of protocols that are driven by new financial primitives, and the idea of protocol owned liquidity. Tokemak is strongly established as a DeFi 2.0 protocol –and has outlined its long-termoutlook as one that looks at building protocol owned liquidity –which we at M31 believe is fundamentalin the success of the next wave of DeFi protocols.  
 
-**- Liquidity is the Next Infrastructure Layer-Liquidity as a Service.**
+**- Liquidity is the Next Infrastructure Layer (Liquidity as a Service)**
 
 The growth, operation and sustenance of DeFi depends on liquidity–and currently alarge amount of energy and capital from DAOs/Protocols are spent on liquidity mining. It’s clear that liquidity is a precious commodity that protocols requireand Tokemak is essentially one of the only networks with a clear path to efficiently provide liquidity to the entire ecosystem. 
 
-**- The Singularity –DeFi’s Liquidity Blackhole**
+**- The Singularity – DeFi’s Liquidity Blackhole**
 
 Tokemak’s single-sided liquidity provisioning for users will attract idle assets into the protocol’s liquidity. This liquidity will earn fees and yields, and increase the value of TOKE, which will attract more assets into the protocol to earn TOKE, continuing the flywheel.The end goal is for the protocol to build up a sufficient treasury of assets such that the protocol on its own –can direct liquidity across various sectors in DeFi. 
 
@@ -107,15 +107,18 @@ We predict that TOKE will reach a price of $150 based on our model, in Dec 2022,
 
 ## Key Issues & Risks
 
-**Early-Stage Protocol:** Tokemak  is  a  new  protocol –barely  a  year  old –and  with  early-stage protocols  come  risks  with  respect  to  how  the  smart  contracts  perform –and  whether  they  are open to any exploits –no matter how small. We feel like this risk is relatively low –considering the protocol’s  smart  contracts  have  been  thoroughly  audited.  We  have  also  extensively  used  the protocol and can attest to the fact that it is functional without any bugs. 
+**Early-Stage Protocol:** 
+Tokemak  is  a  new  protocol –barely  a  year  old –and  with  early-stage protocols  come  risks  with  respect  to  how  the  smart  contracts  perform –and  whether  they  are open to any exploits –no matter how small. We feel like this risk is relatively low –considering the protocol’s  smart  contracts  have  been  thoroughly  audited.  We  have  also  extensively  used  the protocol and can attest to the fact that it is functional without any bugs. 
 
-**High Rewards Emissions and Large Token Vest:** One of the key issues withTokemak is that there is a large supply unlock of vested tokens in 2022 (56m TOKE) –as well as high rewards emissions (30% of overall supply) over the course of 5 years. This affects price as it could put unrequired sell pressure on the token. However, we againbelieve that this will be mitigated with corrections in the Token supply, and Tokemak reaching the singularity much faster than expected. Potentially, more than 20% of the Token supply may never enter circulation. 
+**High Rewards Emissions and Large Token Vest:** 
+One of the key issues withTokemak is that there is a large supply unlock of vested tokens in 2022 (56m TOKE) –as well as high rewards emissions (30% of overall supply) over the course of 5 years. This affects price as it could put unrequired sell pressure on the token. However, we againbelieve that this will be mitigated with corrections in the Token supply, and Tokemak reaching the singularity much faster than expected. Potentially, more than 20% of the Token supply may never enter circulation. 
 
-**Open-Source Risk (Forking Risk):** Moderate Forking Risk –tech stack (Token Reactors) is unique to most liquidity aggregators, hence forking would be slightly hard.
+**Open-Source Risk (Forking Risk):** 
+Moderate Forking Risk –tech stack (Token Reactors) is unique to most liquidity aggregators, hence forking would be slightly hard.
 
 ## Active Network Participation
 
-M31 is an active participant in the Tokemak ecosystem –helping earn outsized returns vs passive holding strategies.
+M31 is an active participant in the Tokemak ecosystem, helping earn outsized returns vs passive holding strategies.
 
 **Early investors in the token** 
 M31 quickly identified the potential impact Tokemak could have in the overall DeFi ecosystem, and was an early investor in the token. M31 is one of the largest token holders –and has significant influence over voting and governance.
@@ -146,11 +149,11 @@ On product roadmap, new strategies, & project integrations
 - Craig: Business Development 
 - Bruno: Tokenomics
 
-## CRYPTO-NATIVE DILIGENCE
+## Crypto-Native Diligence
 
 **Code Audits**
 
-As of now, Tokemak has been audited by a preliminary Trail of Bits audit and an Omniscia audit. This covers all currently operational functions. Further audits from Trail of Bits (a full, comprehensive ToB audit) and Quantstamp are on the way. [Omniscia Audit](https://omniscia.io/tokemak-capital-management-protocol/)
+As of now, Tokemak has been code audited by Omniscia with a preliminary audit from Trail of Bits. This covers all currently operational functions. Further audits from Trail of Bits (a full, comprehensive ToB audit) and Quantstamp are ongoing. [Omniscia Audit](https://omniscia.io/tokemak-capital-management-protocol/)
 
 ## Resources
 * [Github](https://github.com/Tokemak/tokemak-smart-contracts-public/tree/main)
