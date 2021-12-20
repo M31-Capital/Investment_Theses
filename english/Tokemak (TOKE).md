@@ -13,7 +13,7 @@
 
 ## Overview
 
-Tokemak is a decentralized investment protocol which is run by a DAO, allowing anyone to manage DAO investments via liquidity directing. With Tokemak, users can utilize TOKE and direct Tokemak’s liquidity to bootstrap DeFi projects and earn yield for the protocol.
+Tokemak is a decentralized investment management protocol, structured as a DAO, allowing anyone to manage investments via Liquidity Directing. With Tokemak, users can utilize TOKE to direct Tokemak’s liquidity towards bootstrapping DeFi projects while earning yield for the protocol.
 
 ## M31's Investment Thesis
 **- Intersection of Web3 & DeFi**
