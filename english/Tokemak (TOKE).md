@@ -26,7 +26,7 @@ The problem of bootstrapping liquidity in DeFi is real. While yield farming did 
 
 **- Multiple Opportunities for Profit Generation via Active Network Participation Roles**
 
-Apart from just identifying Tokemak as a protocol with large asymmetricupside, and waiting for token prices to appreciate the protocol provides participants with many opportunities to generate more profits be it via liquidity providing(currently offering 140% APY), single asset staking (offering between 5% and 40%), liquidity directingor TOKE staking (offering up to 57% APY). M31 is earning additional profits by participating in the network. 
+Apart from just identifying Tokemak as a protocol with large asymmetric upside, and waiting for token prices to appreciate the protocol provides participants with many opportunities to generate more profits be it via liquidity providing(currently offering 140% APY), single asset staking (offering between 5% and 40%), liquidity directingor TOKE staking (offering up to 57% APY). M31 is earning additional profits by participating in the network. 
 
 **- DeFi 2.0 & Protocol Owned Liquidity**
 
