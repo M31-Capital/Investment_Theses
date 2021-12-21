@@ -105,7 +105,7 @@ We have taken conservative assumptions for TVL, and Market Cap growth rate, as w
 Detailed Model: [Tokemak Valuation](https://github.com/M31-Capital/investment-theses/files/7755868/Tokemak.Valuation.-.1.xlsx)
 
 
-We predict that TOKE will reach a price of $602 based on our model, which is roughly 20x by Dec 2022, and have an average token price of $550 over the next 3 years. This number is based on the assumption that not all 56m vested TOKE will enter supply in 2022 –which most likely will be the case.
+We predict that TOKE will reach a price of $607 based on our model, which is roughly 20x by Dec 2022, and have an average token price of $550 over the next 3 years. This number is based on the assumption that not all 56m vested TOKE will enter supply in 2022 –which most likely will be the case.
 
 ## Key Issues & Risks
 
