@@ -26,15 +26,15 @@ The problem of bootstrapping liquidity in DeFi is real. While yield farming did 
 
 **- Multiple Opportunities for Profit Generation via Active Network Participation Roles**
 
-Apart from just identifying Tokemak as a protocol with large asymmetric upside, and waiting for token prices to appreciate the protocol provides participants with many opportunities to generate more profits be it via liquidity providing(currently offering 140% APY), single asset staking (offering between 5% and 40%), liquidity directingor TOKE staking (offering up to 57% APY). M31 is earning additional profits by participating in the network. 
+Apart from just identifying Tokemak as a protocol with large asymmetric upside and waiting for token prices to appreciate, the protocol provides participants with many opportunities to generate additional profit be it via liquidity providing (currently offering +140% APY), single asset staking (offering between +5% and +40% APY), liquidity directing (+TBD% APY), or TOKE staking (offering up to +57% APY). M31 is earning additional profits by participating in the network. 
 
 **- DeFi 2.0 & Protocol Owned Liquidity**
 
-DeFi is in hyper growth mode -with protocols using blockchain to build out new financial primitives that are quickly proving to be of tremendous value. In 2020 –we saw protocols like AAVE, Compound and MakerDao dominate the space –however, they have since become the base layer for another cohort of protocols that are driven by new financial primitives, and the idea of protocol owned liquidity. Tokemak is strongly established as a DeFi 2.0 protocol –and has outlined its long-termoutlook as one that looks at building protocol owned liquidity –which we at M31 believe is fundamentalin the success of the next wave of DeFi protocols.  
+DeFi is in hyper growth mode with protocols using blockchain to build out new financial primitives that are quickly proving to be of tremendous value. In 2020 –we saw protocols like AAVE, Compound, and MakerDao dominate the space however, they have since become the base layer for another cohort of protocols that are driven by new financial primitives and the concept of protocol owned liquidity. Tokemak is strongly established as a DeFi 2.0 protocol and has outlined its long-term outlook as one that looks at building protocol owned liquidity which we believe is fundamental to the success of the next wave of DeFi protocols.  
 
 **- Liquidity is the Next Infrastructure Layer (Liquidity as a Service)**
 
-The growth, operation and sustenance of DeFi depends on liquidity–and currently alarge amount of energy and capital from DAOs/Protocols are spent on liquidity mining. It’s clear that liquidity is a precious commodity that protocols requireand Tokemak is essentially one of the only networks with a clear path to efficiently provide liquidity to the entire ecosystem. 
+The growth, operation, and sustainability of DeFi depends on liquidity, and currently a large amount of energy and capital from DAOs/Protocols are spent on liquidity mining. It’s clear that liquidity is a precious commodity that protocols require and Tokemak is the only network with a clear path to efficiently provide liquidity to the entire ecosystem. 
 
 **- The Singularity – DeFi’s Liquidity Blackhole**
 
