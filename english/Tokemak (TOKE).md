@@ -16,27 +16,27 @@
 Tokemak is a decentralized investment management protocol, structured as a DAO, allowing anyone to manage investments via Liquidity Directing. With Tokemak, users can utilize TOKE to direct Tokemak’s liquidity towards bootstrapping DeFi projects while earning yield for the protocol.
 
 ## M31's Investment Thesis
-**- Intersection of Web3 & DeFi**
+**1. Intersection of Web3 & DeFi**
 
 In 2020, we saw the emergence of Decentralized Finance which saw the bootstrapping of a number of protocols that offer traditional (and new primitive) financial services using smart contracts. In 2021, we saw the emergence of DAO’s as the key stakeholderin Web3 organizations. Tokemak fits perfectly into the intersection between DeFi and Web3 in the sense that it is a decentralized investments protocol, run by a DAO that effectively becomes the liquidity layer in DeFi allowing participants to manage assets from the protocol do earn the highest yields via liquidity deployments across the DeFi ecosystem. TOKE holders form a decentralized team of asset managers. 
 
-**- Solution to a Critical Problem in DeFi with an Enormous TAM, Providing Steep Asymmetric Upside**
+**2. Solution to a Critical Problem in DeFi with an Enormous TAM, Providing Steep Asymmetric Upside**
 
 The problem of bootstrapping liquidity in DeFi is real. While yield farming did help launch a lot of the most successful DeFi protocols we use today, it also rendered a lot of them weaker –since high inflationary token emissions diluted project health, and their liquidity was at the mercy of yield farmers, who would pull their liquidityonce incentives were no longer attractive. This posed a real problem that would impact the growth and sustenance of DeFi protocols goingforward. Tokemak offers liquidity as a service allowing protocols to move away from older methods of attracting liquidity. This is a real solution to a real growing problem, which if plays out like we think will offer huge asymmetric upside. Tokemak is a 0 to 1 innovation. 
 
-**- Multiple Opportunities for Profit Generation via Active Network Participation Roles**
+**3. Multiple Opportunities for Profit Generation via Active Network Participation Roles**
 
 Apart from just identifying Tokemak as a protocol with large asymmetric upside and waiting for token prices to appreciate, the protocol provides participants with many opportunities to generate additional profit be it via liquidity providing (currently offering +140% APY), single asset staking (offering between +5% and +40% APY), liquidity directing (+TBD% APY), or TOKE staking (offering up to +57% APY). M31 is earning additional profits by participating in the network. 
 
-**- DeFi 2.0 & Protocol Owned Liquidity**
+**4. DeFi 2.0 & Protocol Owned Liquidity**
 
 DeFi is in hyper growth mode with protocols using blockchain to build out new financial primitives that are quickly proving to be of tremendous value. In 2020 –we saw protocols like AAVE, Compound, and MakerDao dominate the space however, they have since become the base layer for another cohort of protocols that are driven by new financial primitives and the concept of protocol owned liquidity. Tokemak is strongly established as a DeFi 2.0 protocol and has outlined its long-term outlook as one that looks at building protocol owned liquidity which we believe is fundamental to the success of the next wave of DeFi protocols.  
 
-**- Liquidity is the Next Infrastructure Layer (Liquidity as a Service)**
+**5. Liquidity is the Next Infrastructure Layer (Liquidity as a Service)**
 
 The growth, operation, and sustainability of DeFi depends on liquidity, and currently a large amount of energy and capital from DAOs/Protocols are spent on liquidity mining. It’s clear that liquidity is a precious commodity that protocols require and Tokemak is the only network with a clear path to efficiently provide liquidity to the entire ecosystem. 
 
-**- The Singularity – DeFi’s Liquidity Blackhole**
+**6. The Singularity – DeFi’s Liquidity Blackhole**
 
 Tokemak’s single-sided liquidity provisioning for users will attract idle assets into the protocol’s liquidity. This liquidity will earn fees and yields, and increase the value of TOKE, which will attract more assets into the protocol to earn TOKE, continuing the flywheel.The end goal is for the protocol to build up a sufficient treasury of assets such that the protocol on its own –can direct liquidity across various sectors in DeFi. 
 
