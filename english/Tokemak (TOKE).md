@@ -123,29 +123,17 @@ Moderate Forking Risk –tech stack (Token Reactors) is unique to most liquidity
 
 M31 is an active participant in the Tokemak ecosystem, helping earn outsized returns vs passive holding strategies.
 
-- **Early investors in the token**:
+- **Early investors in the token**: M31 quickly identified the potential impact Tokemak could have in the overall DeFi ecosystem, and was an early investor in the token. M31 is one of the largest token holders –and has significant influence over voting and governance.
 
-M31 quickly identified the potential impact Tokemak could have in the overall DeFi ecosystem, and was an early investor in the token. M31 is one of the largest token holders –and has significant influence over voting and governance.
+- **Tokemak DAO Participant**: M31 is a major DAO Participant, since our large token position gives us significant influence over governance decisions. M31 helped spin up the first 10 asset reactors that will be used to direct liquidity.
 
-- **Tokemak DAO Participant**:
+- **Votemak Whale**: Having one of the largest TOKE positions significantly adds to potential profit-making opportunities as other ecosystem participants pay fees for M31 to delegate its votes. This is done via Votemak –and helps M31 capture significant value from Tokemak partnerships. 
 
-M31 is a major DAO Participant, since our large token position gives us significant influence over governance decisions. M31 helped spin up the first 10 asset reactors that will be used to direct liquidity.
+- **Liquidity Providers**: M31 provides significant liquidity –as we were part of the genesis and C.o.R.E events. We currently stake TOKE in the Sushi reactor pool, ETH in the Genesis Pool, and provide significant liquidity in the form of ETH-TOKE SLP. 
 
-- **Votemak Whale**:
+- **Liquidity Directors**: M31 will have significant influence on where liquidity from the protocol will get directed across the ecosystem, when liquidity directing goes live in Jan 2022. 
 
-Having one of the largest TOKE positions significantly adds to potential profit-making opportunities as other ecosystem participants pay fees for M31 to delegate its votes. This is done via Votemak –and helps M31 capture significant value from Tokemak partnerships. 
-
-- **Liquidity Providers**:
-
-M31 provides significant liquidity –as we were part of the genesis and C.o.R.E events. We currently stake TOKE in the Sushi reactor pool, ETH in the Genesis Pool, and provide significant liquidity in the form of ETH-TOKE SLP. 
-
-- **Liquidity Directors**:
-
-M31 will have significant influence on where liquidity from the protocol will get directed across the ecosystem, when liquidity directing goes live in Jan 2022. 
-
-- **Working with Tokemak team**:
-
-On product roadmap, new strategies, & project integrations
+- **Working with Tokemak team**: On product roadmap, new strategies, & project integrations
 
 ## Token Metrics
 ![](https://user-images.githubusercontent.com/96431097/146811180-da5232e3-1e19-4f44-abc5-36b3c92b2f87.png)
