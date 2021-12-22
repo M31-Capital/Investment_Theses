@@ -51,6 +51,7 @@ Protocols have 2 routes to bootstrap liquidity –liquidity mining incentives or
 Tokemak is a new DeFi primitive -an Investments DAO for DeFi pulled into3 constituent parts-Capital, Strategic decisions and Trading expertise–all of which together –provide a new way for protocols  to  generate  liquidity  without  having  to resort  to  liquidity  mining  methods,  or  hiring centralized market makers.
 
 **How it Works**
+
 Tokemak functions on three core components: Token Reactors, Liquidity Providers, & Liquidity Directors. 
 
 **Token Reactors:** Token reactors are liquidity pools in which LPs can deposit assets to be directed as liquidity. Each reactor has two sides to it –an asset side, and a TOKE side. Assets for a specific reactor are paired with base assets such as ETH/USDC –and directed as liquidity across the ecosystem. This makes it very simple for users who want to provide liquidity but do not want to pair their assets as required with Uniswap. 
