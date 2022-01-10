@@ -7,7 +7,7 @@
 * 24-hr. Volume: $2.1m
 * Launch: Aug 2021
 * Whitepaper: [Tokemak Whitepaper](https://docs.tokemak.xyz/)
-* Target Price: $607 (2022 End)
+* Target Price: $607 (2022 EOY) 
 
 
 
