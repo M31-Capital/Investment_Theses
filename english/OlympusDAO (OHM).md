@@ -76,39 +76,44 @@ There are number of issues with today’s form of “currencies”. The Dollar h
 * Announcement of OlympusDAO
 
 ## High-level Overview
-* OlympusDAO is backed by DAI but not pegged to anything
- * There is no attempt to stabilise OHM’s price in its current expansionary phase. 
- * FEI uses their PCV to control price but not supply, while OHM cares about supply rather than price. 
-* OlympusDAO is a real-world experiment on an actively managed currency. 
- * OHM is similar to Bitcoin in the sense that it is an asset oriented crypto project with distinct monetary policies, but OlympusDAO has more flexibility to change such policies.
- * Although Bitcoin has no protocol-controlled value, it has several entities such as whales and miners which can affect price. 
+**OlympusDAO is backed by DAI but not pegged to anything**
+
+* There is no attempt to stabilise OHM’s price in its current expansionary phase. 
+* FEI uses their PCV to control price but not supply, while OHM cares about supply rather than price. 
+
+**OlympusDAO is a real-world experiment on an actively managed currency.**
+
+* OHM is similar to Bitcoin in the sense that it is an asset oriented crypto project with distinct monetary policies, but OlympusDAO has more flexibility to change such policies.
+* Although Bitcoin has no protocol-controlled value, it has several entities such as whales and miners which can affect price. 
   * OlympusDAO seeks to be OHM’s biggest whale by controlling liquidity and treasury assets. Similar to how the federal reserve has power over the Dollar.
-* OHM phases
- * The first phase is to attract people by allowing them to benefit financially, making people want to own the asset. 
- * The expansion phase is to transition OHM into an asset that other protocols will use. 
- * Once OHM holders use OHM for their own agendas, i.e. buying goods and services instead of just staking, OHM will have accomplished their mission.
-* Bootstrapping a new currency with memes
- * Bitcoin’s greatest asset is its community. They have bootstrapped a new SoV via memetics. 
- * When you long OHM, you are longing the community. 
+
+**OHM phases:**
+
+* The first phase is to attract people by allowing them to benefit financially, making people want to own the asset. 
+* The expansion phase is to transition OHM into an asset that other protocols will use. 
+* Once OHM holders use OHM for their own agendas, i.e. buying goods and services instead of just staking, OHM will have accomplished their mission.
+
+**Bootstrapping a new currency with memes**
+
+* Bitcoin’s greatest asset is its community. They have bootstrapped a new SoV via memetics. 
+* When you long OHM, you are longing the community. 
   * OHM is made up of other members that will stake alongside you, instead of other algo stables where it was mainly player versus player. 
   * The number of evangelists and memes OHM has is its greatest tool. i.e. (3,3)
-* Unlike FEI and DAI, OHM holders are also able to govern the protocol, aligning incentives.
+
+**Unlike FEI and DAI, OHM holders are also able to govern the protocol, aligning incentives.**
 
 ## Technology
 
 * OlympusDAO controls supply expansion and contraction using a protocol managed treasury, protocol owned liquidity, bonding mechanism, and staking rewards 
 * Initially, OHM’s goal is not to find a stable price but to achieve profitability to transition into stability and consistency later. 
 * Every time someone purchases a bond, the proceeds will go to the Olympus treasury. A corresponding number of OHM will be minted and distributed to 
- * Bonder
-  * Bonders can choose to either bond (sell) single assets or LP tokens for OHM. LP tokens help Olympus control the liquidity of OHM. 
- * The DAO
-  * The DAO receives the same amount of OHM as the bonder which is quoted before bonding.
- * Stakers
-  * Stakers get whatever is left over.
+  * Bonder: Bonders can choose to either bond (sell) single assets or LP tokens for OHM. LP tokens help Olympus control the liquidity of OHM. 
+  * The DAO: The DAO receives the same amount of OHM as the bonder which is quoted before bonding.
+  * Stakers: Stakers get whatever is left over.
 * By increasing the treasury, the protocol increases the intrinsic value of OHM. 
- * The treasury also increases when the protocol mints OHM to sell on the market, also distributing more OHM to stakers in the process. I.e. Selling 1 OHM for 600 DAI allows the protocol to mint 599 more OHM since each OHM only needs to be backed by 1 DAI.   
- * The treasury is used to buyback OHM from the market when the market cap of OHM falls below the treasury value.
- * As long as there are new buyers on the market, OHM will continue to expand. 
+  * The treasury also increases when the protocol mints OHM to sell on the market, also distributing more OHM to stakers in the process. I.e. Selling 1 OHM for 600 DAI allows the protocol to mint 599 more OHM since each OHM only needs to be backed by 1 DAI.   
+  * The treasury is used to buyback OHM from the market when the market cap of OHM falls below the treasury value.
+  * As long as there are new buyers on the market, OHM will continue to expand. 
 * To counter the downward reflexivity seen in other algo stablecoins, the protocol has reserves that will ensure the protocol will never die. 
 
 ## Token (OHM)
@@ -116,6 +121,33 @@ There are number of issues with today’s form of “currencies”. The Dollar h
 * The team, investors and advisors were issued 450m of pOHM, which can be redeemed for OHM by burning 1 pOHM and 1 DAI. These tokens are cumulatively vest as 11.8% of OHM supply, which means when there is 1m OHM, a maximum of 118,000 pOHM can be redeemed. This means pOHM is vested linearly on the success of the protocol, and can only be fully redeemed when the supply of OHM reaches 3.8b. 
 * pOHM Distribution
 
+![](https://user-images.githubusercontent.com/96431097/151409031-ce0f4011-106a-4ec0-ae5d-2ee4f5520a2b.png)
+
+## SWOT Analysis
+
+**Strengths:** 
+
+1.	Cult-like community which has shown evidence of holding through OHM’s massive dips. 
+2.	The addition of OlympusPro solves a huge market gap in DeFi
+
+**Weaknesses:** 
+
+1.	Main revenue generator for OHM is based on ponzinomics
+2.	Highly experimental protocol trying to tackle a herculean task. 
+
+**Opportunities:** 
+
+1.	OHM is more akin to Bitcoin rather than other stablecoins. If OHM can prove to be a new and effective store of value, it could rival Bitcoin’s market cap. 
+2.	The addition of OlympusPro is a new revenue source for OHM. 
+
+**Threats:**
+
+1.	Protocol is mainly based on ponzinomics. However, its strong community and addition of OlympusPro has nullified most of the negatives stemming from that.
+
+## Key Issues & Risks
+* Treasury is guarded by a 2 of 4 multisig
+
+## Token Metrics
 
 
 
