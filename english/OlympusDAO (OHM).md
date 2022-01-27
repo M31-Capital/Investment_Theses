@@ -149,6 +149,31 @@ There are number of issues with today’s form of “currencies”. The Dollar h
 
 ## Token Metrics
 
+![](https://user-images.githubusercontent.com/96431097/151411266-a88a1939-9873-4c95-a37a-1ebad7b92038.png)
+
+## Management & Team
+
+**Founder:** Ohmzeus
+**Team:** There are no official docs on the team, but there seems to be around 90 pseudo anonymous users on dedicated roles such as front-end, back-end, partnerships, operations, etc on their Discord channel, true to their decetnralised ethos. 
+
+
+## CRYPTO-NATIVE DILIGENCE
+
+**Code Audits** 
+As of now, OlympusDao has been audited by an Omniscia audit. This covers its entire codebase. 
+* Link to audit [Omniscia Audit](https://omniscia.io/olympusdao-algorithmic-currency-protocol/)
+
+
+**Open Source Risk (Forking Risk)**
+* Low Forking Risk – OlympusDao is a reserve currency with a unique supply mechanism (rebase mechanism), along with a bond mechanism - that extends to OlympusPro - that is not easy to fork or copy. However, open source code risk is always existent.
+
+## Resources
+
+* [Github](https://github.com/OlympusDAO)
+* [Docs](https://docs.olympusdao.finance/main/)
+* [Medium](https://olympusdao.medium.com/)
+* [Code audits](https://omniscia.io/olympusdao-algorithmic-currency-protocol/)
+
 
 
 
