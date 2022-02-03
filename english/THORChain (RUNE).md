@@ -47,14 +47,14 @@ Thorchain’s development team remain pseudonymous.
 * Projects and companies can list their tokens on a secondary market without seeking for permission. 
 * Anyone can be a liquidity provider on a DEX and capture yield.
 
-## Catalysts: 
+## Catalysts 
 
 * Multichain relaunch
 * Thorchain Synths
 * Thorwallet mobile application
 * Crypto bull market
   
-## TAM & Valuation: 
+## TAM & Valuation 
 
 * Counterintuitively, RUNE’s addressable market is the $2 trillion worth of digital assets, not the amount of trading volume in the digital asset market. RUNE’s value accrual mechanism makes it such that the marketcap of RUNE will be 3x of liquidity provided on Thorchain. We will explain further in the technology section. 
 
@@ -81,9 +81,13 @@ Thorchain’s development team remain pseudonymous.
     * With Bitcoin and Ethereum gaining adoption as days pass, we foresee long-term growth for the asset class. 
 
 ## Competitors
+
 **Traditional competitors**
+
 * Robinhood?
+
 **Crypto Competitors** 
+
 * CEX
     * Binance
     * FTX
@@ -95,12 +99,13 @@ Thorchain’s development team remain pseudonymous.
     * Chainflip
     * Coin98
 
-Recent Trends & Changes
-●	Multichain launch, showing cross-chain swaps are indeed possible with Thorchain. 
-●	Multichain shutdown due to exploits. 
-●	Stopped to audit the protocol, hired a white-hat team to protect the protocol, released a bug bountry program, implemented security features like insolvency alerts and in discussions for TVL insurance. 
+## Recent Trends & Changes
 
-## Technology:
+* Multichain launch, showing cross-chain swaps are indeed possible with Thorchain. 
+* Multichain shutdown due to exploits. 
+* Stopped to audit the protocol, hired a white-hat team to protect the protocol, released a bug bountry program, implemented security features like insolvency alerts and in discussions for TVL insurance. 
+
+## Technology
 
 There is currently no efficient way of executing cross-chain swaps trustlessly. Thorchain seeks to solve this by creating a model where node/vault operators are economically incentivised to honestly facilitate cross-chain swaps, similar to how Bitcoin miners are economically incentivised not to 51% attack their network. 
 
@@ -129,7 +134,8 @@ Trustlessness/Security/Decentralisation ranking
     * Users are able to stake asset single-sidedly to earn yield i.e. BTC. This will likely draw users which are currently staked at providers such as BlockFi and Celsius. 
 
 
-## Token (RUNE): 
+## Token (RUNE)
+
 * 3x value of RUNE is required for node/vault operators and liquidity providers to earn yield on their assets, hence the marketcap of RUNE will be at least 3x the value of non-RUNE total valued locked.
 * Total supply capped at 500m RUNE and was distributed as follows:
     * Protocol Emissions: 220,447,472 (43.87%)
@@ -168,6 +174,7 @@ Threats:
 
 
 ## Roadmap
+
 There are no dates on Thorchain’s roadmap/milestones, but priority are as follows
 1.	Mainnet launch
 2.	THORFi 
