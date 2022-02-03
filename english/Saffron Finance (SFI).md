@@ -37,7 +37,8 @@ The first application of Saffron gives liquidity providers the option to select 
 
 ## TAM & Valuation: (Work in Progress)
 
-[BarnBridge](https://www.tokenterminal.com/terminal/projects/barnbridge)
+[BarnBridge Token Terminal](https://www.tokenterminal.com/terminal/projects/barnbridge)
+
 [Santiment](https://app.santiment.net/charts?slug=saffron-finance)
 
 ## Industry Outlook 
