@@ -171,8 +171,8 @@ Threats:
  * Very little risk – Terra integration with payment partners and liquidity of the ecosystem is very hard to fork. 
 
 ## Resources
-[Github](https://github.com/terra-money)
-[Docs](https://docs.terra.money/)
-[Code Audits](https://www.certik.org/projects/terra)
+* [Github](https://github.com/terra-money)
+* [Docs](https://docs.terra.money/)
+* [Code Audits](https://www.certik.org/projects/terra)
 
 
