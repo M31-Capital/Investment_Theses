@@ -19,14 +19,17 @@ The project was started in 2017 by Anatoly Yakovenko and officially launched in 
 ## Investment Thesis:
 
 **The future of blockchains are multi-chain with niche use cases:**
+
 Although Ethereum is the clear market leader for on-chain activities (NFT’s, De-Fi), Solana can serve high-throughput defi applications for institutions demanding permissionless, scalable crypto via on-chain order books, a feature that Ethereum simply can’t replicate due to slower processing times. Alongside Solana’s active developments in cross-chain interoperability with projects like REN and wormhole, developers are now able to build seamless, cross-chain applications. 
 
 **Rival blockchains are unable to match SOL’s TPS technology and it’s 8 core innovations due to it’s inherent different design path:**
+
 Solana has built their technology from the ground up and have made conscious decisions to structure their blockchain without sharding or L2 technology - (where L2 has valid questions around compatibility, timeline, and end user experience). 
 
 Furthermore, the Solana team argues sharding proves to be problematic because it splits the security. ETH’s heterogeneous L2 scaling creates fragmentation. Issues of differing block times & computational throughput across L2s, lengthy withdrawal times requiring market makers, wallets & devs needing to rework integration with each L2.
 
 ## Catalysts:
+
 * Solana raised $314 million from a16z.
 * Speculation associated with ETH2 upgrades and current high GAS costs.
 * Notable developer + project traction on Solana’s ecosystem - such as Audius raising $3M+ and an NFT platform on Solana raising $3M+.
@@ -36,17 +39,21 @@ Furthermore, the Solana team argues sharding proves to be problematic because it
 * “Solana Capital”, which is a fund started by Solana that invests in Solana based projects. 
 
 ## TAM & Valuation: 
+
 ![](https://user-images.githubusercontent.com/96431097/152426023-b29e0998-490f-4428-bedd-0feaf3afeea3.png)
 
 ## Industry Outlook:
+
 **7 Day Average Fees:**
 * Solana: $272008.8
 * Ethereum: 34M
+
 **Validators:**
 * Solana: 979
 * Ethereum: 200,121
 
 ## Competitors:
+
 * Ethereum: Ethereum serves as the blockchain of choice due to developer + retail traction. With a successful launch of ETH 2 - Solana can serve to be a less relevant blockchain. 
 * Interoperability Blockchains ($DOT and $ATOM): Interoperability blockchains such as Cosmos and Polkadot serve to attain several of the same end user experience (high transaction speeds, low cost).
 * BSC: Binance Smart Chain is relatively similar in terms of lower transaction costs. One advantage Solana has it’s that it’s “less” decentralized.
