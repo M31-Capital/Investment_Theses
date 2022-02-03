@@ -84,7 +84,7 @@ SOLs have two primary use cases within the network.
 ![](https://user-images.githubusercontent.com/96431097/152426491-16573d08-fde4-4178-9ce5-04a8d700a624.png)
 ![](https://user-images.githubusercontent.com/96431097/152426517-bf795594-4257-4cf4-ae47-b825c2458335.png)
 
-## S.W.O.T.:
+## SWOT Analysis
 
 Strengths:
 
