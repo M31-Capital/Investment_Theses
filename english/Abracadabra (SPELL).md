@@ -32,3 +32,24 @@ Rehypothecation is one of largest edges that an institution or HNWI has over the
 * Abracadabra is able to issue and burn MIMs on any chain, allowing users on Arbitrum to bridge MIMs to other chains without going through the 7-day withdrawal process. 
 * Since other solutions require LPs on both sides i.e. Hop or Celer, these protocols may lack liquidity or charge high fees.
   * If the future consists of 100 chains, how much capital would LPs need to provide liquidity on each? MIM does not have that issue.
+
+![](https://user-images.githubusercontent.com/96431097/152408520-00f5175f-69c1-46ac-9821-3795b565214a.png)
+>App Hop.Exchange
+
+**Narrative Riding**
+* Memes and narratives are the key drivers of price in crypto. 
+* Fundamentals without a recognition from other investors = No narrative = No price discovery. 
+* Abracadabra taking over MakerDAO is an easy narrative to ride, especially when coupling with Abracadabra’s explosive growth. 
+* $115m TVL to $800m in <2 months. 
+* MIM supply = 878m, DAI supply = 6.14b
+
+## Catalysts
+* More Dapps launching on Arbitrum = more demand for bridge liquidity.
+ * More activity on other chains = more demand for bridge liquidity.
+* Addition of more ibTokens as collateral.
+
+## TAM & Valuation
+* Comparative valuation with Maker
+
+
+
