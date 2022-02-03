@@ -63,6 +63,64 @@ Rehypothecation is one of largest edges that an institution or HNWI has over the
 
 * Dividend Discount Model
   * Based on our DDM, SPELL is undervalued by 2.5x. 
+![](https://user-images.githubusercontent.com/96431097/152409672-fdca4e7a-a248-4b98-a72c-4b17bae94ac2.png)
+  * If we were to value MakerDAO in the same way however, we would say MKR is highly overvalued.
+  * Maybe we should question if our discount rates are too aggressive too.
+
+## Industry Outlook
+* Lending and rehypthecation is one of the chief use cases for DeFi.
+* Unlike AAVE and Compound, MakerDAO and Abracadabra are more capital efficient, as they do not need a depositor to lend out tokens; instead of charging an intermediary fee, MakerDAO and Abracadabra can lend to borrowers directly, charge lower interest rates and earn all the fees.
+
+## Competitors
+* Traditional competitors – Banks and brokers
+* Crypto Competitors – MakerDAO, AAVE, Compound
+
+## Recent Trends & Changes
+* Arbitrum launch may encourage more activity on borrowing due to lower gas and yield farming costs.
+
+## Technology:
+* Abracadabra utilises Kashi’s isolated lending markets to lend MIM to borrowers. 
+  * This differs from other protocols i.e. AAVE which has cross-collateral functions. 
+* Users can deposit their yield-bearing toens i.e. yvUSDC or yvWETH which are from Yearn.Finance and borrow MIM from those positions. (Also supports non yield-bearing tokens)
+  * The protocol then charges a borrow fee at mint and an ongoing low-interest fee i.e. 0.8%. 
+* Positions have a maximum collateral ratio, which when exceeded, a third party can liquidate their position for a fee.
+
+## Token (SPELL): 
+* SPELL can be staked for sSPELL, which receive protocol interest and borrow fees + 10% of the liqudation fees. Fees will be used to buyback SPELL from the market and distributed to stakers.
+![image](https://user-images.githubusercontent.com/96431097/152410069-7dd259bd-4244-4f36-8dda-75ffcea22230.png)
+>SPELL Distribution
+* Total supply 210,000,000,000 SPELL and distributed as follows: 
+  * MIM-3LP3CRV Liquidity Incentives – 45%
+  * Team – 30% (4 year vesting schedule)
+  * ETH-SPELL Liquidity Incentives – 18%
+  * IDO – 7%
+![image](https://user-images.githubusercontent.com/96431097/152410324-af4d2b81-82da-4756-8fcc-6eea1f4871c8.png)
+
+## SWOT Analysis
+
+Strengths: 
+1. Tackling a large market gap in DeFi i.e. Borrowing from ibTokens and cross-chain bridges. 
+2.	Narrative is for SPELL to overtake MKR. 
+3.	Team of fast builders. 
+
+Weaknesses: 
+1.	Exposed to DAI/USDC/USDT depeg risks due to some LPs.
+2.	Not being VC-funded also has some negative implications such as branding or strategic value-add. However, this means more tokens are in the hands of the community who are willing evangelists. 
+
+Opportunities: 
+1.	Marketcap is relatively small <$200m and FDV is still <$1b, and poised to disrupt MakerDAO. 
+2.	Large incentives to yield farm their token which has real value, instead of most farm and dump tokens.
+
+Threats: 
+1.	The fast-moving nature and regular additions of tokens such as FTM and wsOHM increases risk of Abracadabra’s insolvency. 
+2.	Arbitrum’s 7 day withdrawal time is there to ensure withdrawals are not fraudulent. There may be some risks to bridges that ignore the slower finality of Arbitrum.
+
+## Key Issues & Risks
+* [Abracadabra multi-sig](https://twitter.com/MIM_Spell/status/1401478828116123648?s=20&t=IoYs5EIWE0SfAsPIPIDLkQ)
+  * Abracadabra is under a multi-sig of well-known DeFi contributors, but also prone to centralisation risk. 
+
+## Token Metrics
+![](https://user-images.githubusercontent.com/96431097/152411127-540d895d-5fde-41a0-a160-e31725b406f9.png)
 
 
 
