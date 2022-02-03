@@ -64,16 +64,16 @@ The advent of Bitcoin gave the people a choice to subscribe to a global form of 
 ![image](https://user-images.githubusercontent.com/96431097/152421146-8ca4fa7a-afe3-43d6-ab7a-0b7b4619bf17.png)
 
 ## Industry Outlook 
-●	There are several Layer 1 smart contract platforms, such as Ethereum, Solana, and Cosmos, but none of them are anywhere near ready for real-world adoption due to either scaling issues or lack of applications. 
-●	Terra’s focus is on adoption and decentralising later. It is better to think of it as a fintech application rather than a crypto-native platform. 
-●	Terra’s Korea-based payment app currently has 77k daily active users, 130k daily transactions and 2.4 million total users.
-●	With Anchor’s fixed savings rate of 20% which is much higher than TradFi competitors, and the convenience of using Mirror, Terra looks poised to increase its retail adoption rate. 
-●	Even though Terra is the home of UST, the algorithmic stablecoin can be used on any blockchain. If UST becomes the number one decentralised stablecoin, that would surge the demand for UST and LUNA. 
-●	Where is UST being used? 
-○	Total supply: $1.9 billion 
-■	$192m on Anchor
-■	424.15m worth of mAssets (minted with UST) and UST in Mirror on Terra
-■	562.25m worth of mAssets (minted with UST) and UST in Mirror on Ethereum
+* There are several Layer 1 smart contract platforms, such as Ethereum, Solana, and Cosmos, but none of them are anywhere near ready for real-world adoption due to either scaling issues or lack of applications. 
+* Terra’s focus is on adoption and decentralising later. It is better to think of it as a fintech application rather than a crypto-native platform. 
+* Terra’s Korea-based payment app currently has 77k daily active users, 130k daily transactions and 2.4 million total users.
+* With Anchor’s fixed savings rate of 20% which is much higher than TradFi competitors, and the convenience of using Mirror, Terra looks poised to increase its retail adoption rate. 
+* Even though Terra is the home of UST, the algorithmic stablecoin can be used on any blockchain. If UST becomes the number one decentralised stablecoin, that would surge the demand for UST and LUNA. 
+* Where is UST being used? 
+      * Total supply: $1.9 billion 
+      * $192m on Anchor
+      * 424.15m worth of mAssets (minted with UST) and UST in Mirror on Terra
+      * 562.25m worth of mAssets (minted with UST) and UST in Mirror on Ethereum
  
 ## Competitors
 
