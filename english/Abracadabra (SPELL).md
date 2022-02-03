@@ -50,6 +50,21 @@ Rehypothecation is one of largest edges that an institution or HNWI has over the
 
 ## TAM & Valuation
 * Comparative valuation with Maker
+![](https://user-images.githubusercontent.com/96431097/152409297-cccd8e15-faca-46ee-981c-453f4da6611e.png)
+
+* SPELL is trading at a slight premium to $MKR in terms of MCAP/TVL and massive premium on FDV/TVL, but large discount on MCAP/PROFIT and FDV/PROFIT
+* Growth potential
+  * AAVE holds $5.96b of WETH earning 0.32% APR and Compound holds $5.7b earning 0.11% APY. Depositing that ETH into yvETH to earn 1.58% and being able to borrow from it on
+  * Abracadabra should be more attractive to investors once Abracadabra has been in the market for a while. Capturing just 10% of that would increase TVL by $1b. 
+  * Abracadabra can also tackle Yearn and Convex’s ibTokens, which have $4.71b and $7.8b of TVL respectively. 
+  * MakerDAO is not deployed on other chains, unlike Abracadabra. 
+  * Since launching in May, the team has quickly increased the amount of supported tokens and chain deployments, and have just recently executed a bridge between Arbitrum, Ethereum, AVAX, Fantom and BSC.
+  * Convex has shown that it can easily disrupt a first-mover in DeFi, Yearn Finance. Abracadabra can do the same to MakerDAO.
+
+* Dividend Discount Model
+  * Based on our DDM, SPELL is undervalued by 2.5x. 
+
+
 
 
 
