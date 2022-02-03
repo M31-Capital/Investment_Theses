@@ -49,7 +49,9 @@ Rehypothecation is one of largest edges that an institution or HNWI has over the
 * Addition of more ibTokens as collateral.
 
 ## TAM & Valuation
+
 * Comparative valuation with Maker
+
 ![](https://user-images.githubusercontent.com/96431097/152409297-cccd8e15-faca-46ee-981c-453f4da6611e.png)
 
 * SPELL is trading at a slight premium to $MKR in terms of MCAP/TVL and massive premium on FDV/TVL, but large discount on MCAP/PROFIT and FDV/PROFIT
@@ -121,6 +123,33 @@ Threats:
 
 ## Token Metrics
 ![](https://user-images.githubusercontent.com/96431097/152411127-540d895d-5fde-41a0-a160-e31725b406f9.png)
+
+## Management & Team
+
+**Team:** 
+* 0xMerlin
+* Daniele Sesta
+* GeorglyXo
+* Squirrel
+* Spirit of Ronny
+
+Team is also responsible for Popsicle Finance and Wonderland.money
+
+BoringCrypto licensed his isolated lending contract to Kashi and Abracadabra
+
+## CRYPTO-NATIVE DILIGENCE
+
+**Code Audits** 
+The code has not been audited.
+
+**Open Source Risk (Forking Risk)**
+ * Moderate Forking Risk – tech stack (ibTKN pools) are unique to most liquidity aggregators, hence forking would be slightly hard.
+ 
+## Resources
+[Github](https://github.com/Abracadabra-money)
+[Docs](https://docs.abracadabra.money/)
+
+
 
 
 
