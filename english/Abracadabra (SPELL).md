@@ -89,13 +89,16 @@ Rehypothecation is one of largest edges that an institution or HNWI has over the
 
 ## Token (SPELL): 
 * SPELL can be staked for sSPELL, which receive protocol interest and borrow fees + 10% of the liqudation fees. Fees will be used to buyback SPELL from the market and distributed to stakers.
+
 ![image](https://user-images.githubusercontent.com/96431097/152410069-7dd259bd-4244-4f36-8dda-75ffcea22230.png)
 >SPELL Distribution
+
 * Total supply 210,000,000,000 SPELL and distributed as follows: 
   * MIM-3LP3CRV Liquidity Incentives – 45%
   * Team – 30% (4 year vesting schedule)
   * ETH-SPELL Liquidity Incentives – 18%
   * IDO – 7%
+
 ![image](https://user-images.githubusercontent.com/96431097/152410324-af4d2b81-82da-4756-8fcc-6eea1f4871c8.png)
 
 ## SWOT Analysis
@@ -146,8 +149,8 @@ The code has not been audited.
  * Moderate Forking Risk – tech stack (ibTKN pools) are unique to most liquidity aggregators, hence forking would be slightly hard.
  
 ## Resources
-[Github](https://github.com/Abracadabra-money)
-[Docs](https://docs.abracadabra.money/)
+* [Github](https://github.com/Abracadabra-money)
+* [Docs](https://docs.abracadabra.money/)
 
 
 
