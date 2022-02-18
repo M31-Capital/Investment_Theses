@@ -116,7 +116,7 @@ M31 is an active participant in the LUNA ecosystem, helping add value and streng
 * When LUNA in unstaked, it goes through a 21 day unbonding phase where the token does not accrue rewards and cannot be traded.
 
 Emission schedule: 
-![image](https://user-images.githubusercontent.com/96431097/152421616-3dcd1751-492c-457d-bda3-833dc6a244cf.png)
+![image](https://user-images.githubusercontent.com/96431097/154727827-0f6b83f0-7043-4cd7-9290-eec95cf20a63.png)
 
 ## SWOT Analysis
 
