@@ -116,7 +116,8 @@ M31 is an active participant in the LUNA ecosystem, helping add value and streng
 * When LUNA in unstaked, it goes through a 21 day unbonding phase where the token does not accrue rewards and cannot be traded.
 
 Emission schedule: 
-![image](https://user-images.githubusercontent.com/96431097/154727827-0f6b83f0-7043-4cd7-9290-eec95cf20a63.png)
+![image](https://user-images.githubusercontent.com/96431097/154728007-11eaf8e4-6f14-4fa1-aa20-d6d378dd18f0.png)
+
 
 ## SWOT Analysis
 
@@ -152,7 +153,7 @@ Threats:
 * LUNA’s tokenomics allows for high value capture when Terra stablecoins are in demand, but can also suffer heavily when UST is redeemed for LUNA i.e. May 19.  
 
 ## Token Metrics
-![](https://user-images.githubusercontent.com/96431097/152422608-f904ad41-e123-4c47-bb55-6342ffd8661a.png)
+![](https://user-images.githubusercontent.com/96431097/154728128-d4885d6a-179d-418b-afb4-258f96568da1.png)
 
 ## Management & Team
 * Management Team: 
