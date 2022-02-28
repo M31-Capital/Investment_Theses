@@ -68,7 +68,7 @@ Currently, there’s around $34.7bn in TVL on the top DEXes across Ethereum L1s 
 Currently, for users to natively swap assets between different blockchains, they have to use either centralized exchanges, or bridges – that involve wrapped or pegged tokens. The problem with bridges is that today, a majority of the bridges are used to move liquidity between Ethereum and other EVM compatible blockchains. This again, makes it hard to swap assets that are on chains that are not EVM compatible.  
 
 Spot Crypto volumes have soared, with over ~$16 trillion in total cryptocurrency exchange volume in the last year. These volumes are likely to grow in a similar manner in the foreseeable future. 
-The CEX to DEX spot ratio stands at around 12% - which shows the dominance (and reliance) on Centralized Exchanges. This is also a useful indicator to the maturity of the market – with a majority of crypto natives preferring to use DEXes. 
+The DEX to CEX spot ratio stands at around 12% - which shows the dominance (and reliance) on Centralized Exchanges. This is also a useful indicator to the maturity of the market – with a majority of crypto natives preferring to use DEXes. 
 
 Of those that use DEXes – for cross chain transactions, or using assets on other chains – they have to go through bridges. 
 
