@@ -40,10 +40,7 @@ In any financial market, liquidity begets liquidity. If Thorchain becomes the de
  
 **DEXes are The Future**
 
-* 24/7, permissionless, censorship-resistant, global trading without an intermediary is the future. 
-* Users can trade on DEXes at any time.
-* Projects and companies can list their tokens on a secondary market without seeking for permission. 
-* Anyone can be a liquidity provider on a DEX and capture yield.
+Total crypto currency spot exchnage volumes have crossed ~$16 tillion over the last year, and a majority of this activity happens on CEXes. The DEX/CEX spot volume ratio is currently around 12%. There is a huge gap between users of CEXes and DEXes, and as the market matures, individuals will eventually port over to DEXes instead. DEXes are expected to become more of a backend tool for DeFi, with constant usage. 
 
 ## Catalysts 
 
