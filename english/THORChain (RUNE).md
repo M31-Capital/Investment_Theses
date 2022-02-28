@@ -51,16 +51,13 @@ Total crypto currency spot exchnage volumes have crossed ~$16 tillion over the l
   
 ## TAM & Valuation 
 
-* Counterintuitively, RUNE’s addressable market is the $2 trillion worth of digital assets, not the amount of trading volume in the digital asset market. RUNE’s value accrual mechanism makes it such that the marketcap of RUNE will be 3x of liquidity provided on Thorchain. We will explain further in the technology section. 
+* Counterintuitively, RUNE’s addressable market is the ~$2 trillion worth of digital assets, not the amount of trading volume in the digital asset market. RUNE’s value accrual mechanism makes it such that the market cap of RUNE will be at least 3x of liquidity provided on Thorchain. 
 
-**Scenario Analyses** 
-* Let us simulate the amount of liquidity Thorchain can capture by looking at TVLs of other DEXes or potential percentage of assets locked i.e. 1% of all BTC locked into Thorchain.
-    * Calculation of market cap of RUNE will be done by taking TVL/2*3 
-    * This is because liquidity providers must sell half their assets for RUNE, hence dividing by 2 first. 
-    * For the asset-based calculation, we assume that liquidity providers buy RUNE without selling their ETH or BTC.
+## Scenario Analyses 
+Let us simulate the amount of liquidity Thorchain can capture by looking at TVLs of other DEXes. The Calculation of market cap of RUNE will be done by diving TVL by 2 and multiplying it by 3.  
+•	This is because liquidity providers must sell half their assets for RUNE, hence dividing by 2 first. 
 
-    * These calculations do not take into consideration potential price appreciation of the underlying assets such as ETH or BTC. 
-    * If we think ETH will 5x and BTC will 2x, and 1% of each gets locked into Thorchain, its price at its fully diluted supply will be $220.8.
+Currently, there’s around $34.7bn in TVL on the top DEXes across Ethereum L1s and L2s, Avalanche, Cosmos. Assuming THORChain captures 10% of all the TVL on other DEXes – that translates to a total TVL of ~$3.4bn of assets. Since the amount of RUNE needs to be 3x the amount of assets in liquidity pools – we can imply a RUNE market cap of $5.02bn, which puts RUNE’s price at ~$10.41. This is the most important part of RUNE’s tokenomic model – as liquidity increases, the amount of RUNE bonded also needs to increase, which ultimately pushes up the price of RUNE. 
     
 ![image](https://user-images.githubusercontent.com/96482943/155962289-c2ec5337-4e74-43fb-a1bd-cfc6602d4ce4.png)
 
