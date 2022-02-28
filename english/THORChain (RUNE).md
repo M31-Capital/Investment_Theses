@@ -53,7 +53,8 @@ Total crypto currency spot exchnage volumes have crossed ~$16 tillion over the l
 
 * Counterintuitively, RUNE’s addressable market is the ~$2 trillion worth of digital assets, not the amount of trading volume in the digital asset market. RUNE’s value accrual mechanism makes it such that the market cap of RUNE will be at least 3x of liquidity provided on Thorchain. 
 
-**Scenario Analyses 
+**Scenario Analyses**
+
 Let us simulate the amount of liquidity Thorchain can capture by looking at TVLs of other DEXes. The Calculation of market cap of RUNE will be done by diving TVL by 2 and multiplying it by 3.  
 •	This is because liquidity providers must sell half their assets for RUNE, hence dividing by 2 first. 
 
