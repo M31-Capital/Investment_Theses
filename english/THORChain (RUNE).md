@@ -53,7 +53,7 @@ Total crypto currency spot exchnage volumes have crossed ~$16 tillion over the l
 
 * Counterintuitively, RUNE’s addressable market is the ~$2 trillion worth of digital assets, not the amount of trading volume in the digital asset market. RUNE’s value accrual mechanism makes it such that the market cap of RUNE will be at least 3x of liquidity provided on Thorchain. 
 
-## Scenario Analyses 
+**Scenario Analyses 
 Let us simulate the amount of liquidity Thorchain can capture by looking at TVLs of other DEXes. The Calculation of market cap of RUNE will be done by diving TVL by 2 and multiplying it by 3.  
 •	This is because liquidity providers must sell half their assets for RUNE, hence dividing by 2 first. 
 
@@ -63,35 +63,47 @@ Currently, there’s around $34.7bn in TVL on the top DEXes across Ethereum L1s 
 
 
 ## Industry Outlook 
-* Crypto volumes
-    * Cryptocurrency volumes have recently hit all-time highs again with $8.6 trillion in total from January to June 2021, and growth should continue for the foreseeable future. 
-![](https://user-images.githubusercontent.com/96431097/152429407-7d4d3089-bee0-46ab-9ec4-3a458b968923.png)
-    * DEX volume rose from 0.11% of total crypto volume in 2019, to 8.11% today. 
-    Note that total crypto volume have also increase by 10-20x since then. 
-    DEXes look poised to grow even further.   
 
-* Crypto marketcap
-    * The global marketcap of crypto has also increased by ~20x since 2019, growing from a little over $100b in marketcap to $2 trillion today. 
-    * With Bitcoin and Ethereum gaining adoption as days pass, we foresee long-term growth for the asset class. 
+Currently, for users to natively swap assets between different blockchains, they have to use either centralized exchanges, or bridges – that involve wrapped or pegged tokens. The problem with bridges is that today, a majority of the bridges are used to move liquidity between Ethereum and other EVM compatible blockchains. This again, makes it hard to swap assets that are on chains that are not EVM compatible.  
+
+Spot Crypto volumes have soared, with over ~$16 trillion in total cryptocurrency exchange volume in the last year. These volumes are likely to grow in a similar manner in the foreseeable future. 
+The CEX to DEX spot ratio stands at around 12% - which shows the dominance (and reliance) on Centralized Exchanges. This is also a useful indicator to the maturity of the market – with a majority of crypto natives preferring to use DEXes. 
+
+Of those that use DEXes – for cross chain transactions, or using assets on other chains – they have to go through bridges. 
+
+Total Value Locked in Bridges on Ethereum: $22.47bn 
+TVL locked in THORChain: $314m
+The amount of value THORChain can pull in, is easily apparent. 
 
 ## Competitors
 
 **Traditional competitors**
 
-* Robinhood?
+Robinhood
 
-**Crypto Competitors** 
+Crypto Competitors 
 
-* CEX
-    * Binance
-    * FTX
-    * Coinbase
-* DEX
-    * Uniswap
-    * Sushiswap
-    * Bancor
-    * Chainflip
-    * Coin98
+CEXes:
+
+•	Binance
+•	FTX
+•	Coinbase
+
+DEXes:
+
+•	Uniswap
+•	Sushiswap
+•	TraderJoe
+•	Balancer
+
+Bridges: 
+
+•	Multichain (Anyswap)
+•	Synapse
+•	Wormhole
+•	Polygon PoS
+•	Terra Bridge
+
 
 ## Recent Trends & Changes
 
