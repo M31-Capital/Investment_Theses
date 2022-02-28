@@ -73,7 +73,9 @@ The DEX to CEX spot ratio stands at around 12% - which shows the dominance (and 
 Of those that use DEXes – for cross chain transactions, or using assets on other chains – they have to go through bridges. 
 
 Total Value Locked in Bridges on Ethereum: $22.47bn 
+
 TVL locked in THORChain: $314m
+
 The amount of value THORChain can pull in, is easily apparent. 
 
 ## Competitors
