@@ -58,10 +58,12 @@ Total crypto currency spot exchnage volumes have crossed ~$16 tillion over the l
     * Calculation of market cap of RUNE will be done by taking TVL/2*3 
     * This is because liquidity providers must sell half their assets for RUNE, hence dividing by 2 first. 
     * For the asset-based calculation, we assume that liquidity providers buy RUNE without selling their ETH or BTC.
-![](https://user-images.githubusercontent.com/96431097/152429057-499f6271-f294-4008-a1a5-ac4cead0c7f8.png)
+
     * These calculations do not take into consideration potential price appreciation of the underlying assets such as ETH or BTC. 
     * If we think ETH will 5x and BTC will 2x, and 1% of each gets locked into Thorchain, its price at its fully diluted supply will be $220.8.
-![](https://user-images.githubusercontent.com/96431097/152429131-6311ceca-6d00-4640-9d05-5b7412cd1b84.png)
+    
+![image](https://user-images.githubusercontent.com/96482943/155962289-c2ec5337-4e74-43fb-a1bd-cfc6602d4ce4.png)
+
 
 ## Industry Outlook 
 * Crypto volumes
