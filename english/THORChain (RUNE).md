@@ -1,5 +1,6 @@
 # THORChain (RUNE)
 
+* Token Price: $3.51
 * Token Type: Liquidity Network, Cross-chain DEX
 * Circ. Token Supply: 300.75m
 * Max Token Supply: 500m
