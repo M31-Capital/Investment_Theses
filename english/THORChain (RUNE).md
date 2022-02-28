@@ -34,6 +34,7 @@ There are numerous chains that are achieving market demand aside from Bitcoin an
  
 
 **Deterministic Price of RUNE**
+
 In any financial market, liquidity begets liquidity. If Thorchain becomes the default layer where users, exchanges, institutions, OTC desks, etc., source their Layer 1 assets such as BTC, liquidity will be sucked out from other CEXes and DEXes into Thorchain. The more trading activity on Thorchain, the more liquidity providers are incentivized to pool onto Thorchain. Since RUNE’s value is tied to at least 3x the value of liquidity provided on Thorchain, RUNE has the strongest value capture in the crypto space. 
 
  
