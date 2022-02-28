@@ -111,11 +111,17 @@ Bridges:
 ## Recent Trends & Changes
 
 ●	Multichain launch, showing cross-chain swaps are indeed possible with Thorchain. 
+
 ●	Multichain shutdown due to exploits. 
+
 ●	Launch of Stagenet.
+
 ●	Liquidity Caps raised to $24m. 
+
 ●	Dogecoin Swaps live. 
+
 ●	LUNA, UST swaps imminent. 
+
 ●	Strong Audit procedures, hired a white-hat team to protect the protocol, released a bug bounty program, implemented security features like insolvency alerts and in discussions for TVL insurance. 
 
 
