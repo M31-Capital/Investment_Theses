@@ -1,13 +1,13 @@
 # THORChain (RUNE)
 
 * Token Type: Liquidity Network, Cross-chain DEX
-* Circ. Token Supply: 265m
+* Circ. Token Supply: 300.75m
 * Max Token Supply: 500m
-* Market Capitalization: 2.48b 
-* 24-hr. Volume: 182m
+* Market Capitalization: $1.057b 
+* 24-hr. Volume: $48.94m
 * Launch: Apr 2021
 * Whitepaper: [THORChain Whitepaper](https://github.com/thorchain/Resources/tree/master/Whitepapers)
-* Target Price: $200
+
 
 
 
@@ -25,9 +25,8 @@ Thorchain’s development team remain pseudonymous.
 
 **Cross-chain Swaps**
 
-* BTC/USDT, DOGE/USDT, XRP/USDT, SOL/USDT, etc., are the largest volume trading pairs in the digital space, which have not been addressed by decentralised exchanges. 
-    * There will be large value capture for DEXes who are able to facilitate cross-chain swaps.
-* Centralised exchanges remain a risk vector for cryptocurrency traders and investors i.e. MtGox, Coss.io and most recently, Africrypt. 
+We have seen Ethereum concede DeFi market share to alternative, cheaper Layer 1 platforms like Avalanche, Terra, Fantom, Solana – mainly owing to restrictive gas prices. What this does is creates sever fragmentation, and the users are forced to silo their liquidity, which also gives them limited options to move their liquidity. Currently, for users to move their liquidity across various chains, and take advantage of the Dapps that reside on them – they are forced to use 2 options- CEX's, Cross-Chain bridge - and the problem with both of them is Centralisation. Using CEX's means trusting the third party to custody your assets, and trust them to have enough liquidity to withdraw it to another chain. Using Cross chain bridges also entails centralisation risks, as all bridges are controlled by multi-sigs and are succesptible to hacks. ($300m Ethereum-Solana Wormhole Bridge Hack).
+
 
 **Multichain Future**
 
