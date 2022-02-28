@@ -215,7 +215,8 @@ Threats:
 * Unknown timeline to completion of mainnet; other cross-chain services such as Chainflip may steal market share. 
 
 ## Token Metrics
-![](https://user-images.githubusercontent.com/96431097/152431077-52712118-05fb-4eac-836b-eef9e0634984.png)
+![image](https://user-images.githubusercontent.com/96482943/155968423-203fdfbc-40b0-4acf-a55d-d8a818fedfe1.png)
+
 
 ## Management & Team
 * The Thorchain team is pseudonymous and majority of contributors remain unknown, but certain team members are doxxed such as: 
