@@ -177,31 +177,38 @@ Trustlessness/Security/Decentralisation ranking
 ## SWOT Analysis
 
 Strengths: 
-1.	Tackling a large market gap in crypto.
-2.	Best token value accrual mechanism 
+
+1.	Tackling a large market gap in crypto. There currently is no other way for cross-chain native swaps in a completely trustless manner. 
+2.	RUNE has a strong token value accrual model. As THORChain usage grows, so will the amount of RUNE required to be bonded. 
 3.	Relatively complete protocol, left with bug squashing and battle-testing. 
 
 Weaknesses:
+
 1.	Providing a code-based bridge for ERC20 tokens has multiple attack vectors. Since ERC20 tokens can be created by anyone with limitless programmability, ERC20s may prove to be unworkable for Thorchain due to potential exploits. 
-2.	Unknown if liquidity providers will shift to Thorchain. 
+2.	Exposure to RUNE may cause a hesitancy for liquidity providers to move over to THORChain. 
 
 Opportunities: 
-1.	Regulatory and centralised exchange crackdowns could lead to more users on Thorchain.
-2.	Since Thorchain will initially restart only on Binance Chain which has been proven to be stable with Bepswap, the fund could LP on it to farm emission rewards. 
+
+1.	Regulatory and centralized exchange crackdowns could lead to more users on Thorchain.
+2.	Growing number of hacks and exploits on bridges could lead to more users on Thorchain. 
+3.	UST pools will boost the activity on Thorchain, as it is the most in demand algorithmic stablecoin. 
 
 Threats: 
-1.	Other competitors creating a more adopted version of cross-chain swaps i.e. Chainflip or Coin98
+
+1.	Other competitors creating a more adopted version of cross-chain swaps . 
+2.	LayerZero like communication protocols that use different method for cross-chain swaps without exposure to a core asset. 
+3.	Users view trustlessness as a spectrum, and prefer the convenience and lower fees of bridges over Thorchain. 
+
+**Roadmap**
+
+1.	Mainnet launch (Q1 2022)
+2.	THORFi - Synths, savings account, lending and composite assets.
+3.	Unlimited Staking (no caps)
+4.	Support an additional 15 chains 
+5.	Handover of protocol development and treasury 
+6.	Planned obsolescence for the team to decentralize the protocol.
 
 
-## Roadmap
-
-There are no dates on Thorchain’s roadmap/milestones, but priority are as follows
-1.	Mainnet launch
-2.	THORFi 
-a.	Synths, savings account, lending and composite assets.
-3.	Support an additional 15 chains 
-4.	Handover of protocol development and treasury 
-5.	Planned obsolescence for the team to decentralised the protocol.
 
 ## Key Issues & Risks
 * Current volume does not justify current marketcap.
