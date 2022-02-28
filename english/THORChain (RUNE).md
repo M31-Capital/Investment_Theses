@@ -30,14 +30,12 @@ We have seen Ethereum concede DeFi market share to alternative, cheaper Layer 1 
 
 **Multichain Future**
 
-* There are numerous chains that are achieving PMF or market demand aside from Bitcoin and Ethereum. See Solana, Terra, Doge, Binance Chain, Polygon, etc. Users who wish to trade or shift funds from different blockchains will go through centralised exchanges or Thorchain.
-* Even L2s such as Arbitrum and Optimism will likely use Thorchain for faster swaps between Ethereum. 
+There are numerous chains that are achieving market demand aside from Bitcoin and Ethereum. We’ve mainly seen activity initially transfer over to Polygon and Solana in the initial parts of 2021 and in 2022 – we’ve seen Fantom and Avalanche emerge as strong alternative DeFi ecosystems. Users who wish to trade or shift funds from different blockchains will go through centralized exchanges or Thorchain. Even L2s such as Arbitrum and Optimism will likely use Thorchain for faster swaps between Ethereum.
+ 
 
-**Liquidity Blackhole**
+**Deterministic Price of RUNE**
+In any financial market, liquidity begets liquidity. If Thorchain becomes the default layer where users, exchanges, institutions, OTC desks, etc., source their Layer 1 assets such as BTC, liquidity will be sucked out from other CEXes and DEXes into Thorchain. The more trading activity on Thorchain, the more liquidity providers are incentivized to pool onto Thorchain. Since RUNE’s value is tied to at least 3x the value of liquidity provided on Thorchain, RUNE has the strongest value capture in the crypto space. 
 
-* In any financial market, liquidity begets liquidity. If Thorchain becomes the default layer where users, exchanges, institutions, OTC desks, etc., source their Layer 1 assets such as BTC, liquidity will be sucked out from other CEXes and DEXes into Thorchain. 
-* The more trading activity on Thorchain, the more liquidity providers are incentivised to pool onto Thorchain.
-* Since RUNE’s value is tied to at least 3x the value of liquidity provided on Thorchain, RUNE has the strongest value capture in the crypto space. 
  
 **DEXes are The Future**
 
@@ -51,7 +49,7 @@ We have seen Ethereum concede DeFi market share to alternative, cheaper Layer 1 
 * Multichain relaunch
 * Thorchain Synths
 * Thorwallet mobile application
-* Crypto bull market
+
   
 ## TAM & Valuation 
 
