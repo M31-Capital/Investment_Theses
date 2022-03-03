@@ -7,7 +7,7 @@
 * 24-hr. Volume: $957.5m
 * Launch: May 2019
 * Whitepaper: [Terra Whitepaper](https://whitepaper.io/document/587/terra-whitepaper)
-* Target Price: $40
+
 
 ## Overview
 Terra is a smart contract platform laser-focused on real-world adoption, where users have their checking, savings, investing account and more financial applications all in one place. Terra applications are all powered by their native stablecoins, which must be issued by burning LUNA. Significant adoption and demand for their applications would increase demand for Terra stablecoins, and hence LUNA.  
