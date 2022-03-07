@@ -19,10 +19,12 @@ With the addition of OlympusPro, the protocol’s treasury will be able to acqui
 ## Investment Thesis
 
 **1. The need for a Decentralised Currency**
+
 Most forms of currency have severely lost purchasing power, while alternatives are not viable either. Gold has not actually outpaced inflation in the past 10 year and BTC or ETH are too volatile. By having a treasury reserve with a mix of assets, OlympusDAO can create a currency that is stable in purchasing power.
 Additionally, stablecoins in DeFi are a risk vector
 
 **2. Liquidity as a service**
+
 OlympusDAO’s treasury will acquire tokens from other protocols by providing custom treasuries and bonds for protocols to use. OHM will be promoted as a treasury asset and liquidity pair for other protocols. The Olympus Pro model has seen protocols cut down their pool 2 emissions via bond sales. 
 
 
