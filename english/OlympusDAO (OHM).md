@@ -1,10 +1,10 @@
 # OlympusDAO (OHM)
 
 * Token Type: Decentralized Reserve Currency/Rebase Token
-* Circ. Token Supply: 9.269m
+* Circ. Token Supply: 12.39m
 * Max Token Supply: Uncapped
-* Market Capitalization: $605.2m
-* 24-hr. Volume: $21.6m
+* Market Capitalization: $387.93m
+* 24-hr. Volume: $7.4m
 * Launch: Mar 2021
 * Whitepaper: [OHM Whitepaper](https://olympusdao.medium.com/introducing-olympusdao-a-true-digital-currency-protocol-648c00c572d2)
 
