@@ -1,4 +1,4 @@
-## Render Network (RNDR)
+# Render Network (RNDR)
 * Current Price: 		$3.39
 * Token Type:			Utility token for governance, staking, fee sharing and payments.
 * Circ. Token Supply: 		154,278,922 RNDR
@@ -13,13 +13,13 @@ Historical Chart
 
  
 
-# Overview
+## Overview
 
 For the last decade, we have been moving towards a world that is more geared towards the virtual, than the physical, and are now entering a phase that looks to further blur the lines between the virtual and the physical. Be it social media, movies, virtual reality, augmented reality – or even holographic worlds – this entire transition away from the physical has a few key components – and one of them is rendering. We’ve always used it – in the movies we’ve seen, the cartoons we watch, or even in professional scale modelling for architects. As the demand for rendering increases, so does the quality and speed of the renderer required. 
 The Render Network offers fast and cheap rendering – that is GPU accelerated, and decentralised. 
 
 
-# Investment Thesis
+## Investment Thesis
 
 Big Shift towards Virtual  and Augmented Reality, Animation Centric Spaces. 
 
@@ -47,7 +47,7 @@ Active Network Participation Opportunities
 In order for large scale rendering to process, in a decentralised manner,  - an infrastructure of nodes would be required to constantly manage/validate render requests, payments, computations etc– creating an opportunity to actively participate in the network –– in return for economic incentives. 
 
 
-# Catalysts: 
+## Catalysts: 
 
 * Deals with Multicoin Capital, Alameda and Solana – to help grow the network – and bring rendering to Solana.
 * Huge influx of users towards Metaverses and gaming. 
@@ -55,7 +55,7 @@ In order for large scale rendering to process, in a decentralised manner,  - an 
 * GPU growth is exponential – expected market size to be $200bn in the next 5 years. 
 
 
-# Industry Outlook, TAM and Valuation
+## Industry Outlook, TAM and Valuation
 
 
 * Currently, the entire 3D rendering market is around $4bn expected to grow to around $20bn by 2025. However, with the increasing demands for holographic renders – for games, individual creators etc. – this market could easily hit $50bn by 2025. Current competitors are – Corona, Lumion, Keyshot etc. that provide CPU rendering – and AWS, Azzure that provide cloud rendering. 
@@ -121,11 +121,11 @@ Let’s say you’re an individual who needs a quick rendering job done.
 The Network essentially co-ordinates and facilitates demand and supply for GPU compute power (render jobs – and allocates jobs across nodes. The network essentially functions like a marketplace. 
 
 
-# Protocol Fees: 
+## Protocol Fees: 
 
 * The protocol takes a 0.5% - 5% fee per render request – which is sent to the treasury. There is no information on whether these funds will be distributed to RNDR holders. 
 
-# RNDR Tokenomics: (To be revised) 
+## RNDR Tokenomics: (To be revised) 
 Max Supply: 536,870,912 RNDR
 Circulating Supply: 154,278,922 RNDR (28.74%)
  
@@ -148,7 +148,7 @@ RNDR token is used to pay for render requests.
 (Staking, Rev share (potentially), and network security Tokenomics to be updated.) 
 
 
-# SWOT Analysis
+## SWOT Analysis
 
 Strengths: 
 * Decentralised rendering offers a true service that is better in all aspects than its centralised counterparts – and hence demand will always flow. 
@@ -175,18 +175,18 @@ Threats
 
 
 
-# Token Metrics
+## Token Metrics
 ![RNDR Token Metrics](https://user-images.githubusercontent.com/96431097/168859428-3a85334b-7492-4b0b-a559-7cf940d6c028.jpg)
 
 
 
-# Management & Team
+## Management & Team
 
 Founder: Jules Urbach (Founder and CEO of OTOY)
 Team Size: 60+ 
 
 
-# CRYPTO-NATIVE DILIGENCE
+## CRYPTO-NATIVE DILIGENCE
 
 Code Audits
 
@@ -209,7 +209,7 @@ Open-Source Risk (Forking Risk)
 
 Low Forking Risk – Protocol smart contracts can be forked – however, the core component is the nodes and the octane render engine– which is leveraged by otoy. 
  
-# Resources
+## Resources
 * Github: https://github.com/rndr-network 
 * Docs: https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ad442da8a-067e-490f-88cf-2c4511016ff7#pageNum=1
 
