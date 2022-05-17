@@ -29,25 +29,25 @@ In the last week – Maple Finance has generated around $240k in revenues from l
 
 Higher Interest Rates for Stablecoin Deposits. 
 
-●	Currently, most non leveraged stablecoin deposits earn an average of around 3-5% on most lending protocols across DeFi – which also depends on the loan utilization of those assets. 
-●	Passive depositors can earn between 8-10% depositing their stables into maple finance – and are also protected from default risk by MPL holders. 
+* Currently, most non leveraged stablecoin deposits earn an average of around 3-5% on most lending protocols across DeFi – which also depends on the loan utilization of those assets. 
+* Passive depositors can earn between 8-10% depositing their stables into maple finance – and are also protected from default risk by MPL holders. 
 
 Undercollateralized Loans will be in High Demand. 
-●	Maple Finance’s offering of undercollateralized loans (some even at no collateral) will attract institutional borrowers – within and possibly even outside of the crypto space going forward.
+* Maple Finance’s offering of undercollateralized loans (some even at no collateral) will attract institutional borrowers – within and possibly even outside of the crypto space going forward.
 
 
 ## Catalysts: 
 
-•	Addition of new loan pools that support different assets. (UST for example – can see high potential of Popsicle finance borrowing UST on Maple Finance – and utilizing its degenbox strategy to earn high yields on stables)
-•	MPL treasury growth, fitting the DeFi 2.0 narrative of “Protocol Controlled Assets” 
+* Addition of new loan pools that support different assets. (UST for example – can see high potential of Popsicle finance borrowing UST on Maple Finance – and utilizing its degenbox strategy to earn high yields on stables)
+* MPL treasury growth, fitting the DeFi 2.0 narrative of “Protocol Controlled Assets” 
 
 
 
 
 ## TAM & Valuation: 
 
-•	Maple Finance’s primary goal is to provide undercollateralized loans to institutional investors, and ultimately allow traditional institutions to also take part in DeFi without the barriers that they currently face. From a passive lenders’ point of view – maple provides higher interest rates (and will most likely continue to do so) when compared to other lending protocols like AAVE, Compound, MakerDao. 
-•	From a borrower’s point of view – undercollateralized loans offer a higher value proposition to other algorithmic lending protocols. 
+* Maple Finance’s primary goal is to provide undercollateralized loans to institutional investors, and ultimately allow traditional institutions to also take part in DeFi without the barriers that they currently face. From a passive lenders’ point of view – maple provides higher interest rates (and will most likely continue to do so) when compared to other lending protocols like AAVE, Compound, MakerDao. 
+* From a borrower’s point of view – undercollateralized loans offer a higher value proposition to other algorithmic lending protocols. 
 Quantifying the TAM taking into consideration total deposits from other lending protocols: 
 AAVE – $30.2b
 COMP –$19b
@@ -63,7 +63,7 @@ Assume Maple Finance pulls in
 20% - $136b
 
 
-●	We can try valuing the MPL Token using a DDM as the MPL token accrues fees from the treasury and from loans funded. Currently MPL holders generate fees through loans funded. 1% of all loans funded are taken by the protocol as establishment fees – half of which are distributed to MPL holders i.e., 0.5% of all loans funded. This parameter can be changed through governance. Currently the protocol has funded around $218m in loans. 
+* We can try valuing the MPL Token using a DDM as the MPL token accrues fees from the treasury and from loans funded. Currently MPL holders generate fees through loans funded. 1% of all loans funded are taken by the protocol as establishment fees – half of which are distributed to MPL holders i.e., 0.5% of all loans funded. This parameter can be changed through governance. Currently the protocol has funded around $218m in loans. 
 
 Conservative: loans 5x in the first year and grow 10% YoY after that. Token is 5x overvalued.
 
@@ -101,19 +101,19 @@ Assuming an average interest rate of 12% charged on all loans – and assuming 5
 
 ## Industry Outlook 
 
-●	Traditional lending protocols are not providing high enough interest rates on stablecoin deposits, and are currently sustaining liquidity through liquidity mining incentives. As deposits grow – those fees are likely to go lower. 
-●	Anchor provides much higher interest rates on UST deposits (at 20%) – however it is limited to UST only – and is paid out in ANC – not the native deposit asset.
+* Traditional lending protocols are not providing high enough interest rates on stablecoin deposits, and are currently sustaining liquidity through liquidity mining incentives. As deposits grow – those fees are likely to go lower. 
+* Anchor provides much higher interest rates on UST deposits (at 20%) – however it is limited to UST only – and is paid out in ANC – not the native deposit asset.
 
 
 
 ## Competitors
 
-●	Traditional competitors – Any traditional banking/brokerage firm. 
-●	Crypto Competitors – Undercollateralized lending protocols like Teller Finance. 
+* 	Traditional competitors – Any traditional banking/brokerage firm. 
+* 	Crypto Competitors – Undercollateralized lending protocols like Teller Finance. 
 
 ## Recent Trends & Changes
 
-●	Can potentially synergize with Tokemak to direct liquidity into the protocol and fund more loans. 
+* Can potentially synergize with Tokemak to direct liquidity into the protocol and fund more loans. 
 
 
 
@@ -206,8 +206,8 @@ Threats
 
 # Management & Team
 
-●	Sidney Powell, Co-Founder 
-●	Joe Flanagan – Co-Founder
+* Sidney Powell, Co-Founder 
+* Joe Flanagan – Co-Founder
 Team of 18+ with 2 core devs.
 
 Team is actively hiring new developers.
@@ -222,7 +222,7 @@ Link to all Audits - https://github.com/maple-labs/maple-core
 
 Open Source Risk (Forking Risk)
 
-●	Forking Risk – Protocol smart contracts can be forked – however, what Maple has as a moat is a solid VC backing, as well as a unique system of pool delegates that guarantee accredited and trusted borrowers.
+* Forking Risk – Protocol smart contracts can be forked – however, what Maple has as a moat is a solid VC backing, as well as a unique system of pool delegates that guarantee accredited and trusted borrowers.
 
  
 # Resources
