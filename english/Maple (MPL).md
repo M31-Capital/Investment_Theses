@@ -1,15 +1,16 @@
 # Maple Finance (MPL) 
-Current Price: 			$26.48
-Token Type:			Utility token for governance and fee sharing.
-Circ. Token Supply: 		2.793m
-Max. Token Supply: 		10m
-Market Capitalization: 	$73.9m
-24-Hour Volume: 		$2.1m
-Launch: 			May 2021
-Whitepaper: 			https://maplefinance.gitbook.io/maple/
-Target Price: 			$48
+* Current Price: 			$26.48
+* Token Type:			Utility token for governance and fee sharing.
+* Circ. Token Supply: 		2.793m
+* Max. Token Supply: 		10m
+* Market Capitalization: 	$73.9m
+* 24-Hour Volume: 		$2.1m
+* Launch: 			May 2021
+* Whitepaper: 			https://maplefinance.gitbook.io/maple/
+* Target Price: 			$48
 
-Historical Chart
+## Historical Chart
+![image](https://user-images.githubusercontent.com/96431097/168857213-4aae876d-83f0-4d33-856a-7734b9663a7c.png)
 
  
 
@@ -66,24 +67,19 @@ Assume Maple Finance pulls in
 
 Conservative: loans 5x in the first year and grow 10% YoY after that. Token is 5x overvalued.
 
- 
+![image](https://user-images.githubusercontent.com/96431097/168857386-03516543-6084-48cb-89f5-dad0dda8d891.png)
+
 
 
 Moderate: loans 10x in the first year and grow 20% YoY after that. Token is 2.5x overvalued.
 
- 
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/96431097/168857413-78bf9184-6a3f-4752-884a-f889242ce3e6.png)
 
 
 
 Bullish: loans 20x in the first year and grow 30% YoY after that. Token is relatively fairly valued according to this model. 
+
+![image](https://user-images.githubusercontent.com/96431097/168857460-ee618a7e-a7cc-4769-817f-21e2c7a5e5d0.png)
 
  
 
@@ -91,24 +87,14 @@ Bullish: loans 20x in the first year and grow 30% YoY after that. Token is relat
 Uber-Bullish (Fee Change): loans 20x in the first year and grow 30% YoY after that. Establishment fees are changed to 2% of all loans funded through governance. 
 Considering this model, the token is undervalued by almost 100%. 
 
+![image](https://user-images.githubusercontent.com/96431097/168857509-72759ee8-095c-4d0d-a201-8ce2951d7e4a.png)
+
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 This valuation doesn’t consider additional revenues that can accrue to MPL holders who stake MPL-USDC in a balancer pool to provide insurance cover for the lenders in case of a default from the borrowers. MPL stakers receive 10% of all the interest earned by the protocol on loans funded. 
 Assuming an average interest rate of 12% charged on all loans – and assuming 50% of the total MPL supply is staked – MPL stakers would earn around $0.82/token in ongoing fees in Y1 – growing to $35.96/token in Y5.
+
+![image](https://user-images.githubusercontent.com/96431097/168857569-09258a67-e7b8-4758-bf18-b33e080e02a9.png)
 
  
 
@@ -167,15 +153,7 @@ The value of MPL is derived from:
 2. The number of tokens that Maple will add to its treasury through fees from loan pools of varying assets.  
 3. Yields generated on treasury assets. 
 
-
-
-
-
-
-
- 
-
-
+![image](https://user-images.githubusercontent.com/96431097/168857634-26070fba-c5b0-42ee-8f5a-317690ca1758.png)
 
 
  
