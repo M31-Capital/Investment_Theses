@@ -1,4 +1,4 @@
-Maple Finance (MPL) 
+# Maple Finance (MPL) 
 Current Price: 			$26.48
 Token Type:			Utility token for governance and fee sharing.
 Circ. Token Supply: 		2.793m
@@ -13,7 +13,7 @@ Historical Chart
 
  
 
-Overview
+## Overview
 Maple Finance is a decentralized lending protocol targeted towards institutional and accredited borrowers, by leveraging capital from lenders from DeFi – by providing them with fixed income opportunities on their stablecoins (currently). They adopt a hybrid off-chain, on chain model to select borrowers, and manage loan pools.
 
 Maple finance seems like a solid narrative play going forward, as it differs from other lending protocols in how it operates and gives out loans – with all of the loans on the protocol undercollateralized. They have a solid (but currently modest) fee generation model – all of which accrues to MPL holders and Pool Delegates (who are also MPL holders by default). More on Pool Delegates further in the memo. 
@@ -23,7 +23,7 @@ In the last week – Maple Finance has generated around $240k in revenues from l
 
 
 
-Investment Thesis
+## Investment Thesis
 
 
 Higher Interest Rates for Stablecoin Deposits. 
@@ -35,7 +35,7 @@ Undercollateralized Loans will be in High Demand.
 ●	Maple Finance’s offering of undercollateralized loans (some even at no collateral) will attract institutional borrowers – within and possibly even outside of the crypto space going forward.
 
 
-Catalysts: 
+## Catalysts: 
 
 •	Addition of new loan pools that support different assets. (UST for example – can see high potential of Popsicle finance borrowing UST on Maple Finance – and utilizing its degenbox strategy to earn high yields on stables)
 •	MPL treasury growth, fitting the DeFi 2.0 narrative of “Protocol Controlled Assets” 
@@ -43,7 +43,7 @@ Catalysts:
 
 
 
-TAM & Valuation: 
+## TAM & Valuation: 
 
 •	Maple Finance’s primary goal is to provide undercollateralized loans to institutional investors, and ultimately allow traditional institutions to also take part in DeFi without the barriers that they currently face. From a passive lenders’ point of view – maple provides higher interest rates (and will most likely continue to do so) when compared to other lending protocols like AAVE, Compound, MakerDao. 
 •	From a borrower’s point of view – undercollateralized loans offer a higher value proposition to other algorithmic lending protocols. 
@@ -113,19 +113,19 @@ Assuming an average interest rate of 12% charged on all loans – and assuming 5
  
 
 
-Industry Outlook 
+## Industry Outlook 
 
 ●	Traditional lending protocols are not providing high enough interest rates on stablecoin deposits, and are currently sustaining liquidity through liquidity mining incentives. As deposits grow – those fees are likely to go lower. 
 ●	Anchor provides much higher interest rates on UST deposits (at 20%) – however it is limited to UST only – and is paid out in ANC – not the native deposit asset.
 
 
 
-Competitors
+## Competitors
 
 ●	Traditional competitors – Any traditional banking/brokerage firm. 
 ●	Crypto Competitors – Undercollateralized lending protocols like Teller Finance. 
 
-Recent Trends & Changes
+## Recent Trends & Changes
 
 ●	Can potentially synergize with Tokemak to direct liquidity into the protocol and fund more loans. 
 
@@ -133,7 +133,7 @@ Recent Trends & Changes
 
 
 
-Technology:
+## Technology:
 
 The protocol functions on three main actors. 
 
@@ -159,7 +159,7 @@ MPL holders that stake their tokens will receive 50% of this value.
 
 
 
-MPL Tokenomics:
+## MPL Tokenomics:
 
 The value of MPL is derived from: 
 
@@ -179,7 +179,7 @@ The value of MPL is derived from:
 
 
  
-Total supply capped at 10,000,000 MPL. 
+## Total supply capped at 10,000,000 MPL. 
 
 30% - Team (24 month vest)
 26% - Investors (18 month vest)
@@ -196,7 +196,7 @@ MPL staking on balancer earns additional rev share in ongoing fees.
 
 
 
-SWOT Analysis
+## SWOT Analysis
 
 Strengths: 
 1.	Offering undercollateralized loans in DeFi.
@@ -217,28 +217,16 @@ Threats
 3.	Stablecoin depegging risk
 
 
-     Token Metrics
 
-Market Cap		Supply	
-Liquid Marketcap:	$73,912,307	Liquid Supply:	2,793,678.00
-Reported Marketcap:	$264,569,829	Reported Supply:	10,000,000.00
-Y2050 Marketcap:	$264,569,829	Y2050 Supply:	10,000,000.00
-		%Y2050 Supply:	27.94%
-Marketcap Dominance:	0.00%	Liquid Inflation Rate:	
-On-Chain Data		Returns	
-TVL 	$256,441,508	1-Month (vsUSD):	70.11%
-Loans Funded	$253,100,000	1-Month (vsBTC):	30.14%
-Total Interest Paid	$3,038,258	90-Day (vsUSD):	326.38%
-Treasury Value 	$769,625	90-Day (vsBTC):	278.75%
-		1-Year (vsUSD):	12.21%
-		1-Year (vsBTC):	10.16%
-MPL launched April 2021.
+# Token Metrics
+#![MPL Token Metrics](https://user-images.githubusercontent.com/96431097/168857051-11713594-1730-4581-82c8-e396f5b72ea6.jpg)
 
 
 
 
 
-Management & Team
+
+# Management & Team
 
 ●	Sidney Powell, Co-Founder 
 ●	Joe Flanagan – Co-Founder
@@ -247,7 +235,7 @@ Team of 18+ with 2 core devs.
 Team is actively hiring new developers.
 
 
-CRYPTO-NATIVE DILIGENCE
+# CRYPTO-NATIVE DILIGENCE
 
 Code Audits
 As of now, Tokemak has been audited by Peckshield and Dedaub. This covers all the smart contracts in the protocol, and the security. Most high risk and medium risk issues resolved.
@@ -259,12 +247,7 @@ Open Source Risk (Forking Risk)
 ●	Forking Risk – Protocol smart contracts can be forked – however, what Maple has as a moat is a solid VC backing, as well as a unique system of pool delegates that guarantee accredited and trusted borrowers.
 
  
-Resources
+# Resources
 Github: https://github.com/maple-labs
 Docs: https://maplefinance.gitbook.io/maple/
 Code audits: https://github.com/maple-labs/maple-core
-
-Official Channels
-Website
-Twitter
-Discord
