@@ -226,6 +226,6 @@ Open Source Risk (Forking Risk)
 
  
 # Resources
-Github: https://github.com/maple-labs
-Docs: https://maplefinance.gitbook.io/maple/
-Code audits: https://github.com/maple-labs/maple-core
+* Github: https://github.com/maple-labs
+* Docs: https://maplefinance.gitbook.io/maple/
+* Code audits: https://github.com/maple-labs/maple-core
