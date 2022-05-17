@@ -210,6 +210,6 @@ Open-Source Risk (Forking Risk)
 Low Forking Risk – Protocol smart contracts can be forked – however, the core component is the nodes and the octane render engine– which is leveraged by otoy. 
  
 # Resources
-Github: https://github.com/rndr-network
-Docs: https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ad442da8a-067e-490f-88cf-2c4511016ff7#pageNum=1
+* Github: https://github.com/rndr-network 
+* Docs: https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ad442da8a-067e-490f-88cf-2c4511016ff7#pageNum=1
 
