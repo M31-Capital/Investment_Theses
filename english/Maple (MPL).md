@@ -196,7 +196,7 @@ Threats
 
 
 
-# Token Metrics
+## Token Metrics
 #![MPL Token Metrics](https://user-images.githubusercontent.com/96431097/168857051-11713594-1730-4581-82c8-e396f5b72ea6.jpg)
 
 
@@ -204,7 +204,7 @@ Threats
 
 
 
-# Management & Team
+## Management & Team
 
 * Sidney Powell, Co-Founder 
 * Joe Flanagan – Co-Founder
@@ -213,7 +213,7 @@ Team of 18+ with 2 core devs.
 Team is actively hiring new developers.
 
 
-# CRYPTO-NATIVE DILIGENCE
+## CRYPTO-NATIVE DILIGENCE
 
 Code Audits
 As of now, Tokemak has been audited by Peckshield and Dedaub. This covers all the smart contracts in the protocol, and the security. Most high risk and medium risk issues resolved.
@@ -225,7 +225,7 @@ Open Source Risk (Forking Risk)
 * Forking Risk – Protocol smart contracts can be forked – however, what Maple has as a moat is a solid VC backing, as well as a unique system of pool delegates that guarantee accredited and trusted borrowers.
 
  
-# Resources
+## Resources
 * Github: https://github.com/maple-labs
 * Docs: https://maplefinance.gitbook.io/maple/
 * Code audits: https://github.com/maple-labs/maple-core
