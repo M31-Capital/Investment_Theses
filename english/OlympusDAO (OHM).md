@@ -146,7 +146,7 @@ There are number of issues with today’s form of “currencies”. The Dollar h
 
 ## Token Metrics
 
-![](https://user-images.githubusercontent.com/96431097/151413866-89fd2cdb-caf8-4916-8f49-90b46ee45fa1.png)
+![OHM Token Metrics](https://user-images.githubusercontent.com/96431097/169151015-7e91c8ec-d302-4134-82ba-b7770d1558f7.jpg)
 
 ## Management & Team
 
