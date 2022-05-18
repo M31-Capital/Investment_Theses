@@ -44,13 +44,13 @@ Furthermore, the Solana team argues sharding proves to be problematic because it
 
 ## Industry Outlook:
 
-**7 Day Average Fees:**
-* Solana: $272008.8
-* Ethereum: 34M
+**7 Day Fees:**
+* Solana: $340,775
+* Ethereum: $175.33M
 
 **Validators:**
-* Solana: 979
-* Ethereum: 200,121
+* Solana: 1,748
+* Ethereum: 238,099
 
 ## Competitors:
 
@@ -102,7 +102,7 @@ Weaknesses:
 
 Opportunities:
 
-* Saber is already #40 by TVL among all DeFi protocols on all blockchains
+* Saber is already #101 by TVL among all DeFi protocols on all blockchains
 
 Threats: 
 * Arbitrum raising $120 Million
@@ -135,7 +135,7 @@ Threats:
 
 ## Token Metrics
 
-![](https://user-images.githubusercontent.com/96431097/152427616-ec57159b-28fe-4684-8052-e64826751743.png)
+![SOL token metrics](https://user-images.githubusercontent.com/96431097/169153226-44b24f7f-9522-4aee-9a13-5ad62ca8ff67.jpg)
 
 ## Management & Team
 
