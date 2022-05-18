@@ -1,17 +1,16 @@
 # Render Network (RNDR)
-* Current Price: 		$3.39
+* Current Price: 		$0.94
 * Token Type:			Utility token for governance, staking, fee sharing and payments.
-* Circ. Token Supply: 		154,278,922 RNDR
-* Max. Token Supply: 		523,984,854 RNDR.
-* Market Capitalization: 	$524.07m
-* 24-Hour Volume: 		$57.2m
+* Circ. Token Supply: 		253,798,859 RNDR
+* Max. Token Supply: 		530,962,614 RNDR
+* Market Capitalization: 	$238.83m
+* 24-Hour Volume: 		$23.3m
 * Launch: 			April 2020
-* Target Price: 			$12-$18 (2022 end) 
 
 Historical Chart
-![image](https://user-images.githubusercontent.com/96431097/168858573-ce9cd69f-249a-4804-a779-34d042994229.png)
 
- 
+<img width="520" alt="image" src="https://user-images.githubusercontent.com/96482943/168863827-5f42e05b-211c-480c-90ff-b7d8be8de918.png">
+
 
 ## Overview
 
@@ -21,28 +20,28 @@ The Render Network offers fast and cheap rendering – that is GPU accelerated, 
 
 ## Investment Thesis
 
-Big Shift towards Virtual  and Augmented Reality, Animation Centric Spaces. 
+**Big Shift towards Virtual  and Augmented Reality, Animation Centric Spaces** 
 
 As we have seen NFTs and the metaverse explode over the last year, and the gaming industry colossally grow over the last decade – it is pretty clear that we are moving towards a more virtual means of social interaction. People spend time socialising on their phones, or “in-game” as opposed to meeting physically – and this is extending beyond just instant messaging or video calls – as games, and now “metaverses” allow you to socially interact in a digital manner – while mimicking all the traits of a regular physical interaction. We have seen this with Fortnite – and in game concerts and events. For all of this to be possible, rendering, and fast rendering is key. In order for this space to scale vertically, rendering must also become magnitudes cheaper. 
 
-Core OTOY Software (Octane Render)
+**Core OTOY Software (Octane Render)**
 
 The Render Network is run by OTOY.inc – a software company that provides the worlds fastest GPU-accelerated renderer – Octane. OctaneRender looks at harnessing GPU power instead of CPU power (as other renderers do) – which provides for rendering speeds that are order of magnitudes faster than other renderers. The core software is already amongst the most used for rendering jobs globally – with deals with Disney, HBO etc. 
 
 
-Rendering Alternatives are Too Expensive, Slow and Prohibitive to Individual Creators
+**Rendering Alternatives are Too Expensive, Slow and Prohibitive to Individual Creators**
 
 Rendering is intensive and expensive. For context, a decade ago, single frames would take 6 to 8 hours to render. Even today, quality rendering is expensive – and more often than not requires an expensive visual effects studio to get the job done. This was prohibitively expensive for any individual creators that wanted to get a render job finished. However, with Octane (and now the Render Network) – rendering was scaled – by distributing the compute power required across multiple GPU’s – that would process the render at the same time – significantly decreasing costs, as well as total time taken. Creators can now leverage the Render Network – submit a render job – and can expect it to be finished quickly, and cost effectively. 
 
-Idle GPU Computing Power 
+**Idle GPU Computing Power** 
 
 By targeting GPUs over  CPUs – The Render Network has a much bigger pool of computing power at its disposal. GPUs (or graphics cards) are everywhere – on phones, laptops, and even PoW crypto miners. As we transition towards a PoS ecosystem, and the number of graphics cards globally grows – there will be a lot of Idle GPU power to be leveraged -that would have otherwise gone unused. This creates economic incentives for GPU holders as well. 
 
-Rendering the Metaverse
+**Rendering the Metaverse**
 
 With the narrative around Metaverses growing – and more and more people transitioning to using digital avatars within digital metaverses to replicate (or replace) physical meet-ups (concerts, galleries, weddings  on Sandbox, Decentraland etc.) – the demand for live-stream, high quality renderers to execute the computation demands is high. As we move forward, the next step is optimistically making the experience more “life-like” via holographic representations. This type of rendering would need a core network that can simultaneously serve the demands, at fast speeds, and low costs – which Render already offers. 
 
-Active Network Participation Opportunities
+**Active Network Participation Opportunities**
 
 In order for large scale rendering to process, in a decentralised manner,  - an infrastructure of nodes would be required to constantly manage/validate render requests, payments, computations etc– creating an opportunity to actively participate in the network –– in return for economic incentives. 
 
