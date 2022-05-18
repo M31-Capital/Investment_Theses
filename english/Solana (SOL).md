@@ -1,10 +1,10 @@
 # Solana (SOL)
 
 * Token Type: Layer 1
-* Circ. Token Supply: 314.9m
+* Circ. Token Supply: 337.4m
 * Max Token Supply: N/A
-* Market Capitalization: $30.4b
-* 24-hr. Volume: $3.1b
+* Market Capitalization: $17.1b
+* 24-hr. Volume: $1.5b
 * Launch: Aug 2020
 * Whitepaper: [Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)
 * Target Price:
