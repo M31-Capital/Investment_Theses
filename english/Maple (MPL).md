@@ -1,13 +1,13 @@
 # Maple Finance (MPL) 
-* Current Price: 			$26.48
+* Current Price: 			$22.8
 * Token Type:			Utility token for governance and fee sharing.
-* Circ. Token Supply: 		2.793m
+* Circ. Token Supply: 		5.9m
 * Max. Token Supply: 		10m
-* Market Capitalization: 	$73.9m
+* Market Capitalization: 	$135.7m
 * 24-Hour Volume: 		$2.1m
 * Launch: 			May 2021
 * Whitepaper: 			https://maplefinance.gitbook.io/maple/
-* Target Price: 			$48
+
 
 ## Historical Chart
 ![image](https://user-images.githubusercontent.com/96431097/168857213-4aae876d-83f0-4d33-856a-7734b9663a7c.png)
