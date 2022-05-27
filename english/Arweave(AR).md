@@ -96,7 +96,7 @@ Token Price - $55.4
 
 
 
-##Technology:
+## Technology:
 
 ## Arweave’s blockchain, and economic incentives model run on 4 core components: 
 
@@ -184,22 +184,22 @@ Team Size: 20+
 
 ## CRYPTO-NATIVE DILIGENCE
 
-##Code Audits
+**Code Audits**
 
 As of now, Tokemak has been audited by Block Apex and Hacken. This covers all the smart contracts in the protocol, and the security. All High risk and medium risk issues resolved.
 [Audits](https://github.com/VoirStudio/unipilot-audits/tree/master/protocolContract)
 
 
-##Open-Source Risk (Forking Risk)
+**Open-Source Risk (Forking Risk)**
 
 * Forking Risk – Protocol smart contracts can be forked. Forking the economic model will not be as simple. 
 
  
-##Resources
+## Resources
 [Github](https://github.com/ArweaveTeam/arweave)
 [Docs](https://www.arweave.org/technology#papers)
 
-Official Channels
+## Official Channels
 [Website](https://www.arweave.org/)
 [Twitter](https://twitter.com/ArweaveTeam)
 [Discord](https://discord.gg/3Dad8J7)
