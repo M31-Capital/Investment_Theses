@@ -187,6 +187,7 @@ Team Size: 20+
 **Code Audits**
 
 As of now, Tokemak has been audited by Block Apex and Hacken. This covers all the smart contracts in the protocol, and the security. All High risk and medium risk issues resolved.
+
 [Audits](https://github.com/VoirStudio/unipilot-audits/tree/master/protocolContract)
 
 
