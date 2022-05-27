@@ -174,7 +174,7 @@ Threats
 
 ## Token Metrics
 
-
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/96482943/170780562-9181d7bf-e15d-46fa-b6a6-d5d5b8d66c31.png">
 
 ## Management & Team
 
