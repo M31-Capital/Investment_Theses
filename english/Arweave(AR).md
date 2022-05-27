@@ -202,5 +202,7 @@ As of now, Tokemak has been audited by Block Apex and Hacken. This covers all th
 
 ## Official Channels
 [Website](https://www.arweave.org/)
+
 [Twitter](https://twitter.com/ArweaveTeam)
+
 [Discord](https://discord.gg/3Dad8J7)
