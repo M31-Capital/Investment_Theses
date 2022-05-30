@@ -1,5 +1,5 @@
 # Render Network (RNDR)
-* Current Price: 		$0.94
+* Current Price: 		$0.77
 * Token Type:			Utility token for governance, staking, fee sharing and payments.
 * Circ. Token Supply: 		253,798,859 RNDR
 * Max. Token Supply: 		530,962,614 RNDR
@@ -9,7 +9,7 @@
 
 Historical Chart
 
-<img width="520" alt="image" src="https://user-images.githubusercontent.com/96482943/168863827-5f42e05b-211c-480c-90ff-b7d8be8de918.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/168863827-5f42e05b-211c-480c-90ff-b7d8be8de918.png">
 
 
 ## Overview
@@ -66,9 +66,9 @@ Arweave, Livepeer and Helium and Filecoin are the best comparisons to Render - s
 
 Explicit fees are the fees that users pay (in the protocol tokens) to render the service of the network. For example - you would pay for storage on Filecoin or Arweave, pay for streaming video on Livepeer, and pay for Data credits on Helium. 
 
-It’s evident that these infrastructure protocols are quite overvalued as compared to the revenues they are generating - however, the number of users is sporadic - and not too high. However, as adoption scales - so will the revenues. 
+It’s evident that these infrastructure protocols are quite overvalued as compared to the revenues they are generating - however, the number of users is concentrated given how nascent the space is. we should see user growth increase exponentially over time, as these products improve on UX, and find strong PMF. At the end of the day, they will be able to provide services identical to web2 at much lower costs. This will bring the users, and revenue. 
 
-There is no official on-chain data – however, according to the Render CEO – the network has over 10,000 users, and does more than 1M RNDR tokens of transactions per month, on the network. This implies an annualised revenue of ~$39 million (at current RNDR prices) which is much higher than all the other infrastructure protocols out there. 
+There is no official on-chain data – however, according to the latest data from the team, – the network has over 10,000 users, and does more than 1M RNDR tokens of transactions per month, on the network. This implies an annualised revenue of ~$39 million (at current RNDR prices) which is much higher than all the other infrastructure protocols out there. 
 
 
 Optimistic: Assume that the numbers the RNDR team spoke about are accurate, the protocol is significantly undervalued compared to all the other protocols – considering the high consisntent demand there is for Rendering (or the utility the Render Network provides) compared to the other protocols.  
