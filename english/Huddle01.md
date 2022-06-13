@@ -76,9 +76,9 @@ Huddle01 aims to provide seamless real-time communication for the Next-Gen. It w
 
 ### WebRTC  
 
-WebRTC establish a secure SRTP ( and SCTP channels over UDP protocol to exchange Audio/Video/Data secured by DTLS protocol
+WebRTC establishes a secure SRTP ( and SCTP channels over UDP protocol to exchange Audio/Video/Data secured by DTLS protocol
 
-### Custom Media Server wrapped/signaling server (TypeScript): WebRTC is a p2p protocol and discovering peers on the internet can be problematic as they can be behind NAT, Offline, Unreachable, or engaged in other connections. Signaling is a process where the peer is able to discover another peer. 
+Custom Media Server wrapped/signaling server (TypeScript): WebRTC is a p2p protocol and discovering peers on the internet can be problematic as they can be behind NAT, Offline, Unreachable, or engaged in other connections. Signaling is a process where the peer is able to discover another peer. 
 
 
 * This is used to expose the SFU written in C++ through our NodeJS wrapper in the form of APIs
