@@ -48,6 +48,8 @@ Security: a DTLS session is initiated and is utilized to exchange security conte
 
 # Huddle Protocol Design
 
+![image](https://user-images.githubusercontent.com/96482943/173389908-5f04ac20-e720-4ae2-b831-fd7a8b086977.png)
+
 
 Anyone can connect to Huddle to generate instant, real time communication. (If you think about it, with a link and an internet connection, Huddle enables instant communication between two individuals. Can definitely see a ‘decentralized FaceTime’ like application being built on Huddle.)
 
@@ -66,6 +68,9 @@ Anyone can connect to Huddle to generate instant, real time communication. (If y
 # Huddle Protocol Tech Stack
 
 Huddle01 aims to provide seamless real-time communication for the Next-Gen. It will also lay a solid foundation for builders to innovate on top of it and build various client-facing applications. Huddle Provides a ready to use platform for video conferencing with a single click. They also have custom SDKs, on both mobile and web platforms for custom platform integrations. The protocol aims (and has so far proven) to scale WebRTC through a decentralized network of nodes, being able to provide live audio/video streaming infrastructure that is fast (low latency) and inexpensive (not CPU intensive) to use.
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/173389714-e52945b1-9e62-4a24-8b3f-418fd93dbf07.png">
+
 
 ## Backend Infrastructure: 
 
@@ -122,6 +127,9 @@ Processes the files to content addressable form ie CAR files and automatically s
 ## Web3 APIs
 
 Huddle can integrate the below APIs to create web3 native features, like token gated meetings, NFT avatars, ENS integrations, Decentralised Storage, and Decentralised video transcoding 
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/173389561-72453b58-0266-4202-897d-b458b212f826.png">
+
  
 # Business Model 
 
