@@ -1,4 +1,4 @@
-# Huddle01 – Decentralising the Web2 Live Video Streaming stack
+# Huddle01 – Decentralising the Web2 Live Video Streaming Stack
 
 ## Investment Thesis
 
@@ -19,7 +19,10 @@ The current audio/video streaming tech stack is highly centralized – not by de
 
 In order to establish user to user communication for live engagement applications (live streaming (twitch), audio/video conferencing (zoom), live audio streaming (clubhouse), the technology that is leveraged is called webRTC (Web Real Time Communication Protocol) – an open-source protocol that supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice- and video-communication solutions.
 
-*webRTC is the infrastructure backbone for any sort of communication application we use today. 
+*webRTC is the infrastructure backbone for any sort of communication application we use today* 
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/173421058-67073529-8fa8-4b43-9819-52635a2a450e.png">
+
 
 The Problem with webRTC: It cannot scale because it uses a P2P mesh network. P2P, or mesh, is the easiest to set up and most cost-effective architecture you can use in a WebRTC application; it’s also the least scalable. In a mesh topology, two or more peers (clients) talk to each other directly or, when on opposite sides of a firewall, via a TURN server which relays audio, video, and data streaming to them.
 
@@ -33,18 +36,28 @@ it helps establish low latency and loss tolerating connections between applicati
 
 In order to scale, webRTC applications use SFU and MCU – protocols that offload the processing power (similar to how a sidechain would), allowing for faster speeds and better output quality. To put it simply, without an SFU and MCU, webRTC cannot scale beyond 2-3 users. 
  
+### SFU (Selective Forwarding Unit) 
+
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/96482943/173418905-208d99f9-c809-4b0d-b69e-f50bfbeab296.png">
+
 
 SFU is perhaps the most popular architecture in modern WebRTC applications. Put simply, an SFU is a pass-through routing system designed to offload some of the stream processing from the client to the server (exactly like a rollup, or more accurately, a sidechain would offload transactions on from a layer 1 blockchain). Each participant sends their encrypted media streams once to a centralized server, which then forwards those streams—without further processing—to the other participants. 
 
 Although an SFU is more upload efficient than a mesh topology—for example, on a call with n participants you have only one upstream per client rather than n–1 upstreams—clients still have to decode and render multiple (n-1) downstreams which, as the number of participants grows, will drain client resources, reduce video quality, and thus limit scalability.
 
-In an MCU topology, each client is connected to a centralized MCU server, which decodes, rescales, and mixes all incoming streams into a single new stream and then encodes and sends it to all clients. Although bandwidth friendly and less CPU intensive on the client side—instead of processing multiple streams, clients have to decode and render only one stream—an MCU solution is rather expensive on the server side. Transcoding multiple audio and video streams into a single stream and then encoding it at multiple resolutions in real time is very CPU intensive, and the more clients connect to the server the higher its CPU requirements.
+### MCU (Multipoint Conferencing Unit)
+
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/96482943/173419307-9f3fd35b-1581-4df8-ae73-7f7935df7068.png">
+
+
+In an MCU, each client is connected to a centralized MCU server, which decodes, rescales, and mixes all incoming streams into a single new stream and then encodes and sends it to all clients. Although bandwidth friendly and less CPU intensive on the client side—instead of processing multiple streams, clients have to decode and render only one stream—an MCU solution is rather expensive on the server side. Transcoding multiple audio and video streams into a single stream and then encoding it at multiple resolutions in real time is very CPU intensive, and the more clients connect to the server the higher its CPU requirements.
 
 TLDR: SFU and MCU are the only options to scale webRTC, and both suck. 
 
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/173419515-bb10b74f-b2f4-41a5-9c35-3750bbb85ae9.png">
+
+
 Security: a DTLS session is initiated and is utilized to exchange security context and data. Audio and Video data are transferred via SRTP protocol using UDP.
-
-
 
 ## Huddle Protocol Design
 
@@ -86,18 +99,20 @@ Custom Media Server wrapped/signaling server (TypeScript): WebRTC is a p2p proto
 * This uses WebSockets to signal peers and helps establish WebRTC connections
 * These APIs and the WebSocket connection together helps ensure efficient and reliable communication between the clients and the media server
 
-SFU is written in C++ bridged with NodeJS: Huddle has deployed the following tech to handle real-time scalability
-Tested with a capacity of ~300 users in a single room (4 publishers with 300+ subscribers) on a single 4-vCPU system.
-Configurable codecs ( Vp8, Vp9, AV1, Opus): Huddle has enabled users to choose and switch between whatever codecs are available and want to use. (codecs are hardware or software based processes that compress and decompress large amounts of data)
+* SFU is written in C++, bridged with NodeJS: Huddle has deployed the following tech to handle real-time scalability, tested with a capacity of ~300 users in a single room (4 publishers with 300+ subscribers) on a single 4-vCPU system.
+
+* Configurable codecs ( Vp8, Vp9, AV1, Opus): Huddle has enabled users to choose and switch between whatever codecs are available and want to use. (codecs are hardware or software based processes that compress and decompress large amounts of data)
 
 ### Simulcast 
-Since all the users in the room will have varied set of internet bandwidths, we enabled simulcast that essentially upgrades/downgrades video resolution in real-time for all users depending on the internet bandwidths
-Simulcast is a technique by which a WebRTC client encodes the same video stream twice in different resolutions and bitrates and sends these to a router who then decides who receives which of the streams.
+Since all the users in the room will have varied set of internet bandwidths, Huddle enables *Simulcast*, that essentially upgrades/downgrades video resolution in real-time for all users depending on the internet bandwidths. Simulcast is a technique by which a WebRTC client encodes the same video stream twice in different resolutions and bitrates and sends these to a router who then decides who receives which of the streams. 
 
 ### Multithreading (Vertical Scaling) 
 
-Since JavaScript is single-threaded, the capabilities of the system remained limited to a single worker’s capability, physically. We solved this by having all workers in a system share that work-load. This approach of distributing work-load amongst workers in a server is called multi-threading
-Cascaded SFU (Horizontal Scaling). The capabilities of the system/room remained limited because of the limitation to only one computer. The solution to this problem is by having multiple servers share the workload, the same way multiple workers helped solve the workload. This approach of connecting multiple servers so as to share the server-load amongst themselves is called cascading SFUs.
+Since JavaScript is single-threaded, the capabilities of the system remained limited to a single participant's capability to physically ship code. Huddle has solved this by having all participants in a system share that work-load. This approach of distributing work-load amongst participants in a server is called multi-threading
+
+### Cascaded SFU (Horizontal Scaling)
+
+The capabilities of the system/room remained limited because of the limitation to only one computer. The solution to this problem is by having multiple servers share the workload, the same way multiple workers helped solve the workload. This approach of connecting multiple servers so as to share the server-load amongst themselves is called cascading SFUs.
 
 ### LastN 
 
@@ -151,6 +166,7 @@ Questions:
 * How will users pay for mins? Will there be a subscription-based model that offers users specific number of mins? Or will payment be routed through the protocol token?
 * Open-source risk: can applications leverage the HRTP and HRTCP protocol directly (as in, without an SDK) and build out their own versions without routing through the Huddle protocol?
 * How does HRTP and HRTCP work specifically? 
+* Instead of using Simulcast, could Huddle leverage Livepeer instead? Or is that the plan?
 
 
 
