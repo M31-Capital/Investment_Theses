@@ -31,12 +31,18 @@ As of today, there have been a total of 1.3m ENS domains created, with close to 
  
  # Technology 
  
+ENS has two primary components – the ENS registry, and the ENS revolver. 
+
+### ENS Registry
+This is the core database of the protocol, and is a smart contract that keeps track (maintains a list) of all domains and subdomains that have been regisytered on the protocol. It keeps track of data like: owner of domains, resolver for the domain, and the caching time-to-live for all records under the domain. 
+
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/96482943/174530844-a5662212-a9f8-470e-892a-d493ce916ae9.png">
+
+### ENS Resolver 
+
  # Revenue Growth 
  
  <img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/174529651-d98fa546-46e9-40bb-8d69-1cb7d34ea1ef.png">
-
-
-
 
 
 
