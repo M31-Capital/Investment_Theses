@@ -33,7 +33,7 @@ As of today, there have been a total of 1.3m ENS domains created, with close to 
  
  # Revenue Growth 
  
- <img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/174529651-d98fa546-46e9-40bb-8d69-1cb7d34ea1ef.png">
+ <img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/174529651-d98fa546-46e9-40bb-8d69-1cb7d34ea1ef.png">
 
 
 
