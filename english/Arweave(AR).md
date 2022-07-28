@@ -89,15 +89,15 @@ Token Price - $55.4
 
 ## Competitors
 
-* Traditional competitors – AWS Cloud, Microsoft Azzure, Google Cloud
-* Crypto Competitors – Filecoin, Siacoin, Storj
+* Traditional competitors: AWS Cloud, Microsoft Azzure, Google Cloud
+* Crypto Competitors: Filecoin, Siacoin, Storj
 
 
 
 
 ## Technology:
 
-## Arweave’s blockchain and tokenomic model run on 4 core components: 
+# Arweave’s blockchain and tokenomic model run on 4 core components: 
 
 **Blockweave:** 
 In the case of blockweave, unlike other blockchains, nodes do not need to download the whole previous blockchain to begin to fulfil key network functions – which is made possible using block hash lists and active wallet lists. When new nodes join the network – they download the current block and receive the entire wallet list as well as the block hash lists. 
