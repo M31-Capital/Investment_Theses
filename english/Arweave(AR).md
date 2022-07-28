@@ -1,7 +1,7 @@
 # Arweave (AR)
 
 * Current Price: $12.84 
-* Token Type:	Utility token for File storage and tx fees
+* Token Type:	Utility token for permanent file storage and tx fees
 * Circ. Token Supply: 50.108m
 * Max. Token Supply: 66m
 * Market Capitalisation: $643m
@@ -17,30 +17,29 @@ Arweave is a data storage protocol built on block weave technology. Arweave is d
 ## Investment Thesis
 
 
-**1. Current Data Storage is Impermanent and Centralised – prone to censorship, change, deletion**
+**1. Current Data Storage is Impermanent & Centralised – prone to censorship, change, deletion**
 
-Most data storage today is highly centralised, and temporary. Users pay cloud storage companies like AWS, Azzure monthly fees to store their data on their servers. Most of the internet’s data is stored similarly. This data is completely at the mercy of the centralised entity that controls the servers – and is susceptible to change, removal or censorship. Arweave looks at providing a decentralised storage network to overcome all of these issues – making data universally accessible. 
+Most data storage today is highly centralised, and temporary. Users pay cloud storage companies like AWS, Azzure, etc. monthly fees to store their data on their servers. Most of the internet’s data is stored similarly and completely at the mercy of the centralised entity that controls the servers – it is susceptible to change, removal, or censorship. Arweave looks at providing a decentralised storage network to overcome all of these issues – making data universally accessible. 
 
 
-**2. Strong Economic model incentivising long term data storage**
+**2. Strong Economic Model Incentivising Long Term Data Storage**
 
-Data stored on the internet is far from permanent. Centralised servers will store your data only as long as you continue paying a monthly subscription fee – the moment that fee stops, your data can be deleted. Close to 95% of the information on the internet is lost every 20 years. 
-Arweave has created a unique economic model that incentivises decentralised data storage via nodes – through a long term payment system in AR tokens over time. 
+Data stored on the internet is far from permanent. Centralised servers will store your data only as long as you continue to pay a monthly subscription fee – the moment that fee stops, your data can be deleted. Close to 95% of the information on the internet is lost every 20 years. Arweave has created a unique economic model that incentivises decentralised data storage via node participants through a long term payment system in AR tokens over time. 
 
 **3. Building a Permanent Internet**
 
-Arweave is looking towards building a permanent internet – a web of applications, information and data – that is permanent, prone to censorship. Arweave does this by incentivising developers to build applications on its blockchain – by providing a profit sharing concept with the protocols – aligning their incentives with Arweave’s. Protocols receive fees from Arweave based on the usage/transactions they generate on the blockchain. More the activity – more the fees. Arweave could potentially become the go to platform for decentralised news, social media etc. 
+Arweave is looking towards building a permanent internet – a web of applications, information, and data stored permanently. Arweave does this by incentivising developers to build applications on its blockchain through a profit sharing concept – aligning their incentives with Arweave’s. Protocols receive fees from Arweave based on the usage/transactions they generate on the blockchain. More activity = more fees. Arweave could potentially become the go-to platform for decentralised news, social media, etc. 
 
-**4. Providing Storage as a Service to other Enterprises and Blockchains**
+**4. Providing Storage-as-a-Service to other Enterprises & Blockchains**
 
-While Arweave may be the go to blockchain for applications that value permanence, they can also serve as an infrastructure layer to enterprises including other blockchains that need to store important metadata in perpetuity. We are already seeing this with Solana, that uses a proof-of-history consensus mechanism – thereby needing to keep their data permanent.  As blockchains grow, so will the demand for more and more permanent storage. 
+While Arweave may be the go-to blockchain for applications that value permanence, it can also serve as an infrastructure layer to enterprises including other blockchains that need to store important metadata in perpetuity. We are already seeing this with Solana's Proof-of-History consensus mechanism, for example, requiring data permanance. As blockchains grow, so will the demand for permanent storage. 
 
 
 ## Catalysts: 
 
 * In Dec 2020 - Solana and Arweave partnered for Solana’s high performance data storage needs. This provides Arweave with a constant stream of demand for its storage, and thus, its token. 
-* Decentralized NFT, Gaming, Social Media apps will all require vast amounts of storage – Currently a single AAA game will require between 25GB-100GB of data storage. NFT’s will want to be stored permanently. Solana has allocated $100m focused on building the Gaming and NFT ecosystem while they Mhave also partnered with Reddit Founder Alex Ohanian to allocate another $100m for decentralized social media. 
-* Permaweb application development – as more and more applications look to build for permanence – Arweave will be the main destination. 
+* Decentralized NFT, Gaming, Social Media apps will all require vast amounts of storage – Currently a single AAA game will require between 25GB-100GB of data storage. NFTs will need to be stored permanently. Solana has allocated $100m focused on building the Gaming and NFT ecosystem while they have also partnered with Reddit Founder Alex Ohanian to allocate another $100m for decentralized social media. 
+* Permaweb application development – as more applications look to build for permanence, Arweave will be the main destination. 
 
 
 ## TAM & Valuation: 
@@ -49,17 +48,17 @@ The primary goal for Arweave is to become the go-to service provider for decentr
 Quantifying the TAM taking into consideration current web2 cloud storage Market: 
 Current Market Size : $74.6bn projected to grow to $390bn by 2028. IT and telecommunications is 16% of this market, and with data that is of historical significance, Telecommunication and IT has a higher need of permanence. 
 
-Current Market Cap of web3 File storage protocols : 
+Current Market Cap of Web3 file storage protocols : 
+* Filecoin – $1.6Bn
 * Arweave – $643m 
-* Filecoin – $1.55bn
 * Siacoin – $276m
-* Storj – $73.1m
+* Storj – $73m
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/170776493-edd2c986-2829-4d66-ad8a-55ea86ec0cb6.png">
 
 
 ## Valuation 
-We can try valuing the token based on potential revenues earned. Currently the protocol stores ~1344x less data than Filecoin, 41x less data than Sia, and 143x less data than Storj, yet is higher in terms of supply side revenue earned. Assuming data capture increases between 100x and 1200x – we can assume revenues will increase by the same amount – as costs are upfront and assuming price stays more or less level. 
+The token can be valued based on potential revenue. Currently the protocol stores ~1,344x less data than Filecoin, 41x less data than Sia, and 143x less data than Storj, yet is higher in terms of supply side revenue earned. Assuming data capture increases between 100x and 1,200x, we can assume revenue will increase by the same amount as costs are upfront, holding price constant. 
 
 Conservative – assuming revenues and data capture increase by 250x in Y1 and grow 10% YoY. 
 
@@ -75,7 +74,7 @@ Token Price - $33.56
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/170777951-5f55ecd1-8332-4010-bb18-eedd00f93936.png">
 
  
-Bullish –  assuming revenues and data capture increase by 750x in Y1 and grow 25% YoY. 
+Bullish –  assuming revenue and data capture increase by 750x in Y1 and grow 25% YoY. 
 
 Token Price - $55.4
 
@@ -90,21 +89,22 @@ Token Price - $55.4
 
 ## Competitors
 
-* Traditional competitors – AWS, Azzure.  
-* Crypto Competitors – Filecoin, Siacoin, Storj.
+* Traditional competitors – AWS Cloud, Microsoft Azzure, Google Cloud
+* Crypto Competitors – Filecoin, Siacoin, Storj
 
 
 
 
 ## Technology:
 
-## Arweave’s blockchain, and economic incentives model run on 4 core components: 
+## Arweave’s blockchain and tokenomic model run on 4 core components: 
 
 **Blockweave:** 
 In the case of blockweave, unlike other blockchains, nodes do not need to download the whole previous blockchain to begin to fulfil key network functions – which is made possible using block hash lists and active wallet lists. When new nodes join the network – they download the current block and receive the entire wallet list as well as the block hash lists. 
 
 
-Proof of Access: Proof of access is a novel consensus mechanism that produces a positive externality of data storage. Instead of competing to burn as much electricity as possible, miners compete to provide as many replications of the data held in the system as they can. Further, as the blockweave expands in size, the amount of electricity expended in the mining process decreases.
+**Proof of Access:**
+Proof of access is a novel consensus mechanism that produces a positive externality of data storage. Instead of competing to burn as much electricity as possible, miners compete to provide as many replications of the data held in the system as they can. Further, as the blockweave expands in size, the amount of electricity expended in the mining process decreases.
 
 
 **Wildfire:**  
@@ -119,23 +119,23 @@ In order to support a network that allows for long-term on-chain data storage, t
 
 The value of AR is derived from: 
 
-1. Transaction fees paid on the network – for data storage, data retrieval.
-2. Fees from Interactions with Permaweb applications.
-3. Fees from AR token transfers.  
+1. Transaction fees paid on the network for data storage & data retrieval
+2. Fees from interactions with Permaweb applications
+3. Fees from AR token transfers
  
-Total supply is 66,000,000 AR. 
+Total Supply: 66,000,000 AR
 Genesis Block: 55,000,000 AR
-Block Rewards: 11,000,000 AR. 
+Block Rewards: 11,000,000 AR 
 
-Genesis Token distribution: 38.5 % sold. 
-No clarity on the rest. 
+Genesis Token distribution: 38.5 % sold 
+No clarity on the rest
 
-Advisors - 2.9%: 1,595,000 AR
-Project Team – 13% - 7,150,000 AR (5-year vest – 20% a year)
-Development Fund – 19.1% - 10,505,000 AR 
-Future Project use: 26.5% - 14,575,000 AR.
+Advisors (2.9%): 1,595,000 AR
+Project Team (13%): 7,150,000 AR (5-year vest – 20% a year)
+Development Fund (19.1%): 10,505,000 AR 
+Future Project use (26.5%): 14,575,000 AR
 
-According to the blockexplorer – 9 addresses hold 22m AR. (nearly 50% of circulating supply) 
+According to the blockexplorer, 9 addresses hold 22m AR (nearly 50% of circulating supply) 
 
 ##Token Utility
 
