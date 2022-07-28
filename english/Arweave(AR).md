@@ -97,22 +97,18 @@ Token Price - $55.4
 
 ## Technology:
 
-# Arweave’s blockchain and tokenomic model run on 4 core components: 
+Arweave’s blockchain and tokenomic model run on 4 core components: 
 
-**Blockweave:** 
-In the case of blockweave, unlike other blockchains, nodes do not need to download the whole previous blockchain to begin to fulfil key network functions – which is made possible using block hash lists and active wallet lists. When new nodes join the network – they download the current block and receive the entire wallet list as well as the block hash lists. 
-
-
-**Proof of Access:**
-Proof of access is a novel consensus mechanism that produces a positive externality of data storage. Instead of competing to burn as much electricity as possible, miners compete to provide as many replications of the data held in the system as they can. Further, as the blockweave expands in size, the amount of electricity expended in the mining process decreases.
+**Blockweave:** In the case of blockweave, unlike other blockchains, nodes do not need to download the whole previous blockchain to begin to fulfil key network functions – which is made possible using block hash lists and active wallet lists. When new nodes join the network – they download the current block and receive the entire wallet list as well as the block hash lists. 
 
 
-**Wildfire:**  
-It is a system that solves the problem of data sharing in a decentralized network by making the rapid fulfillment of data requests on the network – a necessary part of network participation. 
+**Proof of Access:** Proof of access is a novel consensus mechanism that produces a positive externality of data storage. Instead of competing to burn as much electricity as possible, miners compete to provide as many replications of the data held in the system as they can. Further, as the blockweave expands in size, the amount of electricity expended in the mining process decreases.
+
+
+**Wildfire:** It is a system that solves the problem of data sharing in a decentralized network by making the rapid fulfillment of data requests on the network – a necessary part of network participation. 
 It works by creating a ranking system local to each node – which determines how quickly new blocks and transactions are distributed to peers, based on how quickly they respond to requests and accept data from others. 
 
-**Blockshadows:**
-In order to support a network that allows for long-term on-chain data storage, the Arweave needs a system that supports unlimited sized blocks. The Arweave achieves this by using a system that decouples transaction distribution from that of block distribution in the network. This allows only a ‘shadow’ of the block to be moved around the system (the instructions necessary to rebuild the block from its constituent transactions), rather than full block itself. This means that the information required to process large blocks can be distributed across the network in just a few kilobytes 
+**Blockshadows:** In order to support a network that allows for long-term on-chain data storage, the Arweave needs a system that supports unlimited sized blocks. The Arweave achieves this by using a system that decouples transaction distribution from that of block distribution in the network. This allows only a ‘shadow’ of the block to be moved around the system (the instructions necessary to rebuild the block from its constituent transactions), rather than full block itself. This means that the information required to process large blocks can be distributed across the network in just a few kilobytes 
 
 
 ## AR Tokenomics:
