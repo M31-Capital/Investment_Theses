@@ -19,7 +19,7 @@ Arweave is a permanent data storage protocol built on blockweave technology. The
 
 **Current Data Storage is Impermanent & Centralised – Prone to Censorship, Change and Deletion**
 
-Most data storage today is highly centralised, and temporary. Users pay cloud storage companies like AWS, Azzure, etc. monthly fees to store their data on their servers. Most of the internet’s data is stored similarly and completely at the mercy of the centralised entity that controls the servers – it is susceptible to change, removal, or censorship. Arweave looks at providing a decentralised storage network to overcome all of these issues – making data universally accessible. 
+Most data storage today is highly centralised, and temporary. Users pay cloud storage companies like AWS, Azzure, etc. monthly fees to store their data on their servers. Most of the internet’s data is stored similarly and completely at the mercy of the centralised entity that controls the servers – it is susceptible to change, removal, or censorship. Arweave looks at providing a decentralised storage network to overcome all of these issues, making data universally accessible. 
 
 
 **Strong Economic Model Incentivising Long Term Data Storage**
@@ -29,7 +29,7 @@ Arweave has created a unique economic model that incentivises decentralised data
 
 **Building a Permanent Internet**
 
-Data stored on the internet is far from permanent. Centralized servers will store  data only as long as they continue to collect a monthly subscription fee. The moment that fee stops, the data is at risk of being deleted. Close to 95% of the information on the internet is lost every 20 years, which has massive ramifications on various communities of the world. Arweave is looking towards building a permanent internet – a web of applications, information, and data that is stored permanently, and can never be deleted. It does this by incentivising developers to build applications on its blockchain through a profit sharing concept – aligning incentives. Protocols receive fees from Arweave based on the usage/transactions they generate on the blockchain. More activity = more fees. Arweave could potentially become the go-to platform for decentralised news, social media, etc. 
+Data stored on the internet is far from permanent. Centralized servers will store  data only as long as they continue to collect a monthly subscription fee. The moment that fee stops, the data is at risk of being deleted. Close to 95% of the information on the internet is lost every 20 years, which has massive ramifications on various communities of the world. Arweave is looking towards building a permanent internet: a web of applications, information, and data that is stored permanently, and can never be deleted. It does this by incentivising developers to build applications on its blockchain through a profit sharing concept, aligning incentives. Protocols receive fees from Arweave based on the usage/transactions they generate on the blockchain. More activity = more fees. Arweave could potentially become the go-to platform for decentralised news outlets, social media platforms, etc. 
 
 **Providing Storage-as-a-Service to other Enterprises & Blockchains**
 
@@ -39,40 +39,38 @@ While Arweave may be the go-to blockchain for applications that value permanence
 ## Catalysts
 
 * In Dec 2020 - Solana and Arweave partnered for Solana’s high performance data storage needs. This provides Arweave with a constant stream of demand for its storage, and thus, its token. 
-* Decentralized NFT, Gaming, Social Media apps will all require vast amounts of storage – Currently a single AAA game will require between 25GB-100GB of data storage. NFTs will need to be stored permanently. Solana has allocated $100m focused on building the Gaming and NFT ecosystem while they have also partnered with Reddit Founder Alex Ohanian to allocate another $100m for decentralized social media. 
+* Decentralized NFT, Gaming, & Social Media apps will all require vast amounts of storage. Currently a single AAA game will require between 25GB-100GB of data storage. NFTs need to be stored permanently. Solana has allocated $100m focused on building the Gaming & NFT ecosystem while they have also partnered with Reddit Founder Alex Ohanian to allocate _another_ $100m for decentralized social media. 
 * Permaweb application development – as more applications look to build for permanence, Arweave will be the main destination. 
 
 
 ## TAM, Industry Outlook, & Competitors 
 
-Arweave is set to become the go-to service provider for decentralised long term data storage, providing for web2 data storage, as well as web3 data storage requirements. We quantify the TAM by taking into consideration current web2 cloud storage market, which is worth ~$75bn, and projected to grow to $400bn by 2028. IT and telecommunications makes up 16% of this market, and given these sectors deal with data that is of historical significance and importance, this sector could serve up a large portion of demand for decentralized, permanent storage. 
+Arweave is set to become the go-to service provider for decentralised long term data storage, providing for Web2 data storage, as well as Web3 data storage requirements. We quantify the TAM by taking into consideration current Web2 cloud storage market, worth ~$75bn, and projected to grow to $400bn by 2028. IT and telecommunications makes up 16% of this market, and given these sectors deal with data that is of historical significance and importance, this sector could serve up a large portion of demand for decentralized, permanent storage. 
 
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184432209-40065d28-6210-4d60-8774-9a7b39ebe09f.png">
 
-Within Web3, the storage market is  dominated by Filecoin (undelrying IPFS), which houses 91% of all the total data stored within Web3. 
-The reason for its dominance has been an early mover advantage, paired with large number of integrations, and very cheap fees. However, the underlying technology and incentive system for miners is harder to maintain as the network scales. Sia and Storj also store much more data than Areave, which is  driven by much lower costs. However, the same scalability problem applies to these protocols as well. 
+Within Web3, the storage market is dominated by Filecoin (underlying IPFS), which houses 91% of all the total data stored within Web3. The reason for its dominance has been an early mover advantage, paired with large number of integrations, and very cheap fees. However, the underlying technology and incentive system for miners is harder to maintain as the network scales. Sia and Storj also store much more data than Areave, which is driven by much lower costs. However, the same scalability problem applies to these protocols as well. 
 
-Arweave costs are significantly higher than its competitors – however, it is a one-time fee. The other protocols charge subscription fees on a recurring basis per unit of data stored. 
+Arweave costs are significantly higher than its competitors, however it is a one-time fee. The other protocols charge subscription fees on a recurring basis per unit of data stored. 
 
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184437785-43dff413-6f9d-4950-abb8-72d8ef630070.png">
 
-When looking at all the protocols on a side by side basis, it is pretty clear that Filecoin has established its domninance by providing the lowest cost per TB of data stored, and building out a large demand side. The trade off here is complexity of the underlying economic system that makes it much harder for new miners to join, and much more inefficient for the current crop of miners to sustain. Arweave's system is more simple. Providing a good experience for the miners (who provide the core service - storage) will be of utmost importance if a storage network is to grow. Filecoin is a great option for retail, but however, still cannot guarantee data permanence. We are likely to see Filecoin dominate the retail segment of the market, however, we believe that Arweave will attract a slightly different user base with demand driven by eneterprises, blockchains and institutions. These entities bring with them large amounts of data payloads that will only continue to increase over time. 
+When looking at all the protocols on a side by side basis, it is pretty clear that Filecoin has established its domninance by providing the lowest cost per TB of data stored, and building out a large demand side. The tradeoff here is complexity of the underlying economic system that makes it much harder for new miners to join, and much more inefficient for the current crop of miners to sustain. Arweave's system is simpler. Providing a good experience for miners (who provide the core service - storage) will be of utmost importance if a storage network is to grow. Filecoin is a great option for retail, but cannot guarantee data permanence. We are likely to see Filecoin dominate the retail segment of the market, however, we believe that Arweave will attract an entirely separate user base for entirely separate use cases. Demand will be driven by enterprises, blockchain protocols, and institutions with large data payloads that will only continue to increase over time.
 
  
 ## Technology
 
 Arweave’s blockchain and tokenomic model run on 4 core components: 
 
-**Blockweave:** In the case of blockweave, unlike other blockchains, nodes do not need to download the whole previous blockchain to begin to fulfil key network functions – which is made possible using block hash lists and active wallet lists. When new nodes join the network – they download the current block and receive the entire wallet list as well as the block hash lists. 
+**Blockweave:** Unlike other blockchains, Arweave nodes do not need to download the entire blockchain history to begin to fulfil key network functions – which is made possible using block hash lists and active wallet lists. When new nodes join the network, they download the current block header and receive the entire wallet list as well as the block hash lists. 
 
 
-**Proof of Access:** Proof of access is a novel consensus mechanism that produces a positive externality of data storage. Instead of competing to burn as much electricity as possible, miners compete to provide as many replications of the data held in the system as they can. Further, as the blockweave expands in size, the amount of electricity expended in the mining process decreases.
+**Proof of Access:** Proof of Access is a novel consensus mechanism that produces a positive externality of data storage. Instead of competing to burn as much electricity as possible, miners compete to provide as many replications of the data held in the system as they can. Further, as the blockweave expands in size, the amount of electricity expended in the mining process decreases.
 
 
-**Wildfire:** It is a system that solves the problem of data sharing in a decentralized network by making the rapid fulfillment of data requests on the network – a necessary part of network participation. 
-It works by creating a ranking system local to each node – which determines how quickly new blocks and transactions are distributed to peers, based on how quickly they respond to requests and accept data from others. 
+**Wildfire:** It is a system that solves the problem of data sharing in a decentralized network by making the rapid fulfillment of data requests on the network – a necessary part of network participation. It works by creating a ranking system local to each node, which determines how quickly new blocks and transactions are distributed to peers based on how quickly they respond to requests and accept data from others. 
 
-**Blockshadows:** In order to support a network that allows for long-term on-chain data storage, the Arweave needs a system that supports unlimited sized blocks. The Arweave achieves this by using a system that decouples transaction distribution from that of block distribution in the network. This allows only a ‘shadow’ of the block to be moved around the system (the instructions necessary to rebuild the block from its constituent transactions), rather than full block itself. This means that the information required to process large blocks can be distributed across the network in just a few kilobytes 
+**Blockshadows:** In order to support a network that allows for long-term onchain data storage, Arweave needs a system that supports unlimited sized blocks. Arweave achieves this by using a system that decouples transaction distribution from that of block distribution in the network. This allows only a ‘shadow’ of the block to be moved around the system (the instructions necessary to rebuild the block from its constituent transactions), rather than the full block itself. This means that information required to process large blocks can be distributed across the network in just a few kilobytes. 
 
 
 ## AR Tokenomics
@@ -99,8 +97,8 @@ No clarity on the rest.
 
 ## Token Utility
 
-* Encoding data into the system and rewarding miners. In order to write a transaction into a block, a user has to pay some AR as a transaction fee- majority of the fee is stored in a treasury and paid to miners over time.
-* Paying for permanent data storage. (Upfront costs) – more the requirement for data storage – more demand for AR. 
+* Encoding data into the system and rewarding miners. In order to write a transaction into a block, a user has to pay some AR as a transaction fee. The majority of this fee is stored in a treasury and paid out to miners over time.
+* Paying for permanent data storage. (Upfront costs) – Higher demand for data storage yields higher demand for AR. 
 
 
 ## Revenue Drivers
