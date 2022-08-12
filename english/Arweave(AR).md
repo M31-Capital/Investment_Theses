@@ -58,49 +58,7 @@ Arweave costs are significantly higher than its competitors – however, it is a
 
 When looking at all the protocols on a side by side basis, it is pretty clear that Filecoin has established its domninance by providing the lowest cost per TB of data stored, and building out a large demand side. The trade off here is complexity of the underlying economic system that makes it much harder for new miners to join, and much more inefficient for the current crop of miners to sustain. Arweave's system is more simple. Providing a good experience for the miners (who provide the core service - storage) will be of utmost importance if a storage network is to grow. Filecoin is a great option for retail, but however, still cannot guarantee data permanence. We are likely to see Filecoin dominate the retail segment of the market, however, we believe that Arweave will attract a slightly different user base with demand driven by eneterprises, blockchains and institutions. These entities bring with them large amounts of data payloads that will only continue to increase over time. 
 
-
-
-
-
-## Valuation 
-
-Currently Arweave stores much less data as compared to its competitors, ~1,721x less than Filecoin, 38x less than Sia, and 131x less than Storj, yet is higher in terms of revenue earned. e can attempt to come to a fair value of the token based on potential revenue that Arweave can generate. 
-
-Assuming data capture increases between 100x and 1,200x, and costs remain more or less constant, we can project the amount of potential revenue that Arweave can generate. We expect other layer 1 blockchains to actively begin outsourcing their data storage requirements, and assume that this will be a large contributor to data storage increases on the network. 
-
-The Protocol Fee model is rather simple. Users pay an upfront cost 
-
-We present three scenarios. 
-
-Conservative – assuming revenues and data capture increase by 250x in Y1 and grow 10% YoY. 
-
-Token Price - $13.78
-
- <img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/170777420-066c510d-b926-4134-8ff3-1f0ec417ac23.png">
-
-
-Moderate – assuming revenues and data capture increase by 500x in Y1 and grow 20% YoY. 
-
-Token Price - $33.56
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/170777951-5f55ecd1-8332-4010-bb18-eedd00f93936.png">
-
  
-Bullish –  assuming revenue and data capture increase by 750x in Y1 and grow 25% YoY. 
-
-Token Price - $55.4
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/170778394-c12dd791-23ce-4736-90db-e5e8d7654190.png">
- 
-
-## Industry Outlook & Competitors 
-
-<img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184432209-40065d28-6210-4d60-8774-9a7b39ebe09f.png">
-
-The current storage market within web3 is clearly dominated by Filecoin (undelrying IPFS) - which houses 91% of all the total data stored within Web3. The reason for its dominance has been an early mover advantage, paired with large number of integrations, and very cheap fees. However, the underlying technology and incentive system for miners is harder to maintain as the network scales. Sia and Storj also store much more amounts of data as compared to Areave, which is primarily driven by much lower costs. The same scalability problem applies to these protocols as well. Arweave costs are significantly higher than its competitors – however, it is a one-time fee. The rest charge subscription fees on a recurring basis per gb of data stored. Over a long time frame (which makes sense since on Arweave data is stored permamnently), Arweave turns out to be much cheaper than ither service providers.
-
-
-
 ## Technology:
 
 Arweave’s blockchain and tokenomic model run on 4 core components: 
@@ -137,21 +95,19 @@ Project Team (13%): 7,150,000 AR (5-year vest – 20% a year)
 Development Fund (19.1%): 10,505,000 AR 
 Future Project use (26.5%): 14,575,000 AR
 
-According to the blockexplorer, 9 addresses hold 22m AR (nearly 50% of circulating supply) 
 
 ##Token Utility
 
-1.	Encoding data into the system and rewarding miners. In order to write a transaction into a block, a user has to pay some AR as a transaction fee- majority of the fee is stored in a treasury and paid to miners over time. 
-2.	Paying for permanent data storage. (Upfront costs) – more the requirement for data storage – more demand for AR. 
+* Encoding data into the system and rewarding miners. In order to write a transaction into a block, a user has to pay some AR as a transaction fee- majority of the fee is stored in a treasury and paid to miners over time.
+* Paying for permanent data storage. (Upfront costs) – more the requirement for data storage – more demand for AR. 
 
 
-##How the Protocol generates Revenue 
+##Revenue Drivers
 
-•	Upfront costs for data storage: Current cost 0.26 AR/GB translates to roughly $15.5/GB. 
-•	Transaction fees generated off of apps built on the blockchain. 
-
-Current Total Data stored: 71.86 TB 
-Total Revenue generated: $1.1m. 
+* Upfront costs for data storage: Current cost 0.26 AR/GB translates to roughly $15.5/GB. 
+* Transaction fees generated off of apps built on the blockchain. 
+* Current Total Data stored: 85.4 TB 
+* Total Revenue generated: $1.3m 
 
  
 ## SWOT Analysis
@@ -173,16 +129,10 @@ Threats
 * Over-reliance on Solana growth. 
 * High % of supply of AR concentrated to 9 addresses. 
 
-
-## Token Metrics
-
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/96482943/170780562-9181d7bf-e15d-46fa-b6a6-d5d5b8d66c31.png">
-
 ## Management & Team
 
-Founder: Sam Williams and Jesper Noehr (
+Founder: Sam Williams and Jesper Noehr
 Team Size: 20+
-
 
 ## CRYPTO-NATIVE DILIGENCE
 
@@ -192,11 +142,9 @@ As of now, Tokemak has been audited by Block Apex and Hacken. This covers all th
 
 [Audits](https://github.com/VoirStudio/unipilot-audits/tree/master/protocolContract)
 
-
 **Open-Source Risk (Forking Risk)**
 
 * Forking Risk – Protocol smart contracts can be forked. Forking the economic model will not be as simple. 
-
  
 ## Resources
 [Github](https://github.com/ArweaveTeam/arweave)
