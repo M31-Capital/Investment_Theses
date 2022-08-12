@@ -43,19 +43,19 @@ While Arweave may be the go-to blockchain for applications that value permanence
 * Permaweb application development – as more applications look to build for permanence, Arweave will be the main destination. 
 
 
-## TAM & Valuation: 
+## TAM, Industry Outlook & Competitors 
 
-The primary goal for Arweave is to become the go-to service provider for decentralised long term data storage, providing for web2 data storage, as well as web3 data storage requirements. 
-Quantifying the TAM taking into consideration current web2 cloud storage Market: 
-Current Market Size : $74.6bn projected to grow to $390bn by 2028. IT and telecommunications is 16% of this market, and with data that is of historical significance, Telecommunication and IT has a higher need of permanence. 
+The primary goal for Arweave is to become the go-to service provider for decentralised long term data storage, providing for web2 data storage, as well as web3 data storage requirements. We quantify the TAM by taking into consideration current web2 cloud storage Market, which is worth $75bn, and projected to grow to $400bn by 2028. IT and telecommunications is 16% of this market, and with data that is of historical significance, Telecommunication and IT has a higher need of permanence. 
 
-Current Market Cap of Web3 file storage protocols : 
-* Filecoin – $1.6Bn
-* Arweave – $643m 
-* Siacoin – $276m
-* Storj – $73m
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184432209-40065d28-6210-4d60-8774-9a7b39ebe09f.png">
+
+The current storage market within web3 is clearly dominated by Filecoin (undelrying IPFS) - which houses 91% of all the total data stored within Web3. The reason for its dominance has been an early mover advantage, paired with large number of integrations, and very cheap fees. However, the underlying technology and incentive system for miners is harder to maintain as the network scales. Sia and Storj also store much more amounts of data as compared to Areave, which is primarily driven by much lower costs. The same scalability problem applies to these protocols as well. Arweave costs are significantly higher than its competitors – however, it is a one-time fee. The rest charge subscription fees on a recurring basis per gb of data stored. Over a long time frame (which makes sense since on Arweave data is stored permamnently), Arweave turns out to be much cheaper than ither service providers.
 
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184437785-43dff413-6f9d-4950-abb8-72d8ef630070.png">
+
+When looking at all the protocols on a side by side basis, it is pretty clear that Filecoin has established its domninance by providing the lowest cost per TB of data stored, and building out a large demand side. The trade off here is complexity of the underlying incentivise system that makes it much harder for new miners to join, and much more inefficient for the current crop. Arweave's system is much more simple, and elegant. Providing a good experience for the miners (who provide the core service - storage) will be of utmost importance if a storage network is to grow. Filecoin is a great option for retail, but however, still cannot guarantee data permanence. we are likely to see Filecoin dominate the retail segment of teh market, however, we believe that Arweave will attract a different user base, namely, eneterprises, blockchains and institutions. Blockchains bring along large amounts of data payloads that will only continue to increase over time. 
+
+
 
 
 
