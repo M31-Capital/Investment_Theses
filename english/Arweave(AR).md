@@ -45,22 +45,32 @@ While Arweave may be the go-to blockchain for applications that value permanence
 
 ## TAM, Industry Outlook & Competitors 
 
-The primary goal for Arweave is to become the go-to service provider for decentralised long term data storage, providing for web2 data storage, as well as web3 data storage requirements. We quantify the TAM by taking into consideration current web2 cloud storage Market, which is worth $75bn, and projected to grow to $400bn by 2028. IT and telecommunications is 16% of this market, and with data that is of historical significance, Telecommunication and IT has a higher need of permanence. 
+Arweave is set to become the go-to service provider for decentralised long term data storage, providing for web2 data storage, as well as web3 data storage requirements. We quantify the TAM by taking into consideration current web2 cloud storage market, which is worth ~$75bn, and projected to grow to $400bn by 2028. IT and telecommunications makes up 16% of this market, and given these sectors deal with data that is of historical significance and importance, this sector could serve up a large portion of demand for decentralized, permanent storage. 
 
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184432209-40065d28-6210-4d60-8774-9a7b39ebe09f.png">
 
-The current storage market within web3 is clearly dominated by Filecoin (undelrying IPFS) - which houses 91% of all the total data stored within Web3. The reason for its dominance has been an early mover advantage, paired with large number of integrations, and very cheap fees. However, the underlying technology and incentive system for miners is harder to maintain as the network scales. Sia and Storj also store much more amounts of data as compared to Areave, which is primarily driven by much lower costs. The same scalability problem applies to these protocols as well. Arweave costs are significantly higher than its competitors – however, it is a one-time fee. The rest charge subscription fees on a recurring basis per gb of data stored. Over a long time frame (which makes sense since on Arweave data is stored permamnently), Arweave turns out to be much cheaper than ither service providers.
+Within Wweb3, the storage market is  dominated by Filecoin (undelrying IPFS), which houses 91% of all the total data stored within Web3. 
+The reason for its dominance has been an early mover advantage, paired with large number of integrations, and very cheap fees. However, the underlying technology and incentive system for miners is harder to maintain as the network scales. Sia and Storj also store much more data than Areave, which is  driven by much lower costs. However, the same scalability problem applies to these protocols as well. 
+
+Arweave costs are significantly higher than its competitors – however, it is a one-time fee. The other protocols charge subscription fees on a recurring basis per unit of data stored. 
 
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184437785-43dff413-6f9d-4950-abb8-72d8ef630070.png">
 
-When looking at all the protocols on a side by side basis, it is pretty clear that Filecoin has established its domninance by providing the lowest cost per TB of data stored, and building out a large demand side. The trade off here is complexity of the underlying incentivise system that makes it much harder for new miners to join, and much more inefficient for the current crop. Arweave's system is much more simple, and elegant. Providing a good experience for the miners (who provide the core service - storage) will be of utmost importance if a storage network is to grow. Filecoin is a great option for retail, but however, still cannot guarantee data permanence. we are likely to see Filecoin dominate the retail segment of teh market, however, we believe that Arweave will attract a different user base, namely, eneterprises, blockchains and institutions. Blockchains bring along large amounts of data payloads that will only continue to increase over time. 
+When looking at all the protocols on a side by side basis, it is pretty clear that Filecoin has established its domninance by providing the lowest cost per TB of data stored, and building out a large demand side. The trade off here is complexity of the underlying economic system that makes it much harder for new miners to join, and much more inefficient for the current crop of miners to sustain. Arweave's system is more simple. Providing a good experience for the miners (who provide the core service - storage) will be of utmost importance if a storage network is to grow. Filecoin is a great option for retail, but however, still cannot guarantee data permanence. We are likely to see Filecoin dominate the retail segment of the market, however, we believe that Arweave will attract a slightly different user base with demand driven by eneterprises, blockchains and institutions. These entities bring with them large amounts of data payloads that will only continue to increase over time. 
 
 
 
 
 
 ## Valuation 
-The token can be valued based on potential revenue. Currently the protocol stores ~1,344x less data than Filecoin, 41x less data than Sia, and 143x less data than Storj, yet is higher in terms of supply side revenue earned. Assuming data capture increases between 100x and 1,200x, we can assume revenue will increase by the same amount as costs are upfront, holding price constant. 
+
+Currently Arweave stores much less data as compared to its competitors, ~1,721x less than Filecoin, 38x less than Sia, and 131x less than Storj, yet is higher in terms of revenue earned. e can attempt to come to a fair value of the token based on potential revenue that Arweave can generate. 
+
+Assuming data capture increases between 100x and 1,200x, and costs remain more or less constant, we can project the amount of potential revenue that Arweave can generate. We expect other layer 1 blockchains to actively begin outsourcing their data storage requirements, and assume that this will be a large contributor to data storage increases on the network. 
+
+The Protocol Fee model is rather simple. Users pay an upfront cost 
+
+We present three scenarios. 
 
 Conservative – assuming revenues and data capture increase by 250x in Y1 and grow 10% YoY. 
 
