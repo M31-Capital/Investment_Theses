@@ -84,7 +84,9 @@ The value of AR is derived from:
 3. Fees from AR token transfers
  
 Total Supply: 66,000,000 AR
+
 Genesis Block: 55,000,000 AR
+
 Block Rewards: 11,000,000 AR 
 
 Genesis Token distribution: 38.5 % sold 
