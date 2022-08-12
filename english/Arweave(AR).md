@@ -1,9 +1,9 @@
 # Arweave (AR)
 
 * Current Price: $14.7 
-* Token Type:	Utility token for Permanent File Storage and Transaction Fees
-* Circ. Token Supply: 50.108m
-* Max. Token Supply: 66m
+* Token Type:	Utility token for Permanent File Storage & Transaction Fees
+* Circ. Token Supply: 50.1m (75.9%)
+* Max. Token Supply: 66.0m
 * Market Capitalisation: $740m
 * Launch: Mainnet: June 2018
 * Whitepaper: [Arweave Whitepaper](https://www.arweave.org/whitepaper.pdf)
@@ -36,14 +36,14 @@ Data stored on the internet is far from permanent. Centralized servers will stor
 While Arweave may be the go-to blockchain for applications that value permanence, it can also serve as an infrastructure layer to enterprises including other blockchains that need to store important metadata in perpetuity. Layer 1 Blockchain's aren't inherently created for data storage, and hence storage costs are so high that scaling will get restricted (as we are seeing with Ethereum). This is where Arweave, as a decentralized data storage layer, can provide massive value. We are already seeing this trend emerge with [Solana using Arweave](https://solana.com/ecosystem/arweave) as their data storage layer, with [Polygon following suit](https://blog.polygon.technology/polygon-adds-permanent-data-storage-with-arweave-integration/). 
 
 
-## Catalysts: 
+## Catalysts
 
 * In Dec 2020 - Solana and Arweave partnered for Solana’s high performance data storage needs. This provides Arweave with a constant stream of demand for its storage, and thus, its token. 
 * Decentralized NFT, Gaming, Social Media apps will all require vast amounts of storage – Currently a single AAA game will require between 25GB-100GB of data storage. NFTs will need to be stored permanently. Solana has allocated $100m focused on building the Gaming and NFT ecosystem while they have also partnered with Reddit Founder Alex Ohanian to allocate another $100m for decentralized social media. 
 * Permaweb application development – as more applications look to build for permanence, Arweave will be the main destination. 
 
 
-## TAM, Industry Outlook & Competitors 
+## TAM, Industry Outlook, & Competitors 
 
 Arweave is set to become the go-to service provider for decentralised long term data storage, providing for web2 data storage, as well as web3 data storage requirements. We quantify the TAM by taking into consideration current web2 cloud storage market, which is worth ~$75bn, and projected to grow to $400bn by 2028. IT and telecommunications makes up 16% of this market, and given these sectors deal with data that is of historical significance and importance, this sector could serve up a large portion of demand for decentralized, permanent storage. 
 
@@ -59,7 +59,7 @@ Arweave costs are significantly higher than its competitors – however, it is a
 When looking at all the protocols on a side by side basis, it is pretty clear that Filecoin has established its domninance by providing the lowest cost per TB of data stored, and building out a large demand side. The trade off here is complexity of the underlying economic system that makes it much harder for new miners to join, and much more inefficient for the current crop of miners to sustain. Arweave's system is more simple. Providing a good experience for the miners (who provide the core service - storage) will be of utmost importance if a storage network is to grow. Filecoin is a great option for retail, but however, still cannot guarantee data permanence. We are likely to see Filecoin dominate the retail segment of the market, however, we believe that Arweave will attract a slightly different user base with demand driven by eneterprises, blockchains and institutions. These entities bring with them large amounts of data payloads that will only continue to increase over time. 
 
  
-## Technology:
+## Technology
 
 Arweave’s blockchain and tokenomic model run on 4 core components: 
 
@@ -75,7 +75,7 @@ It works by creating a ranking system local to each node – which determines ho
 **Blockshadows:** In order to support a network that allows for long-term on-chain data storage, the Arweave needs a system that supports unlimited sized blocks. The Arweave achieves this by using a system that decouples transaction distribution from that of block distribution in the network. This allows only a ‘shadow’ of the block to be moved around the system (the instructions necessary to rebuild the block from its constituent transactions), rather than full block itself. This means that the information required to process large blocks can be distributed across the network in just a few kilobytes 
 
 
-## AR Tokenomics:
+## AR Tokenomics
 
 The value of AR is derived from: 
 
@@ -124,14 +124,13 @@ Opportunities:
 * Solana using Arweave as its storage layer for high performance data – will lead to a steady stream of demand. Other blockchains/enterprises can mirror this. 
 * Arweave storage now natively available on Polygon. 
 
-Threats
-
+Threats:
 * Over-reliance on Solana growth. 
 * High % of supply of AR concentrated to 9 addresses. 
 
 ## Management & Team
 
-Founder: Sam Williams and Jesper Noehr
+Founder: Sam Williams & Jesper Noehr
 
 Team Size: 20+
  
