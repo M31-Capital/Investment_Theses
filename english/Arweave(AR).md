@@ -132,6 +132,7 @@ Threats
 ## Management & Team
 
 Founder: Sam Williams and Jesper Noehr
+
 Team Size: 20+
 
 ## CRYPTO-NATIVE DILIGENCE
@@ -144,7 +145,7 @@ As of now, Tokemak has been audited by Block Apex and Hacken. This covers all th
 
 **Open-Source Risk (Forking Risk)**
 
-* Forking Risk – Protocol smart contracts can be forked. Forking the economic model will not be as simple. 
+Forking Risk – Protocol smart contracts can be forked. Forking the economic model will not be as simple. 
  
 ## Resources
 [Github](https://github.com/ArweaveTeam/arweave)
