@@ -4,35 +4,36 @@
 * Token Type:	Utility token for permanent file storage and tx fees
 * Circ. Token Supply: 50.108m
 * Max. Token Supply: 66m
-* Market Capitalisation: $736m
+* Market Capitalisation: $740m
 * Launch: Mainnet: June 2018
 * Whitepaper: [Arweave Whitepaper](https://www.arweave.org/whitepaper.pdf)
 
 
 ## Overview
 
-Arweave is a data storage protocol built on block weave technology. Arweave is developing an underlying network where data can be stored forever and accessed on its permaweb, a secondary layer where data is accessible in a human-readable manner (e.g. via web browsers). 
+Arweave is a permanent data storage protocol built on blockweave technology. They have developed an underlying network where data can be stored permamnently and accessed at any time. 
 
 
 ## Investment Thesis
 
 
-**Current Data Storage is Impermanent & Centralised – prone to censorship, change, deletion**
+**Current Data Storage is Impermanent & Centralised – Prone to Censorship, Change and Deletion**
 
 Most data storage today is highly centralised, and temporary. Users pay cloud storage companies like AWS, Azzure, etc. monthly fees to store their data on their servers. Most of the internet’s data is stored similarly and completely at the mercy of the centralised entity that controls the servers – it is susceptible to change, removal, or censorship. Arweave looks at providing a decentralised storage network to overcome all of these issues – making data universally accessible. 
 
 
 **Strong Economic Model Incentivising Long Term Data Storage**
 
-Data stored on the internet is far from permanent. Centralised servers will store your data only as long as you continue to pay a monthly subscription fee – the moment that fee stops, your data can be deleted. Close to 95% of the information on the internet is lost every 20 years. Arweave has created a unique economic model that incentivises decentralised data storage via node participants through a long term payment system in AR tokens over time. 
+Arweave has created a unique economic model that incentivises decentralised data storage via node participants through a long term payment system in AR tokens over time. The Arweave’s economic mechanism is similar to a traditional economic endowment structure. When a piece of data is added to the Arweave network, the user pays a ‘principle’ upfront, on which ‘interest’ in the form of storage purchasing power is accrued. Over time, interest on this one-time upfront payment is given to those that offer hard drive space so that they can profit from their storage contributions. By using extremely conservative estimates for storage pricing, Arweave ensures the long-term viability of the network’s endowment.
+
 
 **Building a Permanent Internet**
 
-Arweave is looking towards building a permanent internet – a web of applications, information, and data stored permanently. Arweave does this by incentivising developers to build applications on its blockchain through a profit sharing concept – aligning their incentives with Arweave’s. Protocols receive fees from Arweave based on the usage/transactions they generate on the blockchain. More activity = more fees. Arweave could potentially become the go-to platform for decentralised news, social media, etc. 
+Data stored on the internet is far from permanent. Centralized servers will store  data only as long as they continue to collect a monthly subscription fee. The moment that fee stops, the data is at risk of being deleted. Close to 95% of the information on the internet is lost every 20 years, which has massive ramifications on various communities of the world. Arweave is looking towards building a permanent internet – a web of applications, information, and data that is stored permanently, and can never be deleted. It does this by incentivising developers to build applications on its blockchain through a profit sharing concept – aligning incentives. Protocols receive fees from Arweave based on the usage/transactions they generate on the blockchain. More activity = more fees. Arweave could potentially become the go-to platform for decentralised news, social media, etc. 
 
 **Providing Storage-as-a-Service to other Enterprises & Blockchains**
 
-While Arweave may be the go-to blockchain for applications that value permanence, it can also serve as an infrastructure layer to enterprises including other blockchains that need to store important metadata in perpetuity. Layer 1 Blockchain's aren't inherently created for data storage, and hence storage costs are so high that scaling will get restircted (as we are seeing with Ethereum). This is where Arweave, as a decentralized data storage layer, can provide massive value. We are already seeing this trend emerge with [Solana using Arweave](https://solana.com/ecosystem/arweave) as their data storage layer, with [Polygon following suit](https://blog.polygon.technology/polygon-adds-permanent-data-storage-with-arweave-integration/). 
+While Arweave may be the go-to blockchain for applications that value permanence, it can also serve as an infrastructure layer to enterprises including other blockchains that need to store important metadata in perpetuity. Layer 1 Blockchain's aren't inherently created for data storage, and hence storage costs are so high that scaling will get restricted (as we are seeing with Ethereum). This is where Arweave, as a decentralized data storage layer, can provide massive value. We are already seeing this trend emerge with [Solana using Arweave](https://solana.com/ecosystem/arweave) as their data storage layer, with [Polygon following suit](https://blog.polygon.technology/polygon-adds-permanent-data-storage-with-arweave-integration/). 
 
 
 ## Catalysts: 
