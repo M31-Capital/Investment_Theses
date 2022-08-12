@@ -96,13 +96,13 @@ Development Fund (19.1%): 10,505,000 AR
 Future Project use (26.5%): 14,575,000 AR
 
 
-##Token Utility
+## Token Utility
 
 * Encoding data into the system and rewarding miners. In order to write a transaction into a block, a user has to pay some AR as a transaction fee- majority of the fee is stored in a treasury and paid to miners over time.
 * Paying for permanent data storage. (Upfront costs) – more the requirement for data storage – more demand for AR. 
 
 
-##Revenue Drivers
+## Revenue Drivers
 
 * Upfront costs for data storage: Current cost 0.26 AR/GB translates to roughly $15.5/GB. 
 * Transaction fees generated off of apps built on the blockchain. 
