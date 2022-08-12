@@ -55,7 +55,8 @@ Current Market Cap of Web3 file storage protocols :
 * Siacoin – $276m
 * Storj – $73m
 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/170776493-edd2c986-2829-4d66-ad8a-55ea86ec0cb6.png">
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184437785-43dff413-6f9d-4950-abb8-72d8ef630070.png">
+
 
 
 ## Valuation 
@@ -82,20 +83,11 @@ Token Price - $55.4
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/170778394-c12dd791-23ce-4736-90db-e5e8d7654190.png">
  
 
-## Industry Outlook 
+## Industry Outlook & Competitors 
 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/184432209-40065d28-6210-4d60-8774-9a7b39ebe09f.png">
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184432209-40065d28-6210-4d60-8774-9a7b39ebe09f.png">
 
-
-* Filecoin, Siacoin and Storj – a few alternatives all offer a different value proposition for storage vs Arweave – they charge a recurring fee for temporary file storage – not permanent file storage. 
-* Arweave costs are significantly higher than its competitors – however, it is a one-time fee. The rest charge subscription fees on a recurring basis per gb of data stored. 
-
-
-## Competitors
-
-* Traditional competitors: AWS Cloud, Microsoft Azzure, Google Cloud
-* Crypto Competitors: Filecoin, Siacoin, Storj
-
+The current storage market within web3 is clearly dominated by Filecoin (undelrying IPFS) - which houses 91% of all the total data stored within Web3. The reason for its dominance has been an early mover advantage, paired with large number of integrations, and very cheap fees. However, the underlying technology and incentive system for miners is harder to maintain as the network scales. Sia and Storj also store much more amounts of data as compared to Areave, which is primarily driven by much lower costs. The same scalability problem applies to these protocols as well. Arweave costs are significantly higher than its competitors – however, it is a one-time fee. The rest charge subscription fees on a recurring basis per gb of data stored. Over a long time frame (which makes sense since on Arweave data is stored permamnently), Arweave turns out to be much cheaper than ither service providers.
 
 
 
