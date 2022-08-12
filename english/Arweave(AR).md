@@ -89,8 +89,11 @@ Genesis Token distribution: 38.5 % sold.
 No clarity on the rest.
 
 > Advisors (2.9%): 1,595,000 AR
+
 > Project Team (13%): 7,150,000 AR (5-year vest – 20% a year)
+
 > Development Fund (19.1%): 10,505,000 AR 
+
 > Future Project use (26.5%): 14,575,000 AR
 
 
