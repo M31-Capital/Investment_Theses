@@ -84,6 +84,9 @@ Token Price - $55.4
 
 ## Industry Outlook 
 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/184432209-40065d28-6210-4d60-8774-9a7b39ebe09f.png">
+
+
 * Filecoin, Siacoin and Storj – a few alternatives all offer a different value proposition for storage vs Arweave – they charge a recurring fee for temporary file storage – not permanent file storage. 
 * Arweave costs are significantly higher than its competitors – however, it is a one-time fee. The rest charge subscription fees on a recurring basis per gb of data stored. 
 
