@@ -49,7 +49,7 @@ Arweave is set to become the go-to service provider for decentralised long term 
 
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184432209-40065d28-6210-4d60-8774-9a7b39ebe09f.png">
 
-Within Wweb3, the storage market is  dominated by Filecoin (undelrying IPFS), which houses 91% of all the total data stored within Web3. 
+Within Web3, the storage market is  dominated by Filecoin (undelrying IPFS), which houses 91% of all the total data stored within Web3. 
 The reason for its dominance has been an early mover advantage, paired with large number of integrations, and very cheap fees. However, the underlying technology and incentive system for miners is harder to maintain as the network scales. Sia and Storj also store much more data than Areave, which is  driven by much lower costs. However, the same scalability problem applies to these protocols as well. 
 
 Arweave costs are significantly higher than its competitors – however, it is a one-time fee. The other protocols charge subscription fees on a recurring basis per unit of data stored. 
