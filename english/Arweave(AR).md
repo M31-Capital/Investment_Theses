@@ -1,7 +1,7 @@
 # Arweave (AR)
 
 * Current Price: $14.7 
-* Token Type:	Utility token for Permanent File Storage & Transaction Fees
+* Token Type:	Utility token for Permanent File Storage
 * Circ. Token Supply: 50.1m (75.9%)
 * Max. Token Supply: 66.0m
 * Market Capitalisation: $740m
