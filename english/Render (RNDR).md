@@ -7,10 +7,6 @@
 * 24-Hour Volume: 		$23.3m
 * Launch: 			April 2020
 
-Historical Chart
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/168863827-5f42e05b-211c-480c-90ff-b7d8be8de918.png">
-
 
 ## Overview
 
@@ -54,7 +50,7 @@ In order for large scale rendering to process, in a decentralised manner,  - an 
 * GPU growth is exponential – expected market size to be $200bn in the next 5 years. 
 
 
-## Industry Outlook, TAM and Valuation
+## Industry Outlook, TAM & Comparitive Analysis 
 
 
 * Currently, the entire 3D rendering market is around $4bn expected to grow to around $20bn by 2025. However, with the increasing demands for holographic renders – for games, individual creators etc. – this market could easily hit $50bn by 2025. Current competitors are – Corona, Lumion, Keyshot etc. that provide CPU rendering – and AWS, Azzure that provide cloud rendering. 
