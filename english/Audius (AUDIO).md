@@ -12,9 +12,9 @@ Before diving into Audius and how they are looking to disrupt the music distribu
 
 There are two major aspects to music at a distribution level,
 
-1.	Music Rights and Ownership – who really owns a piece of music created?
+1.	[Music Rights and Ownership](https://blog.reverbnation.com/2018/05/09/music-law-101-owns-copyright-song/#:~:text=In%20general%2C%20the%20individual%20who,person%20owns%20the%20resulting%20copyrights.) – *who really owns a piece of music created?*
 
-2.	Music Distribution - how is that piece of music distributed to consumers, and how it is monetized?
+2.	[Music Distribution](https://soundcharts.com/blog/music-distribution) - *how is that piece of music distributed to consumers, and how it is monetized?*
 
 When looking deeper into the two aspects above, the result may rather surprise you. It is not the artist (the creator of the music) that has a major share in ownership of the music created, nor the artist that gets to decide how and where their music is distributed and monetized. 
 
