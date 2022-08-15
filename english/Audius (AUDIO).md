@@ -71,7 +71,7 @@ Poor Rights Management and Opaque Royalty Calculations
 
 Content Nodes host and store all the content that the artists upload onto the protocol. Audius has an extension to IPFS called AudSP (Audius Storage Protocol), which is a decentralized storage protocol that stores all the content and metadata. Users are incentivized to run content nodes (by staking AUDIO tokens) and provide storage space to the network, by earning a share in AUDIO token emissions and a share in protocol fees. 
 
-<img width="319" alt="image" src="https://user-images.githubusercontent.com/96482943/184724791-72d217b2-3efd-48ca-971b-60610743e690.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/96482943/184724791-72d217b2-3efd-48ca-971b-60610743e690.png">
 
 *Source: [Audius Whitepaper](https://whitepaper.audius.co/AudiusWhitepaper.pdf)*
 
@@ -82,5 +82,27 @@ Here’s what content nodes do:
 3.	Content Nodes allow for content permissioning functions, which can restrict who can access the content based on a set of pre-defined conditions. This is extremely useful when artists want to run their own content nodes. They could use on-chain data (like holding a specific amount of the artists token, proof of past history) to restrict access to specific pieces of music to only super fans etc. 
 
 ### Content Ledger 
+
+The Audius Content Ledger, is a group of smart contracts deployed on the various blockchains that house various components of the protocol (Ethereum, Filecoin Solana etc.), and is the ultimate source of truth for anything that happens on the protocol. 
+The Content ledger includes: 
+
+* Audio content and metadata format specifications
+* Processes for artists to track content and control ownership structure & revenue splits
+* Registry of all nodes reachable on the protocol
+* Social Graph for all users interacting with the protocol
+* Implementations of the governance token model 
+
+### Discovery Nodes 
+
+Discovery nodes, similar to content nodes, are servers that Index the content ledger (where artists register new music, and the history of the network state rests), allowing artists, users and developers to query the ledger and extract valuable, important information. These nodes essentially allow for new music to be discovered on the Audius Network, as well as allow other applications to be built on top of it, using the API.  This is a massive component in providing high user experience to fans and artists alike. 
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/96482943/184731259-9815d59f-bee5-4cb4-893e-1cf92a5bec2f.png">
+
+*Source: [Audius Whitepaper](https://whitepaper.audius.co/AudiusWhitepaper.pdf)*
+
+Nodes are incentivized to provide the service by earning AUDIO emission and a potential share in protocol revenue. 
+
+
+
 
 
