@@ -121,6 +121,7 @@ Early examples incubated by the community include artists tokens, badges and ear
 ### Token Distribution 
 
 **Genesis Supply:** 1,000,000,000 AUDIO
+
 **Annual Issuance Rate:** 7% (70,000,000 AUDIO)
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/184735787-1d52f7a2-19e6-4d1e-beae-d0b0da534368.png">
