@@ -155,7 +155,7 @@ Opportunities:
 
 * There is a lot of idle GPU power, and the market is only growing. This can catalyse the network – and increase the pool of power it processes. 
 * Metaverse and Gaming growth will need rendering – which is fast and scalable (cheap)
-* Existing Partnership with major users of rendering services – movie studios like Warner, Disney, HBO and artists like 
+* Existing partnerships with major users of rendering services, like Warner, Disney, HBO
 
 Threats:
 
