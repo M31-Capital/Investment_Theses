@@ -86,7 +86,7 @@ Here’s what content nodes do:
 The Audius Content Ledger, is a group of smart contracts deployed on the various blockchains that house various components of the protocol (Ethereum, Filecoin Solana etc.), and is the ultimate source of truth for anything that happens on the protocol. 
 The Content ledger includes: 
 
-* Audio content and metadata format specifications
+* Audio content and metadata [format specifications](https://static1.squarespace.com/static/56d5e44060b5e9e20a94b16c/t/5b493e3f03ce642cc82b5890/1531526720147/OMI-MVI1.0-Requirements+(20170726)+(2).pdf)
 * Processes for artists to track content and control ownership structure & revenue splits
 * Registry of all nodes reachable on the protocol
 * Social Graph for all users interacting with the protocol
