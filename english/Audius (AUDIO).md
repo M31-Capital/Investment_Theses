@@ -100,9 +100,9 @@ Discovery nodes, similar to content nodes, are servers that Index the content le
 
 *Source: [Audius Whitepaper](https://whitepaper.audius.co/AudiusWhitepaper.pdf)*
 
-Nodes are incentivized to provide the service by earning AUDIO emission and a potential share in protocol revenue. 
+Nodes are incentivized to provide the service by earning AUDIO token emissions and a potential share in protocol revenue. 
 
-
+## Tokenomics and Protocol Mechanics
 
 
 
