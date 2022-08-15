@@ -69,4 +69,12 @@ Poor Rights Management and Opaque Royalty Calculations
 
 ### Content Nodes 
 
+Content Nodes host and store all the content that the artists upload onto the protocol. Audius has an extension to IPFS called AudSP (Audius Storage Protocol), which is a decentralized storage protocol that stores all the content and metadata. Users are incentivized to run content nodes (by staking AUDIO tokens) and provide storage space to the network, by earning a share in AUDIO token emissions and a share in protocol fees. 
+
+<img width="319" alt="image" src="https://user-images.githubusercontent.com/96482943/184724791-72d217b2-3efd-48ca-971b-60610743e690.png">
+
+*Source: [Audius Whitepaper](https://whitepaper.audius.co/AudiusWhitepaper.pdf)*
+
+Here's what Content Nodes Do: 
+1. When an artist uploads a piece of music onto 
 
