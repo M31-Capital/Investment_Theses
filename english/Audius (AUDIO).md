@@ -39,7 +39,7 @@ The two charts above are the perfect visualizations with the problems in the mus
  
 COVID-19 accelerated the adoption and move towards a more digital centric world. The same can be said for the music distribution space. Today, there is one clear winner when it comes to how music is distributed (i.e., how the music ends up in the ears of the end user), and that is streaming platforms. Platforms like Spotify, Apple Music are the norm when it comes to music consumption. They provide immense value to listeners by providing them with large libraries of music available at any point in time. 
 
-**The number of paid streaming subscriptions over the last 12 years have grown at 42% CAGR, which is incredible** 
+*The number of paid streaming subscriptions over the last 12 years have grown at 42% CAGR, which is incredible*
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/96482943/184711373-d74c1380-ee57-41b0-8277-015939dc0bfd.png">
  
