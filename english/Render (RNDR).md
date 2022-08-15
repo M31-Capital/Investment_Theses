@@ -116,20 +116,21 @@ The Network essentially co-ordinates and facilitates demand and supply for GPU c
 
 ## RNDR Tokenomics: (To be revised) 
 Max Supply: 536,870,912 RNDR
+
 Circulating Supply: 154,278,922 RNDR (28.74%)
  
 Distribution:
 
-25% - Token Sales 
-10% - Team and Advisors (6- month lock-up)
-65% - In Escrow
+* 25% - Token Sales 
+* 10% - Team and Advisors (6- month lock-up)
+* 65% - In Escrow
 
-The RNDR max Supply is capped at 536,870,912 (2^29) tokens, expected to be distributed overtime as per below: 
-25% of the supply (118,047,397 tokens) was defined to be sold to the market, starting at the ICO (Oct. 6, 2017). Out of these, 13.6% (16,170,331 tokens) are estimated to have been sold during the private carried out between January 2018 and May 2018. 
+The RNDR max Supply is capped at 536,870,912 tokens, expected to be distributed overtime as per below: 
+* 25% of the supply (118,047,397 tokens) was defined to be sold to the market, starting at the ICO (Oct. 6, 2017). Out of these, 13.6% (16,170,331 tokens) are estimated to have been sold during the private carried out between January 2018 and May 2018. 
 
-65% of the supply (348,966,093 tokens) were stored as "escrow" and will flow to network as per supply/demand. According to founder's calculations (2018) this amount is enough to cover the supply/demand for rendering for the next 10-12 years. This flow is estimated to have started by Q1 2021. 
+* 65% of the supply (348,966,093 tokens) were stored as "escrow" and will flow to network as per supply/demand. According to founder's calculations (2018) this amount is enough to cover the supply/demand for rendering for the next 10-12 years. This flow is estimated to have started by Q1 2021. 
 
-10% of the supply (53,687,091 tokens) is classified as RNDR Reserve, including founders and contributors. This had a 6 month lockup and is expected to flow to the market over time
+* 10% of the supply (53,687,091 tokens) is classified as RNDR Reserve, including founders and contributors. This had a 6 month lockup and is expected to flow to the market over time
 
 Token Use cases: 
 
