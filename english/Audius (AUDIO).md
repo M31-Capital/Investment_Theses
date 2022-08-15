@@ -67,6 +67,6 @@ Poor Rights Management and Opaque Royalty Calculations
 
 *Source: [Audius Whitepaper](https://whitepaper.audius.co/AudiusWhitepaper.pdf)*
 
-## Content Nodes 
+### Content Nodes 
 
 
