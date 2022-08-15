@@ -27,7 +27,7 @@ Pre-internet, the act of creating a piece of music and eventually monetizing it 
 
 Music studios like Universal, Warner and Sony Music control a large amount of the music rights and ultimately decide who gets to do what with them, irrespective of who created the music, i.e., the artist. Owning the rights to music also means record labels can decide how that music is monetized, marketed, and distributed. The end result? They earn a lion’s share of any revenue generated, while the artist, literally, feeds on scraps.  
 
-The two charts above are the perfect visualizations with the problems in the music distribution space today. 
+The two charts above are the perfect visualizations of the problems in the music distribution space today. 
 
 * In 2021, the global music industry recorded $25.6bn in total generated revenue. The big three record labels (Universal, Sony, Warner) combined earned 68.6% of all of that revenue. The reason for this is simple – they own most of the music rights. 
 * Diving a little deeper, and we see the second major problem in the space – of all the revenues generated in 2021, Intermediaries accounted for ~76%, while artists only earned 7%. The reason for this – again, artists end up giving up a large share of ownership in their music in exchange for distribution value. 
