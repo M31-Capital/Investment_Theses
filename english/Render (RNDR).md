@@ -5,7 +5,6 @@
 * Max. Token Supply: 530,962,614 RNDR
 * Market Capitalization: 	$210.67m
 * FDV: $388.5m
-* 24-Hour Volume: $23.3m
 * Launch: April 2020
 
 
@@ -63,22 +62,17 @@ Arweave, Livepeer and Helium and Filecoin are the best comparisons to Render - s
 
 Explicit fees are the fees that users pay (in the protocol tokens) to render the service of the network. For example - you would pay for storage on Filecoin or Arweave, pay for streaming video on Livepeer, and pay for Data credits on Helium. 
 
-It’s evident that these infrastructure protocols are quite overvalued as compared to the revenues they are generating - however, the number of users is concentrated given how nascent the space is. we should see user growth increase exponentially over time, as these products improve on UX, and find strong PMF. At the end of the day, they will be able to provide services identical to web2 at much lower costs. This will bring the users, and revenue. 
+It’s evident that these infrastructure protocols are quite overvalued as compared to the revenues they are generating - however, the number of users is concentrated given how nascent the space is. We expect to see user growth increase exponentially over time, as these products improve on UX, and find strong PMF. At the end of the day, they will be able to provide services identical to web2 at much lower costs. This will bring the users, and revenue. 
 
-There is no official on-chain data – however, according to the latest data from the team, – the network has over 10,000 users, and does more than 1M RNDR tokens of transactions per month, on the network. This implies an annualised revenue of ~$39 million (at current RNDR prices) which is much higher than all the other infrastructure protocols out there. 
+Since Render Network is going through system chananges, it is difficult to find any onchain data for network usage. However, according to the [latest data from the team](https://medium.com/render-token/behind-the-network-a48078658166), – the network has over 10,000 users, 300 creators and ~2.8M RNDR tokens of transactions on the network. This implies an annualized revenue of ~$1.4m. We expect this figure to grow significantly over the coming few years, led by a few headwinds: 
 
-
-Optimistic: Assume that the numbers the RNDR team spoke about are accurate, the protocol is significantly undervalued compared to all the other protocols – considering the high consisntent demand there is for Rendering (or the utility the Render Network provides) compared to the other protocols.  
-![image](https://user-images.githubusercontent.com/96431097/168858746-bfac73ce-b701-4fda-a805-b6bf66e9d5e5.png)
-
- 
-
-Base: Assume that the numbers the RNDR team spoke about are inaccurate – and discounting it by 50% -  the protocol still is  significantly undervalued compared to all the other protocols, and continues to outpace them in terms of revenue.  
-![image](https://user-images.githubusercontent.com/96431097/168858755-99e8e587-3c73-42f1-9a81-bc7d13f8db54.png)
+1. The Ethereum Merge is completed succesfully around the month of September 2022. This will mean that lots of Ethereum PoW mining equipment (GPU processing power) will be unprofitable, and will need to be redirected elsewhere. 
+2. The current network is still in a transition phase, and nodes and users that can access the network are currently capped. Once the network completes its transition state, we should see a larger number of users onboarded that will significantly boost revenues. 
 
 
- 
+Looking at Render's Network next to other, similar protocols in the Web3 Space, it is quite clear that the protocol is significantly undervalued relative to all the other protocols – considering the high consistent demand there is for Rendering (or the utility the Render Network provides) compared to the other protocols.  
 
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184567041-ed54a478-4f57-4e07-ae87-97064277307d.png">
 
 
 ## Technology:
@@ -98,7 +92,6 @@ When a user submits a render request - the network will send a request for a Ren
 
 ![image](https://user-images.githubusercontent.com/96431097/168859073-935265ab-9bac-4655-9596-1c212399a888.png)
 
- 
 
 Node Operators
 
@@ -147,38 +140,31 @@ RNDR token is used to pay for render requests.
 ## SWOT Analysis
 
 Strengths: 
+
 * Decentralised rendering offers a true service that is better in all aspects than its centralised counterparts – and hence demand will always flow. 
 * Octane render already has an existing user base that uses the centralised version – which they can easily port over to the network. 
 * Expansion towards Solana – leveraging a higher throughput than Ethereum. 
 
 Weaknesses:
+
 * The protocol overall is quite centralised – and Octoy seems to control the primary decisions. 
 * Relatively high FDV – indicating major token unlocks could be imminent. 
 
-
-
 Opportunities: 
+
 * There is a lot of idle GPU power, and the market is only growing. This can catalyse the network – and increase the pool of power it processes. 
 * Metaverse and Gaming growth will need rendering – which is fast and scalable (cheap)
 * Existing Partnership with major users of rendering services – movie studios like Warner, Disney, HBO and artists like 
 
-Threats
+Threats:
 
 * No real threats – apart from centralised control over the network. 
 * Potentially, weak token value accrual for holders. 
 
-
-
-
-
-## Token Metrics
-![RNDR Token Metrics](https://user-images.githubusercontent.com/96431097/168859428-3a85334b-7492-4b0b-a559-7cf940d6c028.jpg)
-
-
-
 ## Management & Team
 
 Founder: Jules Urbach (Founder and CEO of OTOY)
+
 Team Size: 60+ 
 
 
@@ -186,24 +172,18 @@ Team Size: 60+
 
 Code Audits
 
-Render Token Audit 
+[Render Token Audit](https://blog.openzeppelin.com/render-token-audit-2a078ba6d759/) 
 Date: September 2017 
-1 Low severity issue was found. https://blog.openzeppelin.com/render-token-audit-2a078ba6d759/
+1 Low severity issue was found
 
 
-Render Token Transfer Audit 
+[Render Token Transfer Audit](https://blog.openzeppelin.com/rndr-token-transfer-audit-74b21356b849/) 
 Date November 2018 
-4 High, 7 Medium and 9 Low severity issues found. 
-https://blog.openzeppelin.com/rndr-token-transfer-audit-74b21356b849/
-
-
-
-
-
+4 High, 7 Medium and 9 Low severity issues found.
 
 Open-Source Risk (Forking Risk)
 
-Low Forking Risk – Protocol smart contracts can be forked – however, the core component is the nodes and the octane render engine– which is leveraged by otoy. 
+Low Forking Risk – Protocol smart contracts can be forked – however, the core component is the nodes and the octane render engine which is owned and controlled by Otoy 
  
 ## Resources
 * Github: https://github.com/rndr-network 
