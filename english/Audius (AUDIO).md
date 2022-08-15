@@ -130,4 +130,11 @@ Early examples incubated by the community include artists tokens, badges and ear
 
 ### Strengths
 
+## Catalysts 
+## User Metrics
+## Crypto Native Diligence 
+## Team 
+## Resources 
+
+
 
