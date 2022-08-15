@@ -53,6 +53,8 @@ The Biggest Value Drivers of Music are Rewarded
 
 Poor Rights Management and Opaque Royalty Calculations
 
+## Industry Outlook & TAM
+
 ## Technology - How it Works 
 
 ### Network Participants
