@@ -57,5 +57,5 @@ Poor Rights Management and Opaque Royalty Calculations
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/96482943/184722834-98bb648d-e3ac-4048-a9e0-aa582da7b97e.png">
 
-*Source: Audius Whitepaper*
+*Source: [Audius Whitepaper](https://whitepaper.audius.co/AudiusWhitepaper.pdf)*
 
