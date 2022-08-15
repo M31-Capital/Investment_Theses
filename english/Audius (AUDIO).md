@@ -57,13 +57,16 @@ Poor Rights Management and Opaque Royalty Calculations
 
 ### Network Participants
 
-1.	**Artists** – they produce the content, and upload it onto Audius for discovery, distribution, and monetization. 
+1.	**Artists** – They produce the content, and upload it onto Audius for discovery, distribution, and monetization. 
 2.	**Fans** – They consume the content produced by artists, and engage with the artists and the protocol. 
 3.	**Content Ledger** – This is the main ledger for the protocol, which contains the node registry, and other important information. 
 4.	**Content Nodes** – These are servers that host content and permission access to it. 
-5.	**Discovery Nodes** – These are the servers that are responsible for indexing the main ledger and allowing users and developers to query it, to access data and build on top of the network.
+5.	**Discovery Nodes** – These are the servers that are responsible for indexing the main ledger and allowing users and developers to query it.
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/96482943/184722834-98bb648d-e3ac-4048-a9e0-aa582da7b97e.png">
 
 *Source: [Audius Whitepaper](https://whitepaper.audius.co/AudiusWhitepaper.pdf)*
+
+## Content Nodes 
+
 
