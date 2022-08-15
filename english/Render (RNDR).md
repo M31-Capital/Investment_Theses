@@ -174,12 +174,16 @@ Team Size: 60+
 Code Audits
 
 [Render Token Audit](https://blog.openzeppelin.com/render-token-audit-2a078ba6d759/) 
+
 Date: September 2017 
+
 1 Low severity issue was found
 
 
 [Render Token Transfer Audit](https://blog.openzeppelin.com/rndr-token-transfer-audit-74b21356b849/) 
-Date November 2018 
+
+Date: November 2018 
+
 4 High, 7 Medium and 9 Low severity issues found.
 
 Open-Source Risk (Forking Risk)
