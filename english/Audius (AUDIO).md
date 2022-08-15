@@ -53,4 +53,4 @@ The Biggest Value Drivers of Music are Rewarded
 
 Poor Rights Management and Opaque Royalty Calculations
 
-Technology 
+## Technology 
