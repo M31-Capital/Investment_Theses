@@ -104,5 +104,22 @@ Nodes are incentivized to provide the service by earning AUDIO token emissions a
 
 ## Tokenomics and Protocol Mechanics
 
+The Audius protocol is powered by the Audius platform token ($AUDIO), and 3rd-party stablecoins as well as artist-specific tokens will be supported in the future. 
+
+### Utility
+
+The AUDIO token has three main use cases within the network: 
+
+* Security 
+* Feature access 
+* Governance 
+
+Audius tokens are staked as collateral for a value added services. In exchange, stakers earn ongoing issuance, governance weight and access to exclusive features. Audius tokens are staked by node operators to run the Audius protocol, and by artists and curators to unlock exclusive features and services. Any $AUDIO staked within the protocol is assigned governance weight, used to shape future iterations of the protocol. Audius tokens will serve as collateral for artist-based tooling as well. 
+
+Early examples incubated by the community include artists tokens, badges and earnings multipliers. In the future, fans may delegate tokens to specific artists and curators to share in their growth on the platform and the issuance of future tokens. Node operators must stake Audius tokens to operate a discovery node or content node, with a larger stake correlating to a higher probability of being chosen by fan clients. 
+
+### Token Distribution 
+
+
 
 
