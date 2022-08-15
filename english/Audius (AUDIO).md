@@ -75,6 +75,12 @@ Content Nodes host and store all the content that the artists upload onto the pr
 
 *Source: [Audius Whitepaper](https://whitepaper.audius.co/AudiusWhitepaper.pdf)*
 
-Here's what Content Nodes Do: 
-1. When an artist uploads a piece of music onto 
+Here’s what content nodes do: 
+
+1.	When an artist uploads a piece of music onto Audius – it is broken up into smaller segments, and distributed across content nodes that encrypt and store the segments. 
+2.	When users want to stream the music, they request access to the specific segments of music/songs they want to listen to from the content nodes that store the data. (This all happens on the back end, to users, they are just clicking “[play](https://audius.co/)”)
+3.	Content Nodes allow for content permissioning functions, which can restrict who can access the content based on a set of pre-defined conditions. This is extremely useful when artists want to run their own content nodes. They could use on-chain data (like holding a specific amount of the artists token, proof of past history) to restrict access to specific pieces of music to only super fans etc. 
+
+### Content Ledger 
+
 
