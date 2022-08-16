@@ -205,7 +205,8 @@ Smart Contract and Protocol Audits can be found [here](https://blog.openzeppelin
 
 ## Team 
 Co-Founders: [Ronil Rumburg](https://audius.org/team) and [Forrest Browning](https://audius.org/team) 
-Team of 26+ across teams 
+
+Team of 26+ 
 
 ## Resources 
 
