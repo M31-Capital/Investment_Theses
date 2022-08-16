@@ -2,8 +2,8 @@
 
 * Current Price: $0.37 
 * Token Type:	Utility token for staking, music access and payments
-* Circ. Token Supply: 881.41m (80%)
-* Total Token Supply: 1.10bn
+* Circ. Token Supply: 881.4m (80%)
+* Total Token Supply: 1.1bn
 * Market Capitalisation: $304m
 * Launch: Mainnet: Sept 2019
 * Whitepaper: [Audius Whitepaper](https://whitepaper.audius.co/AudiusWhitepaper.pdf)
@@ -58,6 +58,21 @@ These arguments pretty much sum up the major problems with the current web2 musi
 
 ## Industry Outlook & TAM
 
+As discussed earlier in this report, Music Streaming platforms are the preferred method of music consumption today, with global subscribers crossing 520 million across various platforms. These platforms have been able to secure streaming deals with a wide range of artists, while also allowing independent artists to upload their content onto the platform. These vast libraries, and the ability to offer instant music availability, at any point in time have driven massive user growth over the recent past. 
+
+Subscribers have grown at an impressive 42% CAGR over the last decade plus, an indication of their popularity to listeners. It is also no surprise that streaming platforms account for 65% of the total global revenue earned from music distribution, and 85% of total US revenue generated.
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/184784021-b1f500f5-03ba-422d-abf7-0a93adaea2fd.png">
+
+The overall streaming market is worth ~$30bn today, and is expected to grow at 14.7% CAGR over the next decade, which would value the TAM at roughly $118bn. 
+
+Realistically speaking, it will be difficult for Audius to usurp the streaming giants like Spotify or Apple music as they have a massive advantage when it comes to library sizes. However, there is still 20% off the market that isn’t dominated by the major players, and this is where Audius can uniquely position itself to attract users. 
+
+<img width="149" alt="image" src="https://user-images.githubusercontent.com/96482943/184784046-10a5de2e-13e6-46c9-9d31-9ce695cc79b0.png">
+
+Audius can attract artists by providing higher streaming revenues to them. If Audius is able to capture 50% of the streaming market that doesn’t consist of the big players, it is looking at a TAM of ~$11.8bn over the next decade
+
+A deeper breakdown of the overall streaming market can be found [here](https://musicalpursuits.com/music-streaming/#:~:text=Highlights%20of%20music%20streaming%20industry,the%20U.S.%20music%20industry%20revenue.) 
 
 
 ## Technology - How it Works 
