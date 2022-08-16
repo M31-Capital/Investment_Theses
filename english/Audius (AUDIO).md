@@ -161,6 +161,8 @@ Early examples incubated by the community include artists tokens, badges and ear
 
 Despite being in beta and servicing a small number of artists, Audius has managed to gain impressive traction. In fact, it is one of the most widely used web3 protocols. 
 
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/184761608-feec874c-959c-492b-8151-2f703a808b1e.png">
+
 As of July 2022,
 
 * Audius has one of the largest user bases of all web3 protocols, with an average monthly user base of 2.89m over the last year. Monthly users have grown 329% since launch of the protocol
