@@ -4,9 +4,9 @@ Audius – Investment Thesis (GitHub)
 
 Audius is a decentralized music streaming platform, that leverages blockchain technology to power distribution of music without the need for an intermediary third party (like a Universal Music, Spotify or Apple Music), directly allowing fans and their artists to interact with each other. 
 
-## Background
+## Background & Investment Thesis
 
-Before diving into Audius and how they are looking to disrupt the music distribution space, we take a look at what the current industry looks like, and why we need these kinds of protocols to exist in order to democratize an increasingly gatekept legacy system. 
+Before diving into Audius and how they are looking to disrupt the music distribution space, we take a look at what the current industry looks like, and why we think we need these kinds of protocols to exist in order to democratize an increasingly gatekept legacy system. 
 
 ### Music Distribution is Highly Centralized, and Providers Abuse Power
 
@@ -47,13 +47,9 @@ Streaming platforms have translated their high demand into the driving source fo
 
 These arguments pretty much sum up the major problems with the current web2 music distribution architecture – artists are underpaid and undervalued relative to the value they create (unequal value distribution), and centralized entities (record labels and streaming platforms) control both content discovery as well as monetization potential. While there are other issues like royalty payments, opaque old systems etc. – we believe these are the biggest two problems within the space right now – both of which Audius looks to tackle. 
 
-## Investment Thesis 
-
-The Biggest Value Drivers of Music are Rewarded
-
-Poor Rights Management and Opaque Royalty Calculations
-
 ## Industry Outlook & TAM
+
+
 
 ## Technology - How it Works 
 
