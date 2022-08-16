@@ -66,7 +66,7 @@ Subscribers have grown at an impressive 42% CAGR over the last decade plus, an i
 
 The overall streaming market is worth ~$30bn today, and is expected to grow at 14.7% CAGR over the next decade, which would value the TAM at roughly $118bn. 
 
-Realistically speaking, it will be difficult for Audius to usurp the streaming giants like Spotify or Apple music as they have a massive advantage when it comes to library sizes. However, there is still 20% off the market that isn’t dominated by the major players, and this is where Audius can uniquely position itself to attract users. 
+Realistically speaking, it will be difficult for Audius to usurp the streaming giants like Spotify or Apple music as they have a massive advantage when it comes to library sizes. However, there is still 20% of the market that isn’t dominated by the major players, and this is where Audius can uniquely position itself to attract users. 
 
 <img width="149" alt="image" src="https://user-images.githubusercontent.com/96482943/184784046-10a5de2e-13e6-46c9-9d31-9ce695cc79b0.png">
 
