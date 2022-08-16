@@ -167,7 +167,7 @@ As of July 2022,
 * In terms of usage (number of times a song has been streamed on the protocol), Audius sees ~6.2m streams a month on average, up roughly +214% over the last year. In totality, the protocol has seen ~87m streams 
 * There are more than 7 applications that leverage the Audius API, and have made over a billion API calls
 
-Detailed Metrics and On-chain Analytics can be found [here](https://docs.google.com/spreadsheets/d/1wuBbpQdGPNHqSPtJ38sk7l7MbPdI3TYTpBTapbDga2A/edit#gid=1574613266) and [here](https://dashboard.audius.org/#/analytics) 
+Detailed Metrics and on-chain Analytics can be found [here](https://docs.google.com/spreadsheets/d/1wuBbpQdGPNHqSPtJ38sk7l7MbPdI3TYTpBTapbDga2A/edit#gid=1574613266) and [here](https://dashboard.audius.org/#/analytics) 
 
 
 ## Crypto Native Diligence 
