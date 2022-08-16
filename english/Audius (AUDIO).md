@@ -142,7 +142,7 @@ Early examples incubated by the community include artists tokens, badges and ear
 
 * The initial bootstrapping of the protocol depends heavily on building out a strong supply side of popular artists, before more regular indie creators can start to feel the network effects of the protocol. 
 * Since the ultimate driver of streaming demand is having large libraries of music, Audius may find it difficult to attract too many users given the small number of artists on the protocol. 
-* Because of the nature of the protocol, Audius is more aligned towards independent, smaller artists will a relatively small fan base as compared to the mainstream big names. This will lead to an initial lag in terms of user growth. 
+* Because of the nature of the protocol, Audius is more aligned towards independent, smaller artists with relatively smaller fan bases as compared to the mainstream big names. This will lead to an initial lag in terms of user growth. 
 
 ### Opportunities  
 
