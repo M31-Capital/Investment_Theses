@@ -200,7 +200,8 @@ Detailed Metrics and on-chain Analytics can be found [here](https://docs.google.
 ## Crypto Native Diligence 
 
 Smart Contract and Protocol Audits can be found [here](https://blog.openzeppelin.com/audius-contracts-audit/#introduction) 
-3 critical and 12 high severity issues were found. Some changes were proposed to follow best practices and reduce potential attack surface. These changes have since been implemented. 
+
+*3 critical and 12 high severity issues were found. Some changes were proposed to follow best practices and reduce potential attack surface. These changes have since been implemented.*
 
 ## Team 
 Co-Founders: [Ronil Rumburg](https://audius.org/team) and [Forrest Browning](https://audius.org/team) 
