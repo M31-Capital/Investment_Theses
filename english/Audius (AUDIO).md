@@ -156,7 +156,18 @@ Early examples incubated by the community include artists tokens, badges and ear
 * A large amount of the token supply was allocated to investors and the team (~76%)
 
 ## Catalysts 
-## User Metrics
+
+## Protocol Metrics
+
+Despite being in beta and servicing a small number of artists, Audius has managed to gain impressive traction. In fact, it is one of the most widely used web3 protocols. 
+
+* Audius has one of the largest user bases of all web3 protocols, with an average monthly user base of 2.89m over the last year. Monthly users have grown 329% since launch of the protocol
+* In terms of usage (number of times a song has been streamed on the protocol), Audius sees ~6.2m streams a month on average, up roughly +214% over the last year. In totality, the protocol has seen ~87m streams 
+* There are more than 7 applications that leverage the Audius API, and have made over a billion API calls
+
+Detailed Metrics and On-chain Analytics can be found [here](https://docs.google.com/spreadsheets/d/1wuBbpQdGPNHqSPtJ38sk7l7MbPdI3TYTpBTapbDga2A/edit#gid=1574613266) and [here](https://dashboard.audius.org/#/analytics) 
+
+
 ## Crypto Native Diligence 
 ## Team 
 ## Resources 
