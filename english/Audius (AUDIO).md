@@ -157,6 +157,11 @@ Early examples incubated by the community include artists tokens, badges and ear
 
 ## Catalysts 
 
+* Introduction of [Audio Tipping](https://blog.audius.co/article/introducing-audio-tipping) – where fans can send micropayments as “tips” to their favorite artists on the protocol. This is the first of a large set of monetization features that the protocol can introduce.
+* Major UX Improvements with addition of [notifications](https://blog.audius.co/article/receive-notifications-when-your-track-is-added-to-a-playlist), [playlist folders](https://blog.audius.co/article/introducing-playlist-folders) and [NFT integrations](https://blog.audius.co/article/audius-nfts-and-wallets-faq) with layer 1 blockchain Solana
+* [Integrations](https://blog.audius.co/article/audius-the-graph-mainnet-launch-partner) with the Graph protocol for Indexing 
+
+
 ## Protocol Metrics
 
 Despite being in beta and servicing a small number of artists, Audius has managed to gain impressive traction. In fact, it is one of the most widely used web3 protocols. 
