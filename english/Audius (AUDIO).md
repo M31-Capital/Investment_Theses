@@ -1,4 +1,13 @@
-Audius – Investment Thesis (GitHub) 
+# Audius (AUDIO)
+
+* Current Price: $0.37 
+* Token Type:	Utility token for staking, music access and payments
+* Circ. Token Supply: 881.41m (80%)
+* Total Token Supply: 1.10bn
+* Market Capitalisation: $304m
+* Launch: Mainnet: Sept 2019
+* Whitepaper: [Audius Whitepaper](https://whitepaper.audius.co/AudiusWhitepaper.pdf)
+
 
 ## Overview 
 
