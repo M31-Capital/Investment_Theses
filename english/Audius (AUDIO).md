@@ -128,9 +128,9 @@ Early examples incubated by the community include artists tokens, badges and ear
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/184735787-1d52f7a2-19e6-4d1e-beae-d0b0da534368.png">
 
-### SWOT Analysis
+## SWOT Analysis
 
-## Strengths 
+### Strengths 
 
 * The protocol provides creators with an open platform to enable discovery and monetization of their content. 
 * It allows fans to engage with artists in unique ways, controlled by onchain activity. 
@@ -138,18 +138,18 @@ Early examples incubated by the community include artists tokens, badges and ear
 * Ownership of music rights can be fractionalized on-chain, unlocking new ways of financing. 
 * It removes the need and over-reliance on centralized protocols for music discovery. 
 
-## Weaknesses  
+### Weaknesses  
 
 * The initial bootstrapping of the protocol depends heavily on building out a strong supply side of popular artists, before more regular indie creators can start to feel the network effects of the protocol. 
 * Since the ultimate driver of streaming demand is having large libraries of music, Audius may find it difficult to attract too many users given the small number of artists on the protocol. 
 * Because of the nature of the protocol, Audius is more aligned towards independent, smaller artists will a relatively small fan base as compared to the mainstream big names. This will lead to an initial lag in terms of user growth. 
 
-## Opportunities  
+### Opportunities  
 
 * Only the really famous musicians end up making good revenues from streaming platforms, while smaller independent artists who may not be able to generate millions of streams a year (which reinforces the algorithm to push them lower down in the list for discovery), suffer as a result of the pricing system these centralized platforms have set. Audius could be a perfect solution for independent artists like these. 
 * Audius creates new engagement channels between artists and their fans, that were not possible earlier, like token gated access to content, closed events, special access to artists etc. In fact, artist tokens give fans a unique opportunity to go long their favorite artists, and even capture some of the upside if the artist ends up becoming extremely successful. It is like an added provable layer (that is lucrative in $ terms) to bragging rights of discovering an artist early. 
 
-## Threats 
+### Threats 
 
 * The off-chain enforceability of on-chain IP rights is still a major point of contention and regulatory scrutiny
 * The overall market is full of competition, Spotify and Apple Music dominate the music streaming space with large music libraries and large user bases that are willing to pay a premium to access those libraries. 
