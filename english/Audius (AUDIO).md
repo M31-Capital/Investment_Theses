@@ -147,7 +147,7 @@ Early examples incubated by the community include artists tokens, badges and ear
 ### Opportunities  
 
 * Only the really famous musicians end up making good revenues from streaming platforms, while smaller independent artists who may not be able to generate millions of streams a year (which reinforces the algorithm to push them lower down in the list for discovery), suffer as a result of the pricing system these centralized platforms have set. Audius could be a perfect solution for independent artists like these. 
-* Audius creates new engagement channels between artists and their fans, that were not possible earlier, like token gated access to content, closed events, special access to artists etc. In fact, artist tokens give fans a unique opportunity to go long their favorite artists, and even capture some of the upside if the artist ends up becoming extremely successful. It is like an added provable layer (that is lucrative in $ terms) to bragging rights of discovering an artist early. 
+* Audius creates new engagement channels between artists and their fans, that were not possible earlier, like token gated access to content, closed events, special access to artists etc. In fact, artist tokens give fans a unique opportunity to go long their favorite artists, and even capture some of the upside if the artist ends up becoming extremely successful. It is like an added provable layer (that is lucrative in $ terms) to [bragging rights of discovering an artist early.](https://www.billboard.com/music/music-news/spotify-found-them-first-6692383/) 
 
 ### Threats 
 
