@@ -13,7 +13,7 @@
 
 Audius is a decentralized music streaming platform, that leverages blockchain technology to power distribution of music without the need for an intermediary third party (like a Universal Music, Spotify or Apple Music), directly allowing fans and their artists to interact with each other. 
 
-## Background & Investment Thesis
+## Investment Thesis
 
 Before diving into Audius and how they are looking to disrupt the music distribution space, we take a look at what the current industry looks like, and why we think we need these kinds of protocols to exist in order to democratize an increasingly gatekept legacy system. 
 
