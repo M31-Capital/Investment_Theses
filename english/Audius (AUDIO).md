@@ -67,10 +67,6 @@ Subscribers have grown at an impressive 42% CAGR over the last decade plus, an i
 
 The overall streaming market is worth ~$30bn today, and is expected to grow at 14.7% CAGR over the next decade, which would value the TAM at roughly $118bn. 
 
-Realistically speaking, it will be difficult for Audius to usurp the streaming giants like Spotify or Apple music as they have a massive advantage when it comes to library sizes. However, there is still 20% of the market that isn’t dominated by the major players, and this is where Audius can uniquely position itself to attract users. 
-
-<img width="149" alt="image" src="https://user-images.githubusercontent.com/96482943/184784046-10a5de2e-13e6-46c9-9d31-9ce695cc79b0.png">
-
 Audius can attract artists by providing higher streaming revenues to them. If Audius is able to capture 50% of the streaming market that doesn’t consist of the big players, it is looking at a TAM of ~$11.8bn over the next decade
 
 A deeper breakdown of the overall streaming market can be found [here](https://musicalpursuits.com/music-streaming/#:~:text=Highlights%20of%20music%20streaming%20industry,the%20U.S.%20music%20industry%20revenue.) 
@@ -161,6 +157,15 @@ As of July 2022,
 * There are more than 7 applications that leverage the Audius API, and have made over a billion API calls
 
 Detailed Metrics and on-chain Analytics can be found [here](https://docs.google.com/spreadsheets/d/1wuBbpQdGPNHqSPtJ38sk7l7MbPdI3TYTpBTapbDga2A/edit#gid=1574613266) and [here](https://dashboard.audius.org/#/analytics) 
+
+### Competitive Landscape 
+
+Audius is one of the only protocols within the Web3 space that is tackling the music streaming angle. While there are other protocols like [Emanate](https://emanate.live/listen/spotlight) and [Opus](https://opus.audio/) that look at solving for music distribtution, they are very new and still in their early stages, compared to Audius. Audius is competing more with Web2 music streaming platforms. 
+
+Realistically speaking, it will be difficult for Audius to usurp the streaming giants like Spotify or Apple music as they have a massive advantage when it comes to library sizes. However, there is still 20% of the market that isn’t dominated by the major players, and this is where Audius can uniquely position itself to attract users. 
+
+<img width="149" alt="image" src="https://user-images.githubusercontent.com/96482943/184784046-10a5de2e-13e6-46c9-9d31-9ce695cc79b0.png">
+
 
 ## SWOT Analysis
 
