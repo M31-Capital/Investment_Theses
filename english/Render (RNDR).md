@@ -56,9 +56,6 @@ Explicit fees are the fees that users pay (in the protocol tokens) to render the
 
 It’s evident that these infrastructure protocols are quite overvalued as compared to the revenues they are generating - however, the number of users is concentrated given how nascent the space is. We expect to see user growth increase exponentially over time, as these products improve on UX, and find strong PMF. At the end of the day, they will be able to provide services identical to web2 at much lower costs. This will bring the users, and revenue. 
 
-Since Render Network is going through system chananges, it is difficult to find any onchain data for network usage. However, according to the [latest data from the team](https://medium.com/render-token/behind-the-network-a48078658166), – the network has over 10,000 users, 300 creators and ~2.8M RNDR tokens of transactions on the network. This implies an annualized revenue of ~$1.4m. 
-
-
 Looking at Render's Network next to other, similar protocols in the Web3 Space, it is quite clear that the protocol is significantly undervalued relative to all the other protocols – considering the high consistent demand there is for Rendering (or the utility the Render Network provides) compared to the other protocols.  
 
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184567041-ed54a478-4f57-4e07-ae87-97064277307d.png">
@@ -117,7 +114,7 @@ The RNDR max Supply is capped at 536,870,912 tokens, expected to be distributed 
 
 * 10% of the supply (53,687,091 tokens) is classified as RNDR Reserve, including founders and contributors. This had a 6 month lockup and is expected to flow to the market over time
 
-## Protocol Mechanics: 
+## Protocol Mechanics
 
 ### Value Drivers
 
@@ -129,7 +126,16 @@ RNDR token is used to pay for render requests on the network.
 
 *(Staking, Rev share, and network security Tokenomics are under re-develpment)* 
 
+### Protocol Metrics
 
+Since Render Network is going through system chananges, it is difficult to find any onchain data for network usage. 
+
+However, according to the latest data from the team, – the network has: 
+* 10,000+ recurring monthly users 
+* 300 creators  
+* ~2.8M RNDR tokens of transactions on the network. (This implies an annualized revenue of ~$1.4m at current RNDR prices) 
+
+Detailed Network Updates are regularly shared by the team [here.]((https://medium.com/render-token/behind-the-network-a48078658166))
 ## SWOT Analysis
 
 Strengths: 
