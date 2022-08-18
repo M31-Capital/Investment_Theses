@@ -42,22 +42,23 @@ With the narrative around Metaverses growing – and more and more people transi
 In order for large scale rendering to process, in a decentralised manner,  - an infrastructure of nodes would be required to constantly manage/validate render requests, payments, computations etc– creating an opportunity to actively participate in the network –– in return for economic incentives. 
 
 
+## Industry Outlook
 
-## Industry Outlook, TAM & Comparitive Analysis 
-
-
-* Currently, the entire 3D rendering market is around $4bn expected to grow to around $20bn by 2025. However, with the increasing demands for holographic renders – for games, individual creators etc. – this market could easily hit $50bn by 2025. Current competitors are – Corona, Lumion, Keyshot etc. that provide CPU rendering – and AWS, Azzure that provide cloud rendering. 
-* There are no other real competitors within the blockchain space that offer rendering – however, Arweave, Filecoin and Livepeer – offer other forms of decentralised computing power. They all have similar protocol economics – build out a vast array of nodes, incentivised by token rewards, and use the native token to pay for services that the distributed array of nodes can provide. 
+Currently, the entire 3D rendering market is around $4bn expected to grow to around $20bn by 2025. However, with the increasing demands for holographic renders – for games, individual creators etc. – this market could easily hit $50bn by 2025. Current competitors are – Corona, Lumion, Keyshot etc. that provide CPU rendering – and AWS, Azzure that provide cloud rendering. 
 
 
+## Competitive Landscape
 
+There are no other real competitors within the blockchain space that offer rendering – however, Arweave, Filecoin and Livepeer – offer other forms of decentralised computing power. They all have similar protocol economics – build out a vast array of nodes, incentivised by token rewards, and use the native token to pay for services that the distributed array of nodes can provide. 
 Arweave, Livepeer and Helium and Filecoin are the best comparisons to Render - since they generate explicit revenues for their network usage. 
 
 Explicit fees are the fees that users pay (in the protocol tokens) to render the service of the network. For example - you would pay for storage on Filecoin or Arweave, pay for streaming video on Livepeer, and pay for Data credits on Helium. 
 
 It’s evident that these infrastructure protocols are quite overvalued as compared to the revenues they are generating - however, the number of users is concentrated given how nascent the space is. We expect to see user growth increase exponentially over time, as these products improve on UX, and find strong PMF. At the end of the day, they will be able to provide services identical to web2 at much lower costs. This will bring the users, and revenue. 
 
-Since Render Network is going through system chananges, it is difficult to find any onchain data for network usage. However, according to the [latest data from the team](https://medium.com/render-token/behind-the-network-a48078658166), – the network has over 10,000 users, 300 creators and ~2.8M RNDR tokens of transactions on the network. This implies an annualized revenue of ~$1.4m. We expect this figure to grow significantly over the coming few years, led by a few headwinds: 
+Since Render Network is going through system chananges, it is difficult to find any onchain data for network usage. However, according to the [latest data from the team](https://medium.com/render-token/behind-the-network-a48078658166), – the network has over 10,000 users, 300 creators and ~2.8M RNDR tokens of transactions on the network. This implies an annualized revenue of ~$1.4m. 
+
+We expect this figure to grow significantly over the coming few years, led by a few headwinds: 
 
 1. The Ethereum Merge is completed succesfully around the month of September 2022. This will mean that lots of Ethereum PoW mining equipment (GPU processing power) will be unprofitable, and will need to be redirected elsewhere. 
 2. The current network is still in a transition phase, and nodes and users that can access the network are currently capped. Once the network completes its transition state, we should see a larger number of users onboarded that will significantly boost revenues. 
