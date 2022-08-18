@@ -70,9 +70,9 @@ The Render Token will be the primary unit utilized to exchange rendering and str
 
 In its final form, the token will allow users to utilize the wide array of available GPUs in the peer-to-peer network, allowing for quick and reliable rendering facilitated and kept track of by the blockchain. 
 
-Orc Network
+### Orc Network
 
-Users (Creators) 
+### Users (Creators) 
 
 Users will create accounts on the Orc Network – that will be linked to a blockchain (initially Ethereum, plans to migrate to Solana) – through smart contracts and unique wallets. 
 Users will have to purchase and store RNDR tokens on their accounts – in order to pay for rendering services on the network. 
@@ -82,11 +82,11 @@ When a user submits a render request - the network will send a request for a Ren
 ![image](https://user-images.githubusercontent.com/96431097/168859073-935265ab-9bac-4655-9596-1c212399a888.png)
 
 
-Node Operators
+### Node Operators
 
 Node Operators register their GPUs to the RNDR network to be "rented out" by Creators in need of additional power, and get paid RNDR tokens for time spent rendering. Currently, in order to be a node operator and join the network – one will need to fill out a form, and join a queue in order to be whitelisted, and added to the network. 
 
-The Network
+### The Network
 
 Let’s say you’re an individual who needs a quick rendering job done. 
 
@@ -98,10 +98,6 @@ Let’s say you’re an individual who needs a quick rendering job done.
 
 The Network essentially co-ordinates and facilitates demand and supply for GPU compute power (render jobs – and allocates jobs across nodes. The network essentially functions like a marketplace. 
 
-
-## Protocol Fees: 
-
-* The protocol takes a 0.5% - 5% fee per render request – which is sent to the treasury. There is no information on whether these funds will be distributed to RNDR holders. 
 
 ## RNDR Tokenomics: (To be revised) 
 Max Supply: 536,870,912 RNDR
@@ -121,10 +117,16 @@ The RNDR max Supply is capped at 536,870,912 tokens, expected to be distributed 
 
 * 10% of the supply (53,687,091 tokens) is classified as RNDR Reserve, including founders and contributors. This had a 6 month lockup and is expected to flow to the market over time
 
-Token Use cases: 
+## Protocol Mechanics: 
+
+### Value Drivers
+
+The protocol charges a 0.5% to 5% fee per render request, which is sent to the treasury. RNDR holders can decide what to do with the treasury assets via governance. The more render requests that the protcocol facilitates, the more RNDR is spent on the network, and more value accrues to the protocol treasury. 
+
+### Utility
 
 RNDR token is used to pay for render requests. 
-(Staking, Rev share (potentially), and network security Tokenomics to be updated.) 
+*(Staking, Rev share, and network security Tokenomics are under re-develpment)* 
 
 
 ## SWOT Analysis
@@ -171,22 +173,17 @@ Team Size: 60+
 
 [Render Token Audit](https://blog.openzeppelin.com/render-token-audit-2a078ba6d759/) 
 
-Date: September 2017 
-
-1 Low severity issue was found
-
+*1 Low severity issue was found*
 
 [Render Token Transfer Audit](https://blog.openzeppelin.com/rndr-token-transfer-audit-74b21356b849/) 
 
-Date: November 2018 
-
-4 High, 7 Medium and 9 Low severity issues found.
-
-Open-Source Risk (Forking Risk)
-
-Low Forking Risk – Protocol smart contracts can be forked – however, the core component is the nodes and the octane render engine which is owned and controlled by Otoy 
+*4 High, 7 Medium and 9 Low severity issues found*
  
 ## Resources
-* [Github](https://github.com/rndr-network) 
+* [Website](https://rendertoken.com/)
+* [Twitter](https://twitter.com/rendertoken)
+* [Blog](https://medium.com/render-token)
+* [Telegram](https://t.me/RenderTokenOfficial)
+* [GitHub](https://github.com/rndr-network) 
 * [Docs](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ad442da8a-067e-490f-88cf-2c4511016ff7#pageNum=1)
 
