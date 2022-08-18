@@ -58,11 +58,6 @@ It’s evident that these infrastructure protocols are quite overvalued as compa
 
 Since Render Network is going through system chananges, it is difficult to find any onchain data for network usage. However, according to the [latest data from the team](https://medium.com/render-token/behind-the-network-a48078658166), – the network has over 10,000 users, 300 creators and ~2.8M RNDR tokens of transactions on the network. This implies an annualized revenue of ~$1.4m. 
 
-We expect this figure to grow significantly over the coming few years, led by a few headwinds: 
-
-1. The Ethereum Merge is completed succesfully around the month of September 2022. This will mean that lots of Ethereum PoW mining equipment (GPU processing power) will be unprofitable, and will need to be redirected elsewhere. 
-2. The current network is still in a transition phase, and nodes and users that can access the network are currently capped. Once the network completes its transition state, we should see a larger number of users onboarded that will significantly boost revenues. 
-
 
 Looking at Render's Network next to other, similar protocols in the Web3 Space, it is quite clear that the protocol is significantly undervalued relative to all the other protocols – considering the high consistent demand there is for Rendering (or the utility the Render Network provides) compared to the other protocols.  
 
@@ -168,6 +163,8 @@ Team Size: 60+
 * Huge influx of users towards Metaverses and gaming. 
 * Already existing user base of Octane Core engine. 
 * GPU growth is exponential – expected market size to be $200bn in the next 5 years. 
+* The Ethereum Merge is will occur around the month of September 2022. This will mean that lots of Ethereum PoW mining equipment (CPU processing power) will be unprofitable, and will need to be redirected elsewhere. We believe mining RNDR will be one of the chosen destinations. 
+* The current network is still in a transition phase, and nodes and users that can access the network are currently capped. Once the network completes its transition state, we should see a larger number of users onboarded that will significantly boost revenues. 
 
 ## CODE AUDITS
 
