@@ -139,24 +139,26 @@ Threats:
 
 ## Catalysts
 
-* In Dec 2020 - Solana and Arweave partnered for Solana’s high performance data storage needs. This provides Arweave with a constant stream of demand for its storage, and thus, its token. 
+* Growing Partnerships with Enterprises and Blockchains to permanently store important metadata. We are seeing an increasing trend of L1 blockchain outsourcing their data storage layers to able to scale. 
 * Decentralized NFT, Gaming, & Social Media apps will all require vast amounts of storage. Currently a single AAA game will require between 25GB-100GB of data storage. NFTs need to be stored permanently. Solana has allocated $100m focused on building the Gaming & NFT ecosystem while they have also partnered with Reddit Founder Alex Ohanian to allocate _another_ $100m for decentralized social media. 
-* Permaweb application development – as more applications look to build for permanence, Arweave will be the main destination. 
+* Permaweb application development – as more applications look to build for permanence, Arweave will be the main destination, driving usage of the protocol, and demand for the AR token.
 
+## Code Audits 
+
+A Review of Arweave's code can be found [here](https://cryptobriefing.com/arweave-code-review-decentralized-storage/)
+
+Arweave's smart contracts can be found [here](https://github.com/orgs/ArweaveTeam/repositories)
 
 ## Management & Team
 
-Founder: Sam Williams & Jesper Noehr
+Founder: [Sam Williams](https://twitter.com/samecwilliams?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) & [Jesper Noehr](https://twitter.com/jespern?lang=en)
 
 Team Size: 20+
  
 ## Resources
-[Github](https://github.com/ArweaveTeam/arweave)
-[Docs](https://www.arweave.org/technology#papers)
 
-## Official Channels
-[Website](https://www.arweave.org/)
-
-[Twitter](https://twitter.com/ArweaveTeam)
-
-[Discord](https://discord.gg/3Dad8J7)
+* [Website](https://www.arweave.org/)
+* [Twitter](https://twitter.com/ArweaveTeam)
+* [Discord](https://discord.gg/3Dad8J7)
+* [GitHub](https://github.com/ArweaveTeam/arweave)
+* [Docs](https://www.arweave.org/technology#papers)
