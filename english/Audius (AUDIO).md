@@ -57,7 +57,7 @@ Streaming platforms have translated their high demand into the driving source fo
 
 These arguments pretty much sum up the major problems with the current web2 music distribution architecture – artists are underpaid and undervalued relative to the value they create (unequal value distribution), and centralized entities (record labels and streaming platforms) control both content discovery as well as monetization potential. While there are other issues like royalty payments, opaque old systems etc. – we believe these are the biggest two problems within the space right now – both of which Audius looks to tackle. 
 
-## Industry Outlook & TAM
+## Industry Outlook
 
 As discussed earlier in this report, Music Streaming platforms are the preferred method of music consumption today, with global subscribers crossing 520 million across various platforms. These platforms have been able to secure streaming deals with a wide range of artists, while also allowing independent artists to upload their content onto the platform. These vast libraries, and the ability to offer instant music availability, at any point in time have driven massive user growth over the recent past. 
 
@@ -76,7 +76,7 @@ Audius can attract artists by providing higher streaming revenues to them. If Au
 A deeper breakdown of the overall streaming market can be found [here](https://musicalpursuits.com/music-streaming/#:~:text=Highlights%20of%20music%20streaming%20industry,the%20U.S.%20music%20industry%20revenue.) 
 
 
-## Technology - How it Works 
+## Technology 
 
 ### Network Participants
 
@@ -84,7 +84,7 @@ A deeper breakdown of the overall streaming market can be found [here](https://m
 2.	**Fans** – They consume the content produced by artists, and engage with the artists and the protocol. 
 3.	**Content Ledger** – This is the main ledger for the protocol, which contains the node registry, and other important information. 
 4.	**Content Nodes** – These are servers that host content and permission access to it. 
-5.	**Discovery Nodes** – These are the servers that are responsible for indexing the main ledger and allowing users and developers to query it.
+5.	**Discovery Nodes** – These are the servers that are responsible for indexing the main ledger to allow users and developers to query it.
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/96482943/184722834-98bb648d-e3ac-4048-a9e0-aa582da7b97e.png">
 
@@ -125,8 +125,15 @@ Discovery nodes, similar to content nodes, are servers that Index the content le
 
 Nodes are incentivized to provide the service by earning AUDIO token emissions and a potential share in protocol revenue. 
 
-## Tokenomics and Protocol Mechanics
+## Tokenomics
 
+**Genesis Supply:** 1,000,000,000 AUDIO
+
+**Annual Issuance Rate:** 7% (70,000,000 AUDIO)
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/184735787-1d52f7a2-19e6-4d1e-beae-d0b0da534368.png">
+
+## Protocol Mechanics 
 The Audius protocol is powered by the Audius platform token ($AUDIO), and 3rd-party stablecoins as well as artist-specific tokens will be supported in the future. 
 
 ### Utility
@@ -141,13 +148,19 @@ Audius tokens are staked as collateral for a value added services. In exchange, 
 
 Early examples incubated by the community include artists tokens, badges and earnings multipliers. In the future, fans may delegate tokens to specific artists and curators to share in their growth on the platform and the issuance of future tokens. Node operators must stake Audius tokens to operate a discovery node or content node, with a larger stake correlating to a higher probability of being chosen by fan clients. 
 
-### Token Distribution 
+## Protocol Metrics
 
-**Genesis Supply:** 1,000,000,000 AUDIO
+Despite being in beta and servicing a small number of artists, Audius has managed to gain impressive traction. In fact, it is one of the most widely used web3 protocols. 
 
-**Annual Issuance Rate:** 7% (70,000,000 AUDIO)
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/184761608-feec874c-959c-492b-8151-2f703a808b1e.png">
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/184735787-1d52f7a2-19e6-4d1e-beae-d0b0da534368.png">
+As of July 2022,
+
+* Audius has one of the largest user bases of all web3 protocols, with an average monthly user base of 2.89m over the last year. Monthly users have grown 329% since launch of the protocol
+* In terms of usage (number of times a song has been streamed on the protocol), Audius sees ~6.2m streams a month on average, up roughly +214% over the last year. In totality, the protocol has seen ~87m streams 
+* There are more than 7 applications that leverage the Audius API, and have made over a billion API calls
+
+Detailed Metrics and on-chain Analytics can be found [here](https://docs.google.com/spreadsheets/d/1wuBbpQdGPNHqSPtJ38sk7l7MbPdI3TYTpBTapbDga2A/edit#gid=1574613266) and [here](https://dashboard.audius.org/#/analytics) 
 
 ## SWOT Analysis
 
@@ -183,22 +196,7 @@ Early examples incubated by the community include artists tokens, badges and ear
 * [Integrations](https://blog.audius.co/article/audius-the-graph-mainnet-launch-partner) with the Graph protocol for Indexing 
 
 
-## Protocol Metrics
-
-Despite being in beta and servicing a small number of artists, Audius has managed to gain impressive traction. In fact, it is one of the most widely used web3 protocols. 
-
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/184761608-feec874c-959c-492b-8151-2f703a808b1e.png">
-
-As of July 2022,
-
-* Audius has one of the largest user bases of all web3 protocols, with an average monthly user base of 2.89m over the last year. Monthly users have grown 329% since launch of the protocol
-* In terms of usage (number of times a song has been streamed on the protocol), Audius sees ~6.2m streams a month on average, up roughly +214% over the last year. In totality, the protocol has seen ~87m streams 
-* There are more than 7 applications that leverage the Audius API, and have made over a billion API calls
-
-Detailed Metrics and on-chain Analytics can be found [here](https://docs.google.com/spreadsheets/d/1wuBbpQdGPNHqSPtJ38sk7l7MbPdI3TYTpBTapbDga2A/edit#gid=1574613266) and [here](https://dashboard.audius.org/#/analytics) 
-
-
-## Crypto Native Diligence 
+## Code Audits
 
 Smart Contract and Protocol Audits can be found [here](https://blog.openzeppelin.com/audius-contracts-audit/#introduction) 
 
