@@ -51,19 +51,6 @@ Currently, the entire 3D rendering market is around $2bn, and is expected to gro
 
 With the increasing demands for holographic renders – for games, individual creators etc. – this market could easily hit $20bn by 2025. Current competitors are – Corona, Lumion, Keyshot etc. that provide CPU rendering – and AWS, Azzure that provide cloud rendering. 
 
-## Competitive Landscape
-
-There are no other real competitors within the blockchain space that offer rendering – however, Arweave, Filecoin and Livepeer – offer other forms of decentralised computing power. They all have similar protocol economics – build out a vast array of nodes, incentivised by token rewards, and use the native token to pay for services that the distributed array of nodes can provide. 
-Arweave, Livepeer and Helium and Filecoin are the best comparisons to Render - since they generate explicit revenues for their network usage. 
-
-Explicit fees are the fees that users pay (in the protocol tokens) to render the service of the network. For example - you would pay for storage on Filecoin or Arweave, pay for streaming video on Livepeer, and pay for Data credits on Helium. 
-
-It’s evident that these infrastructure protocols are quite overvalued as compared to the revenues they are generating - however, the number of users is concentrated given how nascent the space is. We expect to see user growth increase exponentially over time, as these products improve on UX, and find strong PMF. At the end of the day, they will be able to provide services identical to web2 at much lower costs. This will bring the users, and revenue. 
-
-Looking at Render's Network next to other, similar protocols in the Web3 Space, it is quite clear that the protocol is significantly undervalued relative to all the other protocols – considering the high consistent demand there is for Rendering (or the utility the Render Network provides) compared to the other protocols.  
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/184567041-ed54a478-4f57-4e07-ae87-97064277307d.png">
-
 
 ## Technology:
 
@@ -140,6 +127,20 @@ However, according to the latest data from the team, – the network has:
 * ~2.8M RNDR tokens of transactions on the network. (This implies an annualized revenue of ~$1.4m at current RNDR prices) 
 
 Detailed Network Updates are regularly shared by the team [here](https://medium.com/render-token/behind-the-network-a48078658166)
+
+## Competitive Landscape
+
+There are no other real competitors within the blockchain space that offer rendering – however, Arweave, Filecoin and Livepeer – offer other forms of decentralised computing power. They all have similar protocol economics – build out a vast array of nodes, incentivised by token rewards, and use the native token to pay for services that the distributed array of nodes can provide. 
+Arweave, Livepeer and Helium and Filecoin are the best comparisons to Render - since they generate explicit revenues for their network usage. 
+
+Explicit fees are the fees that users pay (in the protocol tokens) to render the service of the network. For example - you would pay for storage on Filecoin or Arweave, pay for streaming video on Livepeer, and pay for Data credits on Helium. 
+
+It’s evident that these infrastructure protocols are quite overvalued as compared to the revenues they are generating - however, the number of users is concentrated given how nascent the space is. We expect to see user growth increase exponentially over time, as these products improve on UX, and find strong PMF. At the end of the day, they will be able to provide services identical to web2 at much lower costs. This will bring the users, and revenue. 
+
+Looking at Render's Network next to other, similar protocols in the Web3 Space, it is quite clear that the protocol is significantly undervalued relative to all the other protocols – considering the high consistent demand there is for Rendering (or the utility the Render Network provides) compared to the other protocols.  
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/184567041-ed54a478-4f57-4e07-ae87-97064277307d.png">
+
 ## SWOT Analysis
 
 Strengths: 
