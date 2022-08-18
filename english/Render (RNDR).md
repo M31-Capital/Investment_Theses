@@ -153,11 +153,6 @@ Threats:
 * No real threats – apart from centralised control over the network. 
 * Potentially, weak token value accrual for holders. 
 
-## Management & Team
-
-Founder: Jules Urbach (Founder and CEO of OTOY)
-
-Team Size: 60+ 
 
 ## Catalysts: 
 
@@ -168,7 +163,7 @@ Team Size: 60+
 * The Ethereum Merge is will occur around the month of September 2022. This will mean that lots of Ethereum PoW mining equipment (CPU processing power) will be unprofitable, and will need to be redirected elsewhere. We believe mining RNDR will be one of the chosen destinations. 
 * The current network is still in a transition phase, and nodes and users that can access the network are currently capped. Once the network completes its transition state, we should see a larger number of users onboarded that will significantly boost revenues. 
 
-## CODE AUDITS
+## Code Audits
 
 
 [Render Token Audit](https://blog.openzeppelin.com/render-token-audit-2a078ba6d759/) 
@@ -178,6 +173,12 @@ Team Size: 60+
 [Render Token Transfer Audit](https://blog.openzeppelin.com/rndr-token-transfer-audit-74b21356b849/) 
 
 *4 High, 7 Medium and 9 Low severity issues found*
+
+## Team
+
+Founder: [Jules Urbach](https://twitter.com/julesurbach?lang=en) (Founder and CEO of OTOY)
+
+[Team](https://rendertoken.com/#team) of 60+ 
  
 ## Resources
 * [Website](https://rendertoken.com/)
