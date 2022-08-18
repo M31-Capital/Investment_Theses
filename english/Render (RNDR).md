@@ -126,7 +126,7 @@ RNDR token is used to pay for render requests on the network.
 
 *(Staking, Rev share, and network security Tokenomics are under re-develpment)* 
 
-### Protocol Metrics
+## Protocol Metrics
 
 Since Render Network is going through system chananges, it is difficult to find any onchain data for network usage. 
 
