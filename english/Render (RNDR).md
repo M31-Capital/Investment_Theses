@@ -44,8 +44,12 @@ In order for large scale rendering to process, in a decentralised manner,  - an 
 
 ## Industry Outlook
 
-Currently, the entire 3D rendering market is around $4bn expected to grow to around $20bn by 2025. However, with the increasing demands for holographic renders – for games, individual creators etc. – this market could easily hit $50bn by 2025. Current competitors are – Corona, Lumion, Keyshot etc. that provide CPU rendering – and AWS, Azzure that provide cloud rendering. 
+Currently, the entire 3D rendering market is around $2bn, and is expected to grow at a CAGR of 18.2% to around $8bn by 2025. 
 
+* High adoption of technology and the presence of an advanced technological infrastructure are expected to be prominent trends driving the Visualization and 3D Rendering Software market potential over the forecast period.
+* Increasing demand for video games with better graphics has also led to the use of motion capture and visualizations which is propelling the Visualization and 3D Rendering Software market growth through 2028
+
+With the increasing demands for holographic renders – for games, individual creators etc. – this market could easily hit $20bn by 2025. Current competitors are – Corona, Lumion, Keyshot etc. that provide CPU rendering – and AWS, Azzure that provide cloud rendering. 
 
 ## Competitive Landscape
 
