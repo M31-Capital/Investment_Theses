@@ -58,7 +58,7 @@ It’s evident that these infrastructure protocols are quite overvalued as compa
 
 Looking at Render's Network next to other, similar protocols in the Web3 Space, it is quite clear that the protocol is significantly undervalued relative to all the other protocols – considering the high consistent demand there is for Rendering (or the utility the Render Network provides) compared to the other protocols.  
 
-<img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184567041-ed54a478-4f57-4e07-ae87-97064277307d.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/184567041-ed54a478-4f57-4e07-ae87-97064277307d.png">
 
 
 ## Technology:
