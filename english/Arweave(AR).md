@@ -102,11 +102,11 @@ The value of AR is derived from:
 
 As of Jul 2022, 
 
-Total Weave Size: 86.47TB of total data stored on chain. Weave Size is up +705.12% over the last year. 
-Total Transactions: ~350m total transactions since launch, up +1060% over the last year. 
-Total Protocol Revenue: $1.3m in revenue earned since launch, up +1486.1% over the last year. 
+* Total Weave Size: 86.47TB of total data stored on chain. Weave Size is up +705.12% over the last year. 
+* Total Transactions: ~350m total transactions since launch, up +1060% over the last year. 
+* Total Protocol Revenue: $1.3m in revenue earned since launch, up +1486.1% over the last year. 
 
-Detaled Protocol Metrics and On-chain Analytics can be viewed [here](https://v2.viewblock.io/arweave/stat/txCount?time=month) and [here](https://docs.google.com/spreadsheets/d/1VTatq6I_nFhrukfOEpCG4XpojKIYJMS0qxjoKg9SCsY/edit#gid=963225956) 
+Detailed Protocol Metrics and On-chain Analytics can be viewed [here](https://v2.viewblock.io/arweave/stat/txCount?time=month) and [here](https://docs.google.com/spreadsheets/d/1VTatq6I_nFhrukfOEpCG4XpojKIYJMS0qxjoKg9SCsY/edit#gid=963225956) 
 
 
 ## Competitive Landscape 
