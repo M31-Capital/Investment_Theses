@@ -36,16 +36,11 @@ Data stored on the internet is far from permanent. Centralized servers will stor
 While Arweave may be the go-to blockchain for applications that value permanence, it can also serve as an infrastructure layer to enterprises including other blockchains that need to store important metadata in perpetuity. Layer 1 Blockchain's aren't inherently created for data storage, and hence storage costs are so high that scaling will get restricted (as we are seeing with Ethereum). This is where Arweave, as a decentralized data storage layer, can provide massive value. We are already seeing this trend emerge with [Solana using Arweave](https://solana.com/ecosystem/arweave) as their data storage layer, with [Polygon following suit](https://blog.polygon.technology/polygon-adds-permanent-data-storage-with-arweave-integration/). 
 
 
-## Catalysts
-
-* In Dec 2020 - Solana and Arweave partnered for Solana’s high performance data storage needs. This provides Arweave with a constant stream of demand for its storage, and thus, its token. 
-* Decentralized NFT, Gaming, & Social Media apps will all require vast amounts of storage. Currently a single AAA game will require between 25GB-100GB of data storage. NFTs need to be stored permanently. Solana has allocated $100m focused on building the Gaming & NFT ecosystem while they have also partnered with Reddit Founder Alex Ohanian to allocate _another_ $100m for decentralized social media. 
-* Permaweb application development – as more applications look to build for permanence, Arweave will be the main destination. 
-
-
 ## Industry Outlook
 
-Arweave is set to become the go-to service provider for decentralised long term data storage, providing for Web2 data storage, as well as Web3 data storage requirements. We quantify the TAM by taking into consideration current Web2 cloud storage market, worth **~$75bn**, and projected to grow to **$400bn by 2028**. IT and telecommunications makes up 16% of this market, and given these sectors deal with data that is of historical significance and importance, this sector could serve up a large portion of demand for decentralized, permanent storage. 
+Arweave is set to become the go-to service provider for decentralised long term data storage, providing for Web2 data storage, as well as Web3 data storage requirements. We quantify the TAM by taking into consideration current Web2 cloud storage market, worth **~$75bn**, and projected to grow to at a CAGR over 24% to **$400bn by 2028**. Rising usage of smartphones will add significantly to this demand. 
+
+IT, Telecommunications, and Finance  make up ~40% of this market, and given these sectors deal with data that is of historical significance and importance, this sector could serve up a large portion of demand for decentralized, permanent storage. 
 
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/184432209-40065d28-6210-4d60-8774-9a7b39ebe09f.png">
  
@@ -66,16 +61,12 @@ Arweave’s blockchain and tokenomic model run on 4 core components:
 
 ## AR Tokenomics
 
-The value of AR is derived from: 
-
-1. Transaction fees paid on the network for data storage & data retrieval
-2. Fees from interactions with Permaweb applications
-3. Fees from AR token transfers
  
 Total Supply: 66,000,000 AR (Genesis Block: 55,000,000 AR; Block Rewards: 11,000,000 AR)
 
 Genesis Token distribution: 38.5 % sold. 
-No clarity on the rest.
+
+*No clarity on the rest**
 
 > Advisors (2.9%): 1,595,000 AR
 
@@ -86,18 +77,37 @@ No clarity on the rest.
 > Future Project use (26.5%): 14,575,000 AR
 
 
-## Token Utility
+## Protocol Mechanics
 
+### Value Accrual 
+
+The value of AR is derived from: 
+
+1. Transaction fees paid on the network for data storage & data retrieval
+2. Fees from interactions with Permaweb applications
+3. Fees from AR token transfers
+
+### Token Utility
 * Encoding data into the system and rewarding miners. In order to write a transaction into a block, a user has to pay some AR as a transaction fee. The majority of this fee is stored in a treasury and paid out to miners over time.
 * Paying for permanent data storage. (Upfront costs) – Higher demand for data storage yields higher demand for AR. 
 
+### Revenue Drivers
 
-## Revenue Drivers
+* Upfront costs for data storage: Current cost 0.24 AR/GB translates to roughly $3.2/GB
+* Transaction fees generated from usage of apps built on the blockchain. 50% of the fees are shared with the dapps that generate them.
 
-* Upfront costs for data storage: Current cost 0.26 AR/GB translates to roughly $15.5/GB. 
-* Transaction fees generated off of apps built on the blockchain. 
-* Current Total Data stored: 85.4 TB 
-* Total Revenue generated: $1.3m 
+## Protocol Metrics 
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/185493758-8c48bc20-342f-4fdc-ac23-b50f9fe695b2.png">
+
+As of Jul 2022, 
+
+Total Weave Size: 86.47TB of total data stored on chain. Weave Size is up +705.12% over the last year. 
+Total Transactions: ~350m total transactions since launch, up +1060% over the last year. 
+Total Protocol Revenue: $1.3m in revenue earned since launch, up +1486.1% over the last year. 
+
+Detaled Protocol Metrics and On-chain Analytics can be viewed [here](https://v2.viewblock.io/arweave/stat/txCount?time=month) and [here](https://docs.google.com/spreadsheets/d/1VTatq6I_nFhrukfOEpCG4XpojKIYJMS0qxjoKg9SCsY/edit#gid=963225956) 
+
 
 ## Competitive Landscape 
 
@@ -126,6 +136,13 @@ Opportunities:
 Threats:
 * Over-reliance on Solana growth. 
 * High % of supply of AR concentrated to 9 addresses. 
+
+## Catalysts
+
+* In Dec 2020 - Solana and Arweave partnered for Solana’s high performance data storage needs. This provides Arweave with a constant stream of demand for its storage, and thus, its token. 
+* Decentralized NFT, Gaming, & Social Media apps will all require vast amounts of storage. Currently a single AAA game will require between 25GB-100GB of data storage. NFTs need to be stored permanently. Solana has allocated $100m focused on building the Gaming & NFT ecosystem while they have also partnered with Reddit Founder Alex Ohanian to allocate _another_ $100m for decentralized social media. 
+* Permaweb application development – as more applications look to build for permanence, Arweave will be the main destination. 
+
 
 ## Management & Team
 
