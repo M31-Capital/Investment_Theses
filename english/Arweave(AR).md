@@ -43,7 +43,7 @@ While Arweave may be the go-to blockchain for applications that value permanence
 * Permaweb application development – as more applications look to build for permanence, Arweave will be the main destination. 
 
 
-##Industry Outlook
+## Industry Outlook
 
 Arweave is set to become the go-to service provider for decentralised long term data storage, providing for Web2 data storage, as well as Web3 data storage requirements. We quantify the TAM by taking into consideration current Web2 cloud storage market, worth **~$75bn**, and projected to grow to **$400bn by 2028**. IT and telecommunications makes up 16% of this market, and given these sectors deal with data that is of historical significance and importance, this sector could serve up a large portion of demand for decentralized, permanent storage. 
 
