@@ -125,7 +125,8 @@ The protocol charges a 0.5% to 5% fee per render request, which is sent to the t
 
 ### Utility
 
-RNDR token is used to pay for render requests. 
+RNDR token is used to pay for render requests on the network. 
+
 *(Staking, Rev share, and network security Tokenomics are under re-develpment)* 
 
 
