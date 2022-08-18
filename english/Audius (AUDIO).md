@@ -1,21 +1,22 @@
 # Audius (AUDIO)
 
 * Current Price: $0.37 
-* Token Type:	Utility token for staking, music access and payments
-* Circ. Token Supply: 881.4m (80%)
-* Total Token Supply: 1.1bn
-* Market Capitalisation: $304m
-* Launch: Mainnet: Sept 2019
+* Token Type:	Utility token for a decentralized music platform (Staking, Access, Payments)
+* Circ. Token Supply: 881.4m (80.1%)
+* Max. Token Supply: 1.1bn
+* Market Capitalisation: $326m
+* FDV: $407m
+* Launch: Sept 2019 (Mainnet)
 * Whitepaper: [Audius Whitepaper](https://whitepaper.audius.co/AudiusWhitepaper.pdf)
 
 
 ## Overview 
 
-Audius is a decentralized music streaming platform, that leverages blockchain technology to power distribution of music without the need for an intermediary third party (like a Universal Music, Spotify or Apple Music), directly allowing fans and their artists to interact with each other. 
+Audius is a decentralized music streaming platform that leverages blockchain technology to enable the distribution of music without the need for a third party like Universal Music, Spotify, or Apple Music. Audius enables artists and their fans to interact with each other directly. 
 
 ## Investment Thesis
 
-Before diving into Audius and how they are looking to disrupt the music distribution space, we take a look at what the current industry looks like, and why we think we need these kinds of protocols to exist in order to democratize an increasingly gatekept legacy system. 
+Audius is existentially disruptive to the music distribution industry which has become almost extortionary to artists, providing minimal value while extracting maximal revenue cuts. We evaluate the current state of the music industry to explain how disintermediateing protocols like Audius can democratize an increasingly gatekept legacy system. 
 
 ### Music Distribution is Highly Centralized, and Providers Abuse Power
 
