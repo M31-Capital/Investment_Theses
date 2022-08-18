@@ -126,7 +126,7 @@ Strengths:
 * Data stored on the permaweb is permanently stored.
 
 Weaknesses: 
-* High cost / storage unit as compared to other alternatives - $15/gb vs $0.001/gb for Filecoin or $0.004/gb for Siacoin. Projects or protocols that value short term costs more than permanence will be unlikely to use Arweave.
+* High cost / storage unit as compared to other alternatives - $3.2/gb vs $0.0001/gb for Filecoin or $0.004/gb for Siacoin. Projects or protocols that value short term costs more than permanence will be unlikely to use Arweave.
 
 Opportunities: 
 * Gaming and NFT storage will most likely have to be permanent, leading to potential higher demand for Arweave storage. 
