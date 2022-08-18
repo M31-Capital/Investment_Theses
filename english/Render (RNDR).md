@@ -135,7 +135,7 @@ However, according to the latest data from the team, – the network has:
 * 300 creators  
 * ~2.8M RNDR tokens of transactions on the network. (This implies an annualized revenue of ~$1.4m at current RNDR prices) 
 
-Detailed Network Updates are regularly shared by the team [here.]((https://medium.com/render-token/behind-the-network-a48078658166))
+Detailed Network Updates are regularly shared by the team [here](https://medium.com/render-token/behind-the-network-a48078658166)
 ## SWOT Analysis
 
 Strengths: 
