@@ -1,12 +1,11 @@
 # Render Network (RNDR)
 * Current Price: $0.73
 * Token Type: Utility token for Governance, Staking, Fee sharing and Payments.
-* Circ. Token Supply: 253,798,859 RNDR
-* Max. Token Supply: 530,962,614 RNDR
-* Market Capitalization: 	$210.67m
+* Circ. Token Supply: 253.97m 
+* Max. Token Supply: 530.962m
+* Market Capitalization: $210.67m
 * FDV: $388.5m
 * Launch: April 2020
-
 
 ## Overview
 
