@@ -42,13 +42,6 @@ With the narrative around Metaverses growing – and more and more people transi
 In order for large scale rendering to process, in a decentralised manner,  - an infrastructure of nodes would be required to constantly manage/validate render requests, payments, computations etc– creating an opportunity to actively participate in the network –– in return for economic incentives. 
 
 
-## Catalysts: 
-
-* Deals with Multicoin Capital, Alameda and Solana – to help grow the network – and bring rendering to Solana.
-* Huge influx of users towards Metaverses and gaming. 
-* Already existing user base of Octane Core engine. 
-* GPU growth is exponential – expected market size to be $200bn in the next 5 years. 
-
 
 ## Industry Outlook, TAM & Comparitive Analysis 
 
@@ -168,10 +161,15 @@ Founder: Jules Urbach (Founder and CEO of OTOY)
 
 Team Size: 60+ 
 
+## Catalysts: 
 
-## CRYPTO-NATIVE DILIGENCE
+* Deals with Multicoin Capital, Alameda and Solana – to help grow the network – and bring rendering to Solana.
+* Huge influx of users towards Metaverses and gaming. 
+* Already existing user base of Octane Core engine. 
+* GPU growth is exponential – expected market size to be $200bn in the next 5 years. 
 
-Code Audits
+## CODE AUDITS
+
 
 [Render Token Audit](https://blog.openzeppelin.com/render-token-audit-2a078ba6d759/) 
 
