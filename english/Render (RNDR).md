@@ -10,14 +10,14 @@
 ## Overview
 
 For the last decade, we have been moving towards a world that is more geared towards the virtual, than the physical, and are now entering a phase that looks to further blur the lines between the virtual and the physical. Be it social media, movies, virtual reality, augmented reality – or even holographic worlds – this entire transition away from the physical has a few key components – and one of them is rendering. We’ve always used it – in the movies we’ve seen, the cartoons we watch, or even in professional scale modelling for architects. As the demand for rendering increases, so does the quality and speed of the renderer required. 
-The Render Network offers fast and cheap rendering – that is GPU accelerated, and decentralised. 
+The Render Network offers fast and cheap rendering – that is GPU accelerated, and decentralized. 
 
 
 ## Investment Thesis
 
 **Big Shift towards Virtual  and Augmented Reality, Animation Centric Spaces** 
 
-As we have seen NFTs and the metaverse explode over the last year, and the gaming industry colossally grow over the last decade – it is pretty clear that we are moving towards a more virtual means of social interaction. People spend time socialising on their phones, or “in-game” as opposed to meeting physically – and this is extending beyond just instant messaging or video calls – as games, and now “metaverses” allow you to socially interact in a digital manner – while mimicking all the traits of a regular physical interaction. We have seen this with Fortnite – and in game concerts and events. For all of this to be possible, rendering, and fast rendering is key. In order for this space to scale vertically, rendering must also become magnitudes cheaper. 
+As we have seen NFTs and the metaverse explode over the last year, and the gaming industry colossally grow over the last decade – it is pretty clear that we are moving towards a more virtual means of social interaction. People spend time socializing on their phones, or “in-game” as opposed to meeting physically – and this is extending beyond just instant messaging or video calls – as games, and now “metaverses” allow you to socially interact in a digital manner – while mimicking all the traits of a regular physical interaction. We have seen this with Fortnite – and in game concerts and events. For all of this to be possible, rendering, and fast rendering is key. In order for this space to scale vertically, rendering must also become magnitudes cheaper. 
 
 **Core OTOY Software (Octane Render)**
 
@@ -46,7 +46,7 @@ In order for large scale rendering to process, in a decentralised manner,  - an 
 Currently, the entire 3D rendering market is around $2bn, and is expected to grow at a CAGR of 18.2% to around $8bn by 2025. 
 
 * High adoption of technology and the presence of an advanced technological infrastructure are expected to be prominent trends driving the Visualization and 3D Rendering Software market potential over the forecast period.
-* Increasing demand for video games with better graphics has also led to the use of motion capture and visualizations which is propelling the Visualization and 3D Rendering Software market growth through 2028
+* Increasing demand for video games with better graphics has also led to the use of motion capture and visualizations which is propelling the visualization and 3D Rendering Software market growth through 2028
 
 With the increasing demands for holographic renders – for games, individual creators etc. – this market could easily hit $20bn by 2025. Current competitors are – Corona, Lumion, Keyshot etc. that provide CPU rendering – and AWS, Azzure that provide cloud rendering. 
 
@@ -129,7 +129,7 @@ Detailed Network Updates are regularly shared by the team [here](https://medium.
 
 ## Competitive Landscape
 
-There are no other real competitors within the blockchain space that offer rendering – however, Arweave, Filecoin and Livepeer – offer other forms of decentralised computing power. They all have similar protocol economics – build out a vast array of nodes, incentivised by token rewards, and use the native token to pay for services that the distributed array of nodes can provide. 
+There are no other real competitors within the blockchain space that offer rendering – however, Arweave, Filecoin and Livepeer – offer other forms of decentralised computing power. They all have similar protocol economics – build out a vast array of nodes, incentivized by token rewards, and use the native token to pay for services that the distributed array of nodes can provide. 
 Arweave, Livepeer and Helium and Filecoin are the best comparisons to Render - since they generate explicit revenues for their network usage. 
 
 Explicit fees are the fees that users pay (in the protocol tokens) to render the service of the network. For example - you would pay for storage on Filecoin or Arweave, pay for streaming video on Livepeer, and pay for Data credits on Helium. 
@@ -144,24 +144,24 @@ Looking at Render's Network next to other, similar protocols in the Web3 Space, 
 
 Strengths: 
 
-* Decentralised rendering offers a true service that is better in all aspects than its centralised counterparts – and hence demand will always flow. 
-* Octane render already has an existing user base that uses the centralised version – which they can easily port over to the network. 
+* Decentralized rendering offers a true service that is better in all aspects than its centralized counterparts – and hence demand will always flow. 
+* Octane render already has an existing user base that uses the centralized version – which they can easily port over to the network. 
 * Expansion towards Solana – leveraging a higher throughput than Ethereum. 
 
 Weaknesses:
 
-* The protocol overall is quite centralised – and Octoy seems to control the primary decisions. 
+* The protocol overall is quite centralized – and Octoy seems to control the primary decisions. 
 * Relatively high FDV – indicating major token unlocks could be imminent. 
 
 Opportunities: 
 
-* There is a lot of idle GPU power, and the market is only growing. This can catalyse the network – and increase the pool of power it processes. 
+* There is a lot of idle GPU power, and the market is only growing. This can catalyze the network – and increase the pool of power it processes. 
 * Metaverse and Gaming growth will need rendering – which is fast and scalable (cheap)
 * Existing partnerships with major users of rendering services, like Warner, Disney, HBO
 
 Threats:
 
-* No real threats – apart from centralised control over the network. 
+* No real threats – apart from centralized control over the network. 
 * Potentially, weak token value accrual for holders. 
 
 
