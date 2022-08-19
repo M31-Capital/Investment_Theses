@@ -114,7 +114,7 @@ The protocol charges a 0.5% to 5% fee per render request, which is sent to the t
 
 RNDR token is used to pay for render requests on the network. 
 
-*(Staking, Rev share, and network security Tokenomics are under re-develpment)* 
+*(Staking, Rev share, and network security Tokenomics are under re-development)* 
 
 ## Protocol Metrics
 
@@ -171,7 +171,7 @@ Threats:
 * Huge influx of users towards Metaverses and gaming. 
 * Already existing user base of Octane Core engine. 
 * GPU growth is exponential – expected market size to be $200bn in the next 5 years. 
-* The Ethereum Merge is will occur around the month of September 2022. This will mean that lots of Ethereum PoW mining equipment (CPU processing power) will be unprofitable, and will need to be redirected elsewhere. We believe mining RNDR will be one of the chosen destinations. 
+* The Ethereum Merge is slated to occur around the month of September 2022. This will mean that lots of Ethereum PoW mining equipment (GPU processing power) will be unprofitable, and will need to be redirected elsewhere. We believe mining RNDR will be one of the chosen destinations. 
 * The current network is still in a transition phase, and nodes and users that can access the network are currently capped. Once the network completes its transition state, we should see a larger number of users onboarded that will significantly boost revenues. 
 
 ## Code Audits
