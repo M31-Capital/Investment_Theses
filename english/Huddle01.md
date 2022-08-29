@@ -1,5 +1,10 @@
 # Huddle01 – Decentralising the Web2 Live Video Streaming Stack
 
+
+## Overview
+
+The current audio/video streaming tech stack is highly centralized – not by design, but by need. WebRTC is the backbone of any communication application we use across the internet today – and it alone cannot scale beyond 2-3 users – meaning that centralized infrastructure needs to be used in order to make ‘many to many’ streaming applications possible. Huddle has figured out how to decentralize this critical component of the tech stack, using blockchain and custom tools in order to scale webRTC, without exposing it to centralization of any sorts. Huddle aims to decentralize and scale real time engagement platforms (audio/video live streaming, audio/video conferencing etc.) through the Huddle01 protocol. 
+
 ## Investment Thesis
 
 * A Decentralized Internet Needs Decentralized Methods of Communication (ironically, most of crypto communicates and builds communities around centralized communication tools – Discord, Telegram, Twitter, Zoom)
@@ -9,11 +14,7 @@
 * Huddle will form the infrastructure layer to build streaming applications (Fat Protocol’s Thesis) – Huddle’s scaling infrastructure can see a Zoom integration. Zoom will be able to decentralize, scale and integrate web3 features to its services, directly through Huddle. 
 * Strong web3 feature set – ENS integrations (ability to expand to more across different chains), token gated meetings (allows for DAOs and organizations to leverage Huddle and gate meeting entry – improving the user experience), NFT avatar integrations etc.  
 
-## Overview
-
-The current audio/video streaming tech stack is highly centralized – not by design, but by need. WebRTC is the backbone of any communication application we use across the internet today – and it alone cannot scale beyond 2-3 users – meaning that centralized infrastructure needs to be used in order to make ‘many to many’ streaming applications possible. Huddle has figured out how to decentralize this critical component of the tech stack, using blockchain and custom tools in order to scale webRTC, without exposing it to centralization of any sorts. Huddle aims to decentralize and scale real time engagement platforms (audio/video live streaming, audio/video conferencing etc.) through the Huddle01 protocol. 
-
-## Background
+## Industry Outlook 
 
 ### WebRTC
 
@@ -59,7 +60,7 @@ TLDR: SFU and MCU are the only options to scale webRTC, and both suck.
 
 Security: a DTLS session is initiated and is utilized to exchange security context and data. Audio and Video data are transferred via SRTP protocol using UDP.
 
-## Huddle Protocol Design
+## Huddle Protocol Mechanics
 
 ![image](https://user-images.githubusercontent.com/96482943/173389908-5f04ac20-e720-4ae2-b831-fd7a8b086977.png)
 
@@ -158,15 +159,10 @@ Pay for access to web3 native API and SDK.
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/173389271-e1c7913c-9191-49f7-9b31-f417237ba5a9.png">
 
-Questions: 
-
-* Huddle uses validators (dPoS) for governance and essentially creates an L2 for data availability? 
-* What do the consensus algorithms look like? 
-* What is libp2p?
-* How will users pay for mins? Will there be a subscription-based model that offers users specific number of mins? Or will payment be routed through the protocol token?
-* Open-source risk: can applications leverage the HRTP and HRTCP protocol directly (as in, without an SDK) and build out their own versions without routing through the Huddle protocol?
-* How does HRTP and HRTCP work specifically? 
-* Instead of using Simulcast, could Huddle leverage Livepeer instead? Or is that the plan?
+## Resources 
+* [Website](https://huddle01.com/)
+* [Github](https://github.com/Huddle-01)
+* [Twitter](https://twitter.com/huddle01com)
 
 
 
