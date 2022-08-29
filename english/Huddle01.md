@@ -157,12 +157,19 @@ Pay for access to web3 native API and SDK.
 
 ## Team 
 
+Co-Founder & CEO: [Ayush Ranjan](https://twitter.com/ranjan3118) 
+
+Co-Founder & CTO: [Susmit Lavania](https://twitter.com/Susmit_Lavania) 
+
+Team Size: 20+ 
+
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/173389271-e1c7913c-9191-49f7-9b31-f417237ba5a9.png">
 
 ## Resources 
 * [Website](https://huddle01.com/)
 * [Github](https://github.com/Huddle-01)
 * [Twitter](https://twitter.com/huddle01com)
+* [Discord](https://t.co/p4v456GDHG)
 
 
 
