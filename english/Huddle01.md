@@ -155,7 +155,7 @@ Processes the files to content addressable form ie CAR files and automatically s
 
 Huddle can integrate the below APIs to create web3 native features, like token gated meetings, NFT avatars, ENS integrations, Decentralised Storage, and Decentralised video transcoding 
 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/173389561-72453b58-0266-4202-897d-b458b212f826.png">
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/96482943/173389561-72453b58-0266-4202-897d-b458b212f826.png">
 
 ## Huddle Protocol Mechanics 
 
