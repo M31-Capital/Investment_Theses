@@ -182,8 +182,8 @@ Huddle Network Participants
 
 A subscription model for access to the product, with a freemium version always available.
 
-•	Personal Pro – Upto 50 Participants 
-•	Business – For large meetings upto 100 participants 
+* Personal Pro – Upto 50 Participants 
+* Business – For large meetings upto 100 participants 
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/96482943/189668227-5f9ea4c5-02f4-48c3-ada2-0030077a03eb.png">
 
@@ -205,9 +205,9 @@ Pricing for SDKs will be based on utilization (the total number of participant m
 
 Add ons: 
 
-•	Call Analytics ($500/year)
-•	AR Filter Support
-•	Custom Livestreaming (on YT, FB)
+* Call Analytics ($500/year)
+* AR Filter Support
+* Custom Livestreaming (on YT, FB)
 
 ## Competitive Landscape
 
