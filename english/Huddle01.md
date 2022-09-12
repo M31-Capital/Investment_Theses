@@ -35,11 +35,11 @@ ENS and Unstoppable Domains integrations (ability to expand to more across diffe
 
 The current audio/video streaming tech stack is highly centralized – not by design, but by need. WebRTC is the backbone of any communication application we use across the internet today, and the problem is that it alone cannot scale beyond 2-3 users, meaning that centralized infrastructure needs to be used in order to make ‘many to many’ streaming applications possible. 
 
-Huddle01 doesn’t have much competition within the Web3 space directly, as nobody in building towards scaling the infrastructure itself. Given that the core infrastructure itself is open source, we can look at video conferencing, and streaming applications built on top of the infrastructure to quantify the TAM of the market, and what value Huddle could potentially capture. 
+Huddle01 doesn’t have much competition within the Web3 space directly, as nobody in building towards scaling the infrastructure itself. Given that the [core infrastructure itself is open source](https://webrtc.org/), we can look at video conferencing, and streaming applications built on top of the infrastructure to quantify the TAM of the market, and what value Huddle could potentially capture. 
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/189664005-f8469369-ab69-4666-8c8e-e0b7a3d430e9.png">
 
-Rapidly catalyzed by second order effects of Covid-19 (mainly, remote work), video conferencing applications went from being a once in a while used application, to the daily driver for anyone in any sort of working environment. A quick look at Zoom’s statistics during 2020 and 2021 will put into perspective just how much this space has grown, and will continue to grow, going forward. 
+Rapidly catalyzed by second order effects of Covid-19 (mainly, remote work), video conferencing applications went from being a once in a while used application, to the daily driver for anyone in any sort of working environment. [A quick look at Zoom’s statistics](https://www.trustradius.com/vendor-blog/web-conferencing-statistics-trends) during 2020 and 2021 will put into perspective just how much this space has grown, and will continue to grow, going forward. 
 
 Currently, valued at roughly $8bn, the global video conferencing market is expected to grow to $50bn by 2025. Zoom dominates the space with ~50% market share, as it established itself as the de facto application for video conferencing. Google, Microsoft and Cisco make up a majority of the rest of the market, while much smaller players only have ~4% share. 
 
@@ -49,7 +49,9 @@ Currently, valued at roughly $8bn, the global video conferencing market is expec
 
 In order to establish user to user communication for live engagement applications (live streaming (twitch), audio/video conferencing (zoom), live audio streaming (clubhouse), the technology that is leveraged is called webRTC (Web Real Time Communication Protocol) – an open-source protocol that supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice- and video-communication solutions.
 
-WebRTC is the infrastructure backbone for any sort of communication application we use today. Here is a list of applications that leverage WebRTC infrastructure. You will notice there are over 
+WebRTC is the infrastructure backbone for any sort of communication application we use today. 
+
+Here is a [list of applications](https://www.webrtcworld.com/webrtc-list.aspx) that leverage WebRTC infrastructure. You will notice there are over 
 
 The Problem with WebRTC is that it cannot scale because it uses a P2P mesh network. 
 
