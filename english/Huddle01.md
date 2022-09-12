@@ -51,7 +51,7 @@ In order to establish user to user communication for live engagement application
 
 WebRTC is the infrastructure backbone for any sort of communication application we use today. 
 
-Here is a [list of applications](https://www.webrtcworld.com/webrtc-list.aspx) that leverage WebRTC infrastructure. You will notice there are over 
+Here is a [list of applications](https://www.webrtcworld.com/webrtc-list.aspx) that leverage WebRTC infrastructure. You will notice there are over 150 applications that leverage WebRTC, and this link isn't exhasutive.
 
 The Problem with WebRTC is that it cannot scale because it uses a P2P mesh network. 
 
