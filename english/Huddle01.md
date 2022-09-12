@@ -56,7 +56,7 @@ The Problem with WebRTC is that it cannot scale because it uses a P2P mesh netwo
 P2P, or mesh, is the easiest to set up and most cost-effective architecture you can use in a WebRTC application; it’s also the least scalable. In a mesh topology, two or more peers (clients) talk to each other directly or, when on opposite sides of a firewall, via a TURN server which relays audio, video, and data streaming to them.
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/96482943/189664267-6bb4fd64-c63b-498b-ab72-c9d35d144c56.png">
-*WebRTC Mesh Network
+*WebRTC Mesh Network*
 
 ## Scaling WebRTC
 
@@ -199,9 +199,10 @@ Add ons:
 Pricing for SDKs will be based on utilization (the total number of participant minutes consumed), and the fee varies based on quality of video demanded. Each plan comes with 10,000 free minutes/month and priority support 
 
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/96482943/189668440-c314c24a-38cd-4874-b5c5-21fbe7f7433d.png">
-*Participant Minutes = Total Number of Participants x Call Duration
+*Participant Minutes = Total Number of Participants x Call Duration*
 
 Add ons: 
+
 •	Call Analytics ($500/year)
 •	AR Filter Support
 •	Custom Livestreaming (on YT, FB)
@@ -221,6 +222,7 @@ Team Size: 20+
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/96482943/173389271-e1c7913c-9191-49f7-9b31-f417237ba5a9.png">
 
 ## Resources 
+
 * [Website](https://huddle01.com/)
 * [Github](https://github.com/Huddle-01)
 * [Twitter](https://twitter.com/huddle01com)
