@@ -189,7 +189,7 @@ A subscription model for access to the product, with a freemium version always a
 
 Add ons: 
 
-* Additional Storage: (1 TB - 20$, 3 TB - 50$, )10 TB - 100$
+* Additional Storage: (1 TB - $20, 3 TB - $50, 10 TB - $100)
 * Large Meetings ($10 per event, $50 monthly or $500 yearly)
 * Call Analytics ($500/year)
 * AR Filters (TBD)
