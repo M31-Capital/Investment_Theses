@@ -3,7 +3,8 @@
 ## Overview
 
 We are able to navigate the internet today largely through domain names. We identify popular applications that we use through the website we’re used to hearing. Domain names essentially bridge internet protocol addresses, that look like “192.168.1.1” to a more human readable name, like www.m31.capital. 
-On Ethereum and other layer 1 blockchains, users interact with teh chain using wallets. Their wallet addresses look something like this 0x29D7d1dd5B6f9C864d9db560D72a247c178aE86B; a 42 character hexadecimal string. Obviously, this isn't convenient for users. 
+
+On Ethereum and other Layer 1 blockchains, users interact with the chain using wallets. Their wallet addresses look something like this: 0x29D7d1dd5B6f9C864d9db560D72a247c178aE86B; a 42 character hexadecimal string. Obviously, this isn't convenient for users. ENS does to wallet addresses what domain names did to internet protocol addresses: make them human readable. 
 
 ## Investment Thesis 
 
@@ -17,7 +18,6 @@ ENS essentially becomes a user’s social history tag on Ethereum. Today, we’r
 
 ENS enables ‘Sign in with Ethereum’ which preserves user privacy and data. Domain and subdomain access, completely decentralized. 
 
- <img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/174527115-8cd7e83b-60cd-4ae4-b4bc-4d88d6e743cf.png">
 
 On Ethereum, or even applications outside of Ethereum, users can sign into and access decentralized applications with their ENS domains. Decentralized social media applications will leverage ENS, video conferencing applications will leverage ENS, a user’s in game experience in will leverage ENS, Ethereum messaging applications will leverage ENS, the possibilities are endless. ENS becomes the base social layer for Ethereum. 
 
@@ -44,5 +44,5 @@ This is the core database of the protocol, and is a smart contract that keeps tr
  
  <img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/174529651-d98fa546-46e9-40bb-8d69-1cb7d34ea1ef.png">
 
-
+ <img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/174527115-8cd7e83b-60cd-4ae4-b4bc-4d88d6e743cf.png">
 
