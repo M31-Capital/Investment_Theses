@@ -3,7 +3,7 @@
 ## Overview
 
 We are able to navigate the internet today largely through domain names. We identify popular applications that we use through the website we’re used to hearing. Domain names essentially bridge internet protocol addresses, that look like “192.168.1.1” to a more human readable name, like www.m31.capital. 
-
+On Ethereum and other layer 1 blockchains, users interact with teh chain using wallets. Their wallet addresses look something like this 0x29D7d1dd5B6f9C864d9db560D72a247c178aE86B; a 42 character hexadecimal string. Obviously, this isn't convenient for users. 
 
 ## Investment Thesis 
 
