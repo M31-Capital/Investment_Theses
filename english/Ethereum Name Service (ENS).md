@@ -8,18 +8,17 @@ On Ethereum and other Layer 1 blockchains, users interact with the chain using w
 
 ## Investment Thesis 
 
-### Dot Eth is the new Dot com
+### Major Improvement in Ethereum's UX  
 
 With Ethereum’s focus on being the next infrastructure layer for a decentralized global internet, Ethereum Name Service (ENS) will play a critical role in improving the user experience by 100x. ENS maps human readable names like “m31capital.eth” to machine readable identifiers that Ethereum uses, like wallet addresses, smart contracts, metadata, NFTs etc. ENS becomes the layer of Ethereum that can provide a human readable chain of activity for a user. It becomes the identity bridge to the Ethereum computer. It also makes it much easier to index and make sense of on-chain activity – either from a user point of view, or at a protocol level as well. 
 
 ### The Base Social Layer
 
-ENS essentially becomes a user’s social history tag on Ethereum. Today, we’re used to ‘sign in with google’, or ‘sign in with apple’ which we know has improved the UX of web2 by a major factor, but at a cost of all of user data being mined and sold to advertisers. 
+ENS essentially becomes a user’s social history tag on Ethereum. Today, we’re used to ‘sign in with google’, or ‘sign in with apple’ which we know has improved the UX of web2 by a major factor, but came at a cost of user data privay being violated. 
+While interacting with Ethereum, and eventually applications outside of Ethereum, users can sign into and access decentralized applications with their ENS identity. Decentralized social media applications will leverage ENS, video conferencing applications will leverage ENS, a user’s in game experience in will leverage ENS, Ethereum messaging applications will leverage ENS, the possibilities are endless. ENS becomes the base social layer for Ethereum. 
 
 ENS enables ‘Sign in with Ethereum’ which preserves user privacy and data. Domain and subdomain access, completely decentralized. 
 
-
-On Ethereum, or even applications outside of Ethereum, users can sign into and access decentralized applications with their ENS domains. Decentralized social media applications will leverage ENS, video conferencing applications will leverage ENS, a user’s in game experience in will leverage ENS, Ethereum messaging applications will leverage ENS, the possibilities are endless. ENS becomes the base social layer for Ethereum. 
 
 ### Usage is Soaring
 
