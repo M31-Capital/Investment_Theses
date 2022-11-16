@@ -1,10 +1,10 @@
-# ENS – Bridging Identity across Ethereum
+# ENS – Ethereum's Identity Layer
 
 ## Overview
 
 We are able to navigate the internet today largely through domain names. We identify popular applications that we use through the website we’re used to hearing. Domain names essentially bridge internet protocol addresses, that look like “192.168.1.1” to a more human readable name, like www.m31.capital. 
 
-On Ethereum and other Layer 1 blockchains, users interact with the chain using wallets. Their wallet addresses look something like this: 0x29D7d1dd5B6f9C864d9db560D72a247c178aE86B; a 42 character hexadecimal string. Obviously, this isn't convenient for users. ENS does to wallet addresses what domain names did to internet protocol addresses: make them human readable. 
+On Ethereum, users interact with the chain using wallets. Their wallet addresses look something like this: 0x29D7d1dd5B6f9C864d9db560D72a247c178aE86B; a 42 character hexadecimal string. Obviously, this isn't convenient for users. ENS does to wallet addresses what domain names did to IP addresses: make them human readable. e.g., "m31capital.eth" 
 
 ## Investment Thesis 
 
@@ -37,11 +37,7 @@ This is the core database of the protocol, and is a smart contract that keeps tr
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/96482943/174530844-a5662212-a9f8-470e-892a-d493ce916ae9.png">
 
-### ENS Resolver 
-
- # Revenue Growth 
+ # Revenue 
  
- <img width="750" alt="image" src="https://user-images.githubusercontent.com/96482943/174529651-d98fa546-46e9-40bb-8d69-1cb7d34ea1ef.png">
-
- <img width="600" alt="image" src="https://user-images.githubusercontent.com/96482943/174527115-8cd7e83b-60cd-4ae4-b4bc-4d88d6e743cf.png">
+[x]
 
