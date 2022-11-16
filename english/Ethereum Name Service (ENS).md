@@ -86,9 +86,13 @@ Setting up an ENS domain is something everyone beginning their crypto journey sh
 ## ENS Tokenomics 
 
 The ENS token was launched via an airdrop to the community in November 2021. 
+
 Max supply: 100,000,000 ENS
+
 Team and Contributors: 25% - 25,000,000 ENS
+
 Airdrop: 25% - 25,000,000 ENS
+
 Treasury: 50% - 50,000,000 ENS
 
  <img width="453" alt="image" src="https://user-images.githubusercontent.com/96482943/202222442-48427afb-f17a-4915-ba1d-1302351436da.png">
@@ -123,7 +127,9 @@ There is no quantifiable value accrual mechanism yet for the ENS token, however,
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/96482943/202223075-67a55609-69c6-4f1b-a7c0-52c98518af4c.png">
 
 Total Registrations Since Launch: 2.76m
+
 Registration Growth: +487% YoY 
+
 Renewal Growth: +37% YoY
 
 -	As of Nov 2022, ENS has seen a total of 2.76m registrations, up +487% from 2021 
