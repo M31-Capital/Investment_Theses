@@ -5,7 +5,7 @@
 * Max Token Supply: 100m
 * Market Capitalization: $65.16m
 * 24-hr. Volume: $3.25m
-* Launch: Aug 2021
+* Launch: Aug 2021 
 * Whitepaper: [Tokemak Whitepaper](https://docs.tokemak.xyz/)
 
 
