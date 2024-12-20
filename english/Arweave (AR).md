@@ -1,4 +1,4 @@
-<img width="250" src="https://github.com/user-attachments/assets/ec0d71e8-345c-476d-9e19-8b62889e000b">
+<img width="250" src="https://i.imgur.com/HhgaE7Q.jpeg">
 
 [Arweave (AR)](https://arweave.org/), in collaboration with AO Computer, is the industry’s only **permanent** and **verifiable** decentralized **full-stack** cloud provider, positioning the protocol to potentially become the premier Web3 data storage and hyperscale compute platform. We believe Arweave’s potential TAM and valuation upside is misunderstood and underappreciated by the market, leaving AR with a highly asymmetric risk/reward profile today.
 
@@ -87,7 +87,7 @@ Seven years after the protocol's initial launch, in February 2024, Arweave intro
 
 Arweave’s backbone is the Blockweave data structure. In the Blockweave, each block links to a random set of previous blocks rather than just the last block, creating a 3D weave structure instead of a linear chain.
 
-![image17](https://github.com/user-attachments/assets/998df535-60d0-4990-a0eb-df40a694e840)
+![img](https://i.imgur.com/WLM9iXK.png[/img])
 
 
 **This means that Arweave is not a traditional blockchain.** Instead, the Arweave team took inspiration from blockchains and engineered their own lightweight and data-redundant architecture. 
@@ -95,7 +95,7 @@ Arweave’s backbone is the Blockweave data structure. In the Blockweave, each b
 * **Succinct Random Proof of Access (SPoRA):** Miners in the Arweave network are rewarded for generating new blocks. Since miners must access and verify specified historical blocks to create new ones, they are incentivized to replicate previous blocks. This mechanism increases Arweave’s data security and redundancy while also limiting energy waste.
 
 
-<img width="682" alt="image20" src="https://github.com/user-attachments/assets/69d88692-de62-4575-823b-3774fc3f8f86">
+![img](https://i.imgur.com/Te6oYAm.png[/img])
 
 * **Blockshadows:** Instead of moving massive blocks across the network, Arweave only distributes “shadows” — or block recreation instructions. This separates transaction and block storage, which has enabled 500+ transactions per second and unlimited block sizes on Arweave.  
     
@@ -105,23 +105,23 @@ Arweave’s backbone is the Blockweave data structure. In the Blockweave, each b
 
 Arweave uses the Blockweave for its decentralized version of the Internet called the Permaweb. Anyone can quickly access and upload any file type without fear of future data deletion or censorship. 
 
-<img width="829" alt="image3" src="https://github.com/user-attachments/assets/6cb84e68-46be-48be-94be-a16321742ed3">
+<img width="829" alt="image3" src="https://i.imgur.com/RZhO2Wm.png">
 
 * **Network of Idle Resources:** The permaweb leverages unused hard drive space across its network, similar to how sharing economy platforms like Airbnb work. This model incentivizes data replication and storage capacity, allowing website creators to pay only for the actual storage used rather than for underutilized server capacity. 
 
-![image16](https://github.com/user-attachments/assets/dbb31d61-952f-4605-96c1-17c5324d53be)
+![img](https://i.imgur.com/zQknWeq.png[/img])
 
 ***AO Computer (AO)***
 
 AO Computer is a modular computing layer that stores processes on Arweave’s “data availability layer ". **AO's parallel computing environment unlocks increasingly complex logic and flexible security on blockchains, enabling new onchain categories, including scalable AI/ML (LLMs) and autonomous agents.**
 
-<img width="648" alt="image18" src="https://github.com/user-attachments/assets/3cb67e7a-a766-4e8a-8d79-0b3001642a5a">
+<img width="648" alt="image18" src="https://i.imgur.com/epsXu0y.png">
 
 
 AO stands for Actor Oriented, an homage to the programming language Erlang, which allows concurrent and independent modification of private states. If one state wishes to interact with or modify another, it must communicate with global messages for consensus. AO uses Erlang’s distributed model and uses a three-unit system to organize and execute computations.
 
 
-<img width="468" alt="image4" src="https://github.com/user-attachments/assets/3d5d4328-b495-43b1-92af-ef43ee1c29f7">
+<img width="468" alt="image4" src="https://i.imgur.com/s2FTQsL.png">
 
 
 ***Processes*** 
@@ -132,7 +132,7 @@ To create a process, developers write several parameters, such as the scheduler 
 
 ***AO Units***
 
-![image7](https://github.com/user-attachments/assets/10824760-ae0d-419b-8b1e-4bf4b83f49f6)
+![img](https://i.imgur.com/EmnDUOt.png[/img])
 
 **Messages and Messenger Units (MU):** Messenger Units relay messages by interacting with Scheduler Units (ordering) and Compute Units to fulfill requests. This three unit architecture defines an universal standard across AO processes, ensuring efficient communication between separate private states and applications.
 
@@ -152,7 +152,7 @@ Arweave is critical to AO's architecture because it provides permanent storage f
 
 AO is just one example of Arweave's unbounded hard drive infrastructure. Users can now build on Arweave’s entirely decentralized cloud without any trust assumptions. 
 
-![image2](https://github.com/user-attachments/assets/d2865328-1a31-4bfa-8051-06bb2a8ac6e9)
+![img](https://i.imgur.com/HhOOo7C.png[/img])
   
 *Arweave's multi-layer stack \- Source: Seven7 Ventures* 
 
@@ -175,12 +175,12 @@ It's still early days, but we are extremely excited about the next generation of
 
 **Permanence Guarantee via Endowment:** Users pay a one-time fee in the native AR token to store data permanently on Arweave. This fee is placed into an endowment that generates perpetual revenue for sustained miner services, guaranteeing 200 years of data storage from a one-time user fee. 
 
-![image11](https://github.com/user-attachments/assets/20e602b5-8d46-4dd0-988f-4028c626be41)
+![img](https://i.imgur.com/Q34OCFo.png[/img])
 
 
 **Dynamic Pricing Model:** Arweave conservatively assumes a perpetual 0.5% decrease in storage cost per year, which means the price for indefinite storage is actually a finite number. Mining will then continue as long as the block reward is greater than the cost required to maintain the blockweave for that same period (can be infinite time because marginal storage cost approaches zero). 
 
-![image5](https://github.com/user-attachments/assets/4453bbc7-602c-4e07-8cd6-823315b0714f)
+![img](https://i.imgur.com/nMXfw2n.png[/img])
 
 To maintain stability, Arweave opted for a dollar \- rather than AR \- price range per permanent GB, which has historically ranged between $3 and $8 per GB. Essentially, Arweave’s storage costs only fluctuate based on the network difficulty, which should continue decreasing overtime. 
 
@@ -188,7 +188,7 @@ To maintain stability, Arweave opted for a dollar \- rather than AR \- price ran
 
 **Token Supply:** Arweave started with a Genesis supply of 55 million AR tokens and a maximum circulation of 66 million tokens. New token issuance follows a similar continuous halving model to Bitcoin, with \~64 million AR tokens currently issued. Around 22% of the issued tokens are held by advisors, the project team or reserved for future use. 
 
-![image24](https://github.com/user-attachments/assets/db23575f-6580-4544-8d90-ba2d26d0b788)
+![img](https://i.imgur.com/vhIUNsg.png[/img])
 
 
 **Token Utility:** 
@@ -206,8 +206,8 @@ To maintain stability, Arweave opted for a dollar \- rather than AR \- price ran
 **Token Supply:** AO has a continuous four-year halving cycle with a total supply of 21 million tokens. 
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/d055c86f-5d5a-4354-9a5a-29082ab29c0c" alt="image26" style="width: 45%; margin-right: 10px;">
-    <img src="https://github.com/user-attachments/assets/187d4d98-1480-4840-a604-9c52a2c13fdf" alt="image25" style="width: 30%;">
+    <img src="https://i.imgur.com/6IIfnqJ.jpeg" alt="image26" style="width: 45%; margin-right: 10px;">
+    <img src="https://i.imgur.com/zPz19yE.png" alt="image25" style="width: 30%;">
 </div>
 
 **Token Utility:**
@@ -267,7 +267,7 @@ To maintain stability, Arweave opted for a dollar \- rather than AR \- price ran
 
 Given Arweave’s novel networking architecture and functionality (mix of L1 and cloud services), there are no perfect liquid comps, yet we believe it’s appropriate to compare the protocol to both L1s smart contract platforms and non-L1 cloud services platforms. AR’s peers have a wide range of valuations, but average $47.6B in FDV today, representing 25.9x upside to Arweave’s current FDV.
 
-![image10](https://github.com/user-attachments/assets/1ffd6af7-8d67-49c6-8211-4042254b73be)
+![img](https://i.imgur.com/ufjxuFm.png[/img])
 
 
 ## ***Total Addressable Market (TAM) & Upside Potential***
@@ -275,15 +275,15 @@ Given Arweave’s novel networking architecture and functionality (mix of L1 and
 [Grand View Research](https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry#:~:text=The%20global%20cloud%20computing%20market%20size%20was%20estimated,are%20realizing%20the%20transformative%20power%20of%20cloud%20computing.) projects the global Web2 cloud computing market will grow 21.2% from 2023 to 2030, but for simplicity we assume a 20% CAGR over the time period. If Web3 can penetrate 5% of the cloud market by 2030, we believe a reasonable assumption for an upside scenario, Arweave’s TAM will be $108B. Looking at current market share dynamics in Web2, if Arweave can become a leading player in the category (top 3), they’ll likely capture 20% of the Web3 market. Applying a 10x multiple in 2030, which is reasonable given the implied revenue growth rate, Arweave would be worth $216B, ***representing an attractive 117x upside to today’s valuation\!***
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/3e5e431c-7309-4846-800c-737738b53a84" alt="image14" style="width: 50%; margin-right: 10px;">
-    <img src="https://github.com/user-attachments/assets/bbfc7ef0-2a38-4ec4-ba29-0d07c5f40078" alt="image9" style="width: 35%;">
+    <img src="https://i.imgur.com/J1f7DF9.png" alt="image14" style="width: 50%; margin-right: 10px;">
+    <img src="https://i.imgur.com/BxHsDNi.png" alt="image9" style="width: 35%;">
 </div>
 
-![image8](https://github.com/user-attachments/assets/3ca89011-0103-4705-bc74-f3fd20d8661f)
+![img](https://i.imgur.com/dSBdtye.png[/img])
 
 Sensitivity tables across different input assumptions:
 
-![image19](https://github.com/user-attachments/assets/32c24c1e-7582-42f9-af5b-20aaa8ad24b4)
+![img](https://i.imgur.com/GRt02r3.png[/img])
 
 
 # **7. STATE OF THE PROTOCOL** 
@@ -300,11 +300,11 @@ From June 2023 to June 2024, total data stored on Arweave increased from 130TB t
 * **Media and Content Storage:** As of July 2024, Arweave hosts over 4.2 million pieces of decentralized media, including images, videos, and articles. Popular decentralized content platforms like Lens Protocol and Ceramic Network have significantly expanded their use of Arweave's permanent storage.
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/e167beaa-56e8-4e15-957f-ddaf12b00bdd" alt="image23" style="margin-right: 10px; width: 45%;">
-    <img src="https://github.com/user-attachments/assets/2574b092-e4df-4ae6-adf5-dbd05ff5901a" alt="image22" style="width: 45%; ">
+    <img src="https://i.imgur.com/IVo0kPJ.png" alt="image23" style="margin-right: 10px; width: 45%;">
+    <img src="https://i.imgur.com/F9qsOG6.png" alt="image22" style="width: 45%; ">
 </div>
 
-<img width="896" alt="image21" src="https://github.com/user-attachments/assets/e29ede9e-5716-4460-9629-dee347d9be70">
+<img width="896" alt="image21" src="https://i.imgur.com/SyFCick.png">
 
 
 ***Protocols Building on Arweave***
@@ -319,14 +319,14 @@ From June 2023 to June 2024, total data stored on Arweave increased from 130TB t
 
 * **WeaveDB:** A decentralized NoSQL database built on Arweave, providing developers with a scalable and permanent data storage solution for Web3 applications.
 
-![image1](https://github.com/user-attachments/assets/93459975-0444-490c-82ea-7f23f6479461)
+![img](https://i.imgur.com/6dSHexM.jpeg[/img])
 
 
 ***AO Computer Traction***
 
 The AO ecosystem experienced explosive growth during its testnet phase starting in February 2024, with over 116M messages processed and a peak of 5K daily users. However, daily users in July 2024  stabilized around 2K, which highlights a decline, but nonetheless steady developer activity after quest rewards. 
 
-![image12](https://github.com/user-attachments/assets/36c31132-0770-433b-bade-71b807496ea5)
+![img](https://i.imgur.com/aOz0w1y.png[/img])
 
 
 ***Protocols Building on AO***
@@ -341,7 +341,7 @@ The AO ecosystem experienced explosive growth during its testnet phase starting 
 
 * **Permaswap, ArSwap, and Bark:** These DEX platforms offer various asset exchanges, with Permaswap achieving $200,000+ in TVL, ArSwap reporting over $1 million in daily trading volume, and Bark seeing 500+ daily active users.
 
-![image6](https://github.com/user-attachments/assets/0cdaf1aa-ef38-4048-82f0-d452760db915)
+![img](https://i.imgur.com/IaibLaz.jpeg[/img])
 
 ***Leadership & Developer Community*** 
 
