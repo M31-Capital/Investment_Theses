@@ -5,10 +5,10 @@
 |  | LAUNCH | ENTRY | CURRENT |
 | :---- | :---: | :---: | :---: |
 | **Date:** | January 2024 | June 2024 | August 2024 |
-| **Price:** | $0.094 | $0.05 OTC (Market @ $0.10) | $0.041 |
-| **Circulating Market Cap:** | $5.0m | $25.0m  | $10.4m  |
-| **Fully Diluted Market Cap:**  | $126.0m | $134.0m  | $54.9m |
-| **Circulating Supply:**  | 53.4m SQD (4.0%) | 180.5m SQD (13.5%) | 251.4m SQD (18.8%) |
+| **Price:** | $0.094 | $0.05 OTC (Market @ $0.10) | $0.17 |
+| **Circulating Market Cap:** | $5.0m | $25.0m  | $120.0m  |
+| **Fully Diluted Market Cap:**  | $126.0m | $134.0m  | $220.0m |
+| **Circulating Supply:**  | 53.4m SQD (4.0%) | 180.5m SQD (13.5%) | 727.5m SQD (54.5%) |
 | **Max Supply:**  | 1.34b SQD | 1.34b SQD | 1.34b SQD |
 
 **INVESTMENT THESIS**
