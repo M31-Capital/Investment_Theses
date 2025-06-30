@@ -4,7 +4,7 @@
 
 |  | LAUNCH | ENTRY | CURRENT |
 | :---- | :---: | :---: | :---: |
-| **Date:** | January 2024 | June 2024 | August 2024 |
+| **Date:** | January 2024 | June 2024 | June 2025 |
 | **Price:** | $0.094 | $0.05 OTC (Market @ $0.10) | $0.17 |
 | **Circulating Market Cap:** | $5.0m | $25.0m  | $120.0m  |
 | **Fully Diluted Market Cap:**  | $126.0m | $134.0m  | $220.0m |
